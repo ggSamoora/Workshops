@@ -1,0 +1,2438 @@
+city,num_of_rooms,num_of_bathrooms,furnished,size_in_m2,floor,age,rental_type,rental_price
+Muscat,Two,Two,Not furnished,130,Ground floor,One to five years,Monthly,650
+Dhofar,Two,Two,Fully furnished,95,Ground floor,One to five years,Daily,18
+Muscat,One,Two,Not furnished,75,Third floor,Zero to eleven months,Yearly,225
+Muscat,Two,Two,Not furnished,100,Sixth floor and up,One to five years,Yearly,350
+Dhofar,Two,Two,Fully furnished,600,Basement floor,Zero to eleven months,Daily,20
+Muscat,Two,Three,Not furnished,120,Third floor,Zero to eleven months,Yearly,250
+Muscat,Two,Two,Not furnished,70,Sixth floor and up,Six to nine years,Yearly,250
+Muscat,Two,Two,Not furnished,70,Second floor,One to five years,Yearly,185
+Muscat,Two,Two,Fully furnished,333,Fifth floor,One to five years,Daily,22
+Al Batinah,Three,Three,Not furnished,100,Ground floor,Six to nine years,Yearly,170
+Dhofar,Two,Two,Fully furnished,100,First floor,Six to nine years,Monthly,110
+Muscat,Three,Three,Not furnished,100,First floor,One to five years,Yearly,180
+Muscat,Two,Three,Not furnished,100,Sixth floor and up,Zero to eleven months,Monthly,300
+Muscat,Two,Three,Fully furnished,100,Second floor,Zero to eleven months,Daily,15
+Muscat,One,Two,Fully furnished,65,Fifth floor,One to five years,Monthly,15
+Muscat,Two,Two,Fully furnished,110,Second floor,One to five years,Monthly,220
+Dhofar,Two,Two,Partially furnished,115,Fourth floor,Six to nine years,Monthly,110
+Muscat,One,Two,Fully furnished,65,First floor,One to five years,Monthly,15
+Muscat,Two,Three,Fully furnished,100,Third floor,One to five years,Monthly,20
+Muscat,Three,Three,Not furnished,170,Fifth floor,One to five years,Yearly,350
+Muscat,Two,Three,Fully furnished,110,Second floor,One to five years,Daily,20
+Muscat,Two,Two,Fully furnished,110,Sixth floor and up,One to five years,Yearly,320
+Muscat,Two,Two,Not furnished,120,Sixth floor and up,One to five years,Yearly,230
+Dhofar,Two,Two,Fully furnished,75,Second floor,ten to nineteen years,Yearly,110
+Muscat,Two,Two,Fully furnished,100,Fifth floor,One to five years,Daily,25
+Al Batinah,Three,Two,Not furnished,60,Second floor,ten to nineteen years,Yearly,120
+Dhofar,One,One,Fully furnished,67,First floor,Zero to eleven months,Daily,35
+Dhofar,Two,Two,Fully furnished,94,Ground floor,Six to nine years,Daily,15
+Muscat,Two,Two,Fully furnished,92,Fourth floor,One to five years,Daily,25
+Muscat,Two,Two,Not furnished,100,Second floor,Zero to eleven months,Yearly,400
+Muscat,Two,Three,Not furnished,120,Fourth floor,Zero to eleven months,Yearly,240
+Muscat,Three,Three,Not furnished,120,Ground floor,One to five years,Monthly,240
+Muscat,Three,Three,Fully furnished,100,Second floor,Zero to eleven months,Yearly,400
+Muscat,Two,Three,Not furnished,100,First floor,Zero to eleven months,Yearly,230
+Dhofar,Two,Two,Fully furnished,90,Third floor,Six to nine years,Monthly,120
+Muscat,Two,Three,Fully furnished,87,Fourth floor,One to five years,Yearly,330
+Al Buraimi,Two,One,Fully furnished,50,Ground floor,One to five years,Monthly,50
+Dhofar,Two,Two,Not furnished,110,Third floor,Six to nine years,Monthly,110
+Dhofar,Two,Two,Fully furnished,110,Second floor,Six to nine years,Monthly,120
+Muscat,Two,Two,Fully furnished,100,First floor,One to five years,Daily,20
+Muscat,Two,Two,Not furnished,130,First floor,Six to nine years,Monthly,220
+Muscat,Two,Three,Fully furnished,112,Fifth floor,One to five years,Daily,20
+Dhofar,Two,Two,Fully furnished,700,First floor,Zero to eleven months,Daily,25
+Muscat,One,Two,Not furnished,80,Fifth floor,Zero to eleven months,Yearly,180
+Muscat,Two,Two,Fully furnished,100,Second floor,Zero to eleven months,Monthly,350
+Muscat,One,Two,Fully furnished,95,First floor,Zero to eleven months,Monthly,240
+Dhofar,Two,Two,Fully furnished,350,Fifth floor,One to five years,Monthly,100
+Muscat,Three,Three,Not furnished,180,Sixth floor and up,One to five years,Monthly,330
+Muscat,Two,Two,Fully furnished,500,Third floor,One to five years,Monthly,20
+Muscat,Two,Two,Fully furnished,100,Fourth floor,One to five years,Daily,20
+Muscat,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Daily,15
+Muscat,Two,Two,Not furnished,98,First floor,One to five years,Monthly,350
+Muscat,Three,Three,Not furnished,300,Ground floor,Six to nine years,Monthly,450
+Muscat,One,Two,Not furnished,80,First floor,One to five years,Yearly,170
+Muscat,One,Two,Not furnished,90,First floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,70,First floor,One to five years,Yearly,250
+Muscat,Two,Two,Fully furnished,80,First floor,Zero to eleven months,Daily,18
+Dhofar,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Monthly,140
+Dhofar,One,One,Fully furnished,75,Third floor,One to five years,Daily,10
+Muscat,Studio,Two,Not furnished,70,Sixth floor and up,One to five years,Monthly,180
+Muscat,Two,Two,Fully furnished,85,Third floor,One to five years,Monthly,380
+Muscat,Two,Two,Fully furnished,100,Second floor,Zero to eleven months,Daily,19
+Muscat,Two,Three,Not furnished,98,Second floor,One to five years,Yearly,160
+Muscat,Two,Two,Fully furnished,120,First floor,One to five years,Daily,19
+Muscat,Two,Two,Not furnished,109,Fourth floor,One to five years,Yearly,330
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,130
+Muscat,Two,Two,Not furnished,85,Fifth floor,One to five years,Monthly,260
+Muscat,One,Two,Not furnished,90,Second floor,One to five years,Monthly,150
+Muscat,Two,Three,Not furnished,140,Fourth floor,One to five years,Yearly,400
+Muscat,Two,Two,Fully furnished,100,Third floor,Zero to eleven months,Daily,15
+Muscat,One,One,Fully furnished,75,Fourth floor,One to five years,Daily,25
+Muscat,Two,Three,Not furnished,100,Sixth floor and up,One to five years,Yearly,250
+Muscat,Two,Three,Not furnished,130,Fifth floor,One to five years,Yearly,240
+Muscat,Three,Two,Partially furnished,120,Second floor,Six to nine years,Monthly,160
+Al Batinah,Two,Two,Not furnished,90,Ground floor,One to five years,Yearly,125
+Muscat,Two,Two,Not furnished,100,Sixth floor and up,One to five years,Monthly,200
+Dhofar,Two,Two,Fully furnished,160,Second floor,Zero to eleven months,Monthly,140
+Muscat,Two,Three,Fully furnished,110,First floor,One to five years,Weekly,14
+Muscat,Two,Two,Not furnished,115,Second floor,Zero to eleven months,Yearly,150
+Muscat,Two,Two,Fully furnished,100,Fourth floor,Zero to eleven months,Monthly,220
+Muscat,Two,Two,Not furnished,90,First floor,One to five years,Yearly,250
+Muscat,Three,Three,Fully furnished,125,Fifth floor,Six to nine years,Yearly,500
+Muscat,Two,Two,Fully furnished,120,Fifth floor,Six to nine years,Yearly,400
+Muscat,One,One,Fully furnished,95,Second floor,Six to nine years,Yearly,350
+Al Batinah,Studio,Two,Fully furnished,500,Ground floor,Zero to eleven months,Daily,10
+Muscat,Studio,One,Fully furnished,50,Sixth floor and up,Zero to eleven months,Yearly,65
+Dhofar,Two,Two,Fully furnished,120,Second floor,Zero to eleven months,Monthly,80
+Muscat,Two,Two,Fully furnished,80,Sixth floor and up,ten to nineteen years,Monthly,330
+Muscat,Three,Two,Not furnished,90,First floor,Zero to eleven months,Monthly,200
+Muscat,Two,Two,Fully furnished,90,Sixth floor and up,One to five years,Daily,20
+Dhofar,Two,Two,Fully furnished,65,Ground floor,One to five years,Daily,25
+Muscat,Three,Two,Not furnished,210,Ground floor,One to five years,Yearly,210
+Muscat,Two,Two,Fully furnished,70,Basement floor,One to five years,Yearly,67
+Dhofar,Two,Two,Fully furnished,350,Third floor,One to five years,Monthly,95
+Muscat,Studio,One,Fully furnished,100,Fifth floor,ten to nineteen years,Monthly,250
+Muscat,Three,Three,Fully furnished,110,Fourth floor,Six to nine years,Yearly,180
+Muscat,Two,Two,Partially furnished,90,Sixth floor and up,One to five years,Monthly,310
+Muscat,Two,Two,Fully furnished,95,Fifth floor,Zero to eleven months,Daily,50
+Muscat,Two,Two,Not furnished,125,Fifth floor,One to five years,Yearly,230
+Muscat,Two,One,Not furnished,75,Fourth floor,One to five years,Yearly,150
+Muscat,Three,Two,Not furnished,100,First floor,ten to nineteen years,Monthly,175
+Muscat,Two,Two,Partially furnished,200,Third floor,One to five years,Monthly,345
+Muscat,Three,Three,Not furnished,209,First floor,Six to nine years,Monthly,350
+Muscat,Two,Two,Not furnished,200,Second floor,Six to nine years,Monthly,220
+Muscat,Three,Three,Not furnished,125,Third floor,One to five years,Yearly,400
+Muscat,Two,Three,Not furnished,90,First floor,One to five years,Monthly,200
+Muscat,Two,Two,Not furnished,95,Third floor,One to five years,Yearly,330
+Muscat,Two,Three,Fully furnished,110,Fifth floor,One to five years,Monthly,20
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,160
+Al Batinah,Two,Two,Partially furnished,70,Second floor,Zero to eleven months,Monthly,100
+Muscat,Three,Three,Not furnished,85,Second floor,One to five years,Yearly,190
+Muscat,Two,Two,Not furnished,87,Fourth floor,One to five years,Yearly,260
+Dhofar,Two,Two,Fully furnished,600,Fifth floor,One to five years,Monthly,15
+Muscat,Two,Two,Fully furnished,95,Fifth floor,Zero to eleven months,Daily,50
+Dhofar,Two,Two,Fully furnished,50,First floor,One to five years,Daily,12
+Dhofar,Two,Two,Fully furnished,200,Ground floor,One to five years,Monthly,100
+Muscat,Four,Three,Partially furnished,80,Ground floor,Six to nine years,Monthly,300
+Muscat,Two,Two,Not furnished,130,Ground floor,One to five years,Monthly,650
+Dhofar,Two,Two,Fully furnished,95,Ground floor,One to five years,Daily,18
+Muscat,Two,Two,Not furnished,85,Fourth floor,One to five years,Monthly,160
+Muscat,Two,Two,Not furnished,85,Fourth floor,One to five years,Monthly,160
+Muscat,One,Two,Not furnished,75,Third floor,Zero to eleven months,Yearly,225
+Muscat,Two,Two,Not furnished,100,Sixth floor and up,One to five years,Yearly,350
+Muscat,Three,Three,Not furnished,120,First floor,One to five years,Yearly,200
+Muscat,Four,One,Not furnished,400,First floor,Six to nine years,Monthly,380
+Dhofar,Three,Three,Fully furnished,250,First floor,Zero to eleven months,Monthly,300
+Dhofar,Two,Two,Fully furnished,600,Basement floor,Zero to eleven months,Daily,20
+Muscat,Two,Three,Not furnished,120,Third floor,Zero to eleven months,Yearly,250
+Dhofar,Two,Two,Fully furnished,600,First floor,One to five years,Daily,100
+Al Batinah,Studio,Two,Fully furnished,100,Third floor,One to five years,Yearly,170
+Muscat,Two,Two,Not furnished,70,Sixth floor and up,Six to nine years,Yearly,250
+Muscat,Two,Two,Not furnished,70,Second floor,One to five years,Yearly,185
+Dhofar,Two,Two,Fully furnished,200,First floor,Zero to eleven months,Yearly,105
+Muscat,Two,Two,Partially furnished,87,Second floor,One to five years,Yearly,180
+Muscat,Two,Two,Fully furnished,333,Fifth floor,One to five years,Daily,22
+Al Batinah,Three,Three,Not furnished,100,Ground floor,Six to nine years,Yearly,170
+Muscat,Two,Two,Partially furnished,120,First floor,Zero to eleven months,Monthly,250
+Dhofar,Two,Two,Fully furnished,100,First floor,Six to nine years,Monthly,110
+Muscat,Three,Three,Not furnished,100,First floor,One to five years,Yearly,180
+Ad Dakhiliyah,One,Two,Fully furnished,70,Ground floor,One to five years,Daily,120
+Muscat,Studio,One,Not furnished,80,First floor,Six to nine years,Yearly,170
+Muscat,Two,Three,Not furnished,100,Sixth floor and up,Zero to eleven months,Monthly,300
+Muscat,Two,Three,Fully furnished,100,Second floor,Zero to eleven months,Daily,15
+Muscat,One,Two,Fully furnished,65,Fifth floor,One to five years,Monthly,15
+Muscat,Two,Two,Not furnished,89,Third floor,One to five years,Monthly,150
+Muscat,Studio,One,Not furnished,150,First floor,Zero to eleven months,Monthly,80
+Muscat,Two,Two,Fully furnished,110,Second floor,One to five years,Monthly,220
+Muscat,One,One,Partially furnished,60,Ground floor,One to five years,Monthly,160
+Dhofar,Two,Two,Partially furnished,115,Fourth floor,Six to nine years,Monthly,110
+Muscat,One,Two,Fully furnished,65,First floor,One to five years,Monthly,15
+Muscat,Two,Three,Fully furnished,100,Third floor,One to five years,Monthly,20
+Muscat,Three,Three,Not furnished,170,Fifth floor,One to five years,Yearly,350
+Muscat,One,Two,Partially furnished,95,Second floor,One to five years,Yearly,180
+Muscat,Two,Three,Partially furnished,148,Ground floor,One to five years,Monthly,190
+Muscat,Three,Three,Not furnished,120,Third floor,Six to nine years,Monthly,160
+Muscat,Two,Three,Fully furnished,110,Second floor,One to five years,Daily,20
+Muscat,Two,Two,Not furnished,90,Second floor,One to five years,Monthly,130
+Muscat,Two,Two,Fully furnished,110,Sixth floor and up,One to five years,Yearly,320
+Muscat,Two,Two,Not furnished,120,Sixth floor and up,One to five years,Yearly,230
+Muscat,One,Two,Not furnished,100,First floor,Six to nine years,Yearly,120
+Muscat,Two,Two,Not furnished,100,First floor,ten to nineteen years,Yearly,120
+Muscat,One,Two,Not furnished,80,Ground floor,Six to nine years,Yearly,90
+Muscat,Two,Three,Fully furnished,107,Second floor,One to five years,Yearly,180
+Muscat,Three,Three,Fully furnished,130,First floor,Zero to eleven months,Monthly,85
+Dhofar,Two,Two,Fully furnished,75,Second floor,ten to nineteen years,Yearly,110
+Muscat,Two,Three,Not furnished,115,Third floor,One to five years,Yearly,135
+Muscat,Two,Two,Fully furnished,100,Fifth floor,One to five years,Daily,25
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Yearly,225
+Al Batinah,Three,Two,Not furnished,60,Second floor,ten to nineteen years,Yearly,120
+Muscat,Two,Three,Fully furnished,110,Second floor,One to five years,Monthly,180
+Muscat,One,One,Not furnished,60,First floor,One to five years,Monthly,120
+Dhofar,One,One,Fully furnished,67,First floor,Zero to eleven months,Daily,35
+Dhofar,Two,Two,Fully furnished,100,Third floor,Zero to eleven months,Daily,10
+Dhofar,Two,Two,Fully furnished,94,Ground floor,Six to nine years,Daily,15
+Muscat,Two,Two,Not furnished,140,Second floor,Six to nine years,Yearly,250
+Muscat,Two,Two,Not furnished,100,Ground floor,Zero to eleven months,Monthly,145
+Muscat,Two,Two,Fully furnished,92,Fourth floor,One to five years,Daily,25
+Muscat,Two,Two,Not furnished,100,Second floor,Zero to eleven months,Yearly,400
+Muscat,Two,Three,Not furnished,120,Fourth floor,Zero to eleven months,Yearly,240
+Muscat,Three,Three,Not furnished,120,Ground floor,One to five years,Monthly,240
+Muscat,One,One,Not furnished,130,First floor,One to five years,Monthly,130
+Muscat,Three,Three,Fully furnished,100,Second floor,Zero to eleven months,Yearly,400
+Muscat,Two,Three,Not furnished,100,First floor,Zero to eleven months,Yearly,230
+Dhofar,Two,Two,Fully furnished,90,Third floor,Six to nine years,Monthly,120
+Muscat,Two,Three,Fully furnished,87,Fourth floor,One to five years,Yearly,330
+Dhofar,Two,Two,Fully furnished,600,Second floor,One to five years,Monthly,110
+Muscat,Two,Three,Not furnished,120,First floor,Zero to eleven months,Yearly,250
+Al Buraimi,Two,One,Fully furnished,50,Ground floor,One to five years,Monthly,50
+Dhofar,Three,Three,Fully furnished,100,Ground floor,One to five years,Yearly,140
+Muscat,One,One,Not furnished,180,Ground floor,One to five years,Monthly,200
+Muscat,One,Two,Not furnished,90,First floor,Zero to eleven months,Yearly,220
+Dhofar,Two,Two,Not furnished,110,Third floor,Six to nine years,Monthly,110
+Muscat,Two,Three,Not furnished,120,Third floor,Zero to eleven months,Yearly,240
+Dhofar,Two,Two,Fully furnished,110,Second floor,Six to nine years,Monthly,120
+Muscat,Two,Two,Fully furnished,100,First floor,One to five years,Daily,20
+Muscat,Two,Two,Not furnished,130,First floor,Six to nine years,Monthly,220
+Muscat,Two,Three,Fully furnished,112,Fifth floor,One to five years,Daily,20
+Muscat,Studio,One,Fully furnished,100,First floor,Zero to eleven months,Monthly,160
+Muscat,Two,Two,Fully furnished,150,First floor,Zero to eleven months,Monthly,300
+Al Batinah,Two,Three,Fully furnished,100,Ground floor,Six to nine years,Monthly,200
+Al Batinah,One,Two,Not furnished,60,Ground floor,One to five years,Monthly,100
+Muscat,Studio,One,Not furnished,100,First floor,Zero to eleven months,Monthly,140
+Muscat,Two,Two,Fully furnished,150,First floor,Zero to eleven months,Monthly,300
+Dhofar,Two,Two,Fully furnished,700,First floor,Zero to eleven months,Daily,25
+Muscat,One,One,Fully furnished,100,First floor,Zero to eleven months,Monthly,175
+Muscat,One,One,Fully furnished,100,First floor,Zero to eleven months,Monthly,220
+Muscat,One,Two,Not furnished,80,Fifth floor,Zero to eleven months,Yearly,180
+Muscat,Two,Two,Fully furnished,100,Second floor,Zero to eleven months,Monthly,350
+Muscat,One,Two,Fully furnished,95,First floor,Zero to eleven months,Monthly,240
+Muscat,Two,Two,Fully furnished,99,Sixth floor and up,Zero to eleven months,Monthly,230
+Dhofar,Two,Two,Fully furnished,350,Fifth floor,One to five years,Monthly,100
+Muscat,One,One,Not furnished,180,Ground floor,One to five years,Monthly,200
+Muscat,One,One,Partially furnished,180,Ground floor,One to five years,Monthly,200
+Muscat,Studio,One,Not furnished,100,First floor,One to five years,Monthly,120
+Muscat,Four,Three,Not furnished,130,Second floor,One to five years,Yearly,165
+Dhofar,Two,Two,Fully furnished,93,Third floor,Zero to eleven months,Yearly,220
+Muscat,Three,Two,Fully furnished,88,Ground floor,ten to nineteen years,Monthly,160
+Muscat,Two,Three,Not furnished,135,Ground floor,One to five years,Monthly,225
+Dhofar,Two,Two,Fully furnished,187,Ground floor,One to five years,Yearly,120
+Muscat,Three,Three,Not furnished,180,Sixth floor and up,One to five years,Monthly,330
+Muscat,Two,Two,Fully furnished,500,Third floor,One to five years,Monthly,20
+Muscat,Two,Two,Fully furnished,100,Fourth floor,One to five years,Daily,20
+Muscat,Three,Two,Fully furnished,88,Ground floor,Six to nine years,Monthly,160
+Muscat,Two,Three,Not furnished,140,Ground floor,One to five years,Yearly,180
+Muscat,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Daily,15
+Muscat,Two,Two,Not furnished,98,First floor,One to five years,Monthly,350
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,400
+Muscat,Three,Three,Not furnished,300,Ground floor,Six to nine years,Monthly,450
+Al Batinah,Two,Two,Partially furnished,350,Ground floor,ten to nineteen years,Monthly,140
+Muscat,One,Two,Not furnished,80,First floor,One to five years,Yearly,170
+Al Batinah,Two,Two,Partially furnished,350,Ground floor,ten to nineteen years,Monthly,140
+Muscat,One,Two,Not furnished,80,First floor,One to five years,Yearly,170
+Muscat,One,Two,Not furnished,90,First floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,70,First floor,One to five years,Yearly,250
+Muscat,Two,Two,Fully furnished,80,First floor,Zero to eleven months,Daily,18
+Dhofar,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Monthly,140
+Dhofar,One,One,Fully furnished,75,Third floor,One to five years,Daily,10
+Dhofar,Two,Two,Fully furnished,100,Ground floor,Six to nine years,Yearly,130
+Muscat,Studio,Two,Not furnished,70,Sixth floor and up,One to five years,Monthly,180
+Muscat,Two,Two,Fully furnished,85,Third floor,One to five years,Monthly,380
+Muscat,Two,Two,Fully furnished,200,Fifth floor,One to five years,Monthly,300
+Muscat,Two,Three,Partially furnished,120,First floor,Six to nine years,Yearly,350
+Muscat,Two,Two,Fully furnished,100,Second floor,Zero to eleven months,Daily,19
+Al Batinah,Two,Two,Not furnished,200,Ground floor,One to five years,Monthly,130
+Al Batinah,Two,Two,Not furnished,100,Second floor,Zero to eleven months,Yearly,100
+Muscat,Two,Three,Not furnished,98,Second floor,One to five years,Yearly,160
+Muscat,Two,Two,Fully furnished,120,First floor,One to five years,Daily,19
+Muscat,Two,Two,Not furnished,109,Fourth floor,One to five years,Yearly,330
+Muscat,One,Two,Not furnished,95,First floor,Six to nine years,Yearly,500
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,130
+Muscat,Two,Two,Not furnished,85,Fifth floor,One to five years,Monthly,260
+Muscat,Two,Three,Partially furnished,140,Fifth floor,One to five years,Yearly,410
+Muscat,One,Two,Not furnished,90,Second floor,One to five years,Monthly,150
+Muscat,Three,Three,Not furnished,200,First floor,One to five years,Yearly,500
+Muscat,One,One,Not furnished,60,Second floor,One to five years,Yearly,210
+Al Batinah,Two,Two,Not furnished,101,Ground floor,One to five years,Monthly,150
+Muscat,Two,Three,Not furnished,120,Fifth floor,One to five years,Yearly,275
+Muscat,Two,Three,Not furnished,140,Third floor,One to five years,Yearly,400
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,325
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,250
+Muscat,Two,Three,Not furnished,140,Fourth floor,One to five years,Yearly,400
+Muscat,Two,Two,Fully furnished,100,Third floor,Zero to eleven months,Daily,15
+Muscat,Two,Two,Not furnished,110,First floor,Six to nine years,Yearly,210
+Ash Sharqiyah,Three,Three,Partially furnished,210,Ground floor,One to five years,Monthly,150
+Muscat,Three,Three,Not furnished,250,First floor,One to five years,Yearly,250
+Ad Dakhiliyah,Three,Three,Not furnished,161,Third floor,One to five years,Monthly,160
+Muscat,Three,Three,Not furnished,250,First floor,One to five years,Yearly,230
+Muscat,Two,Three,Fully furnished,111,Sixth floor and up,One to five years,Yearly,230
+Muscat,One,Two,Fully furnished,80,Sixth floor and up,Zero to eleven months,Daily,10
+Muscat,One,One,Fully furnished,75,Fourth floor,One to five years,Daily,25
+Muscat,Two,Two,Not furnished,111,Second floor,One to five years,Yearly,200
+Muscat,One,One,Not furnished,180,Ground floor,One to five years,Monthly,200
+Muscat,Two,Two,Not furnished,60,Fifth floor,One to five years,Monthly,120
+Muscat,Three,Three,Partially furnished,130,Ground floor,One to five years,Yearly,145
+Muscat,Two,Three,Not furnished,100,Sixth floor and up,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,160,Fourth floor,Six to nine years,Yearly,550
+Muscat,Two,Three,Not furnished,130,Fifth floor,One to five years,Yearly,240
+Muscat,One,Two,Not furnished,85,Third floor,Zero to eleven months,Yearly,260
+Muscat,Two,Two,Not furnished,95,First floor,One to five years,Monthly,170
+Muscat,Three,Four,Not furnished,121,Fifth floor,One to five years,Yearly,290
+Muscat,Three,Three,Not furnished,240,First floor,Twenty years or more,Yearly,270
+Muscat,One,One,Not furnished,100,Ground floor,One to five years,Yearly,450
+Muscat,Three,Two,Partially furnished,120,Second floor,Six to nine years,Monthly,160
+Al Batinah,Two,Two,Not furnished,90,Ground floor,One to five years,Yearly,125
+Muscat,One,One,Fully furnished,111,Ground floor,Zero to eleven months,Monthly,11
+Dhofar,Two,Two,Fully furnished,95,Second floor,Six to nine years,Daily,10
+Muscat,Three,Two,Fully furnished,110,Ground floor,ten to nineteen years,Monthly,160
+Muscat,Two,Two,Not furnished,100,Sixth floor and up,One to five years,Monthly,200
+Muscat,Two,Three,Fully furnished,94,Second floor,One to five years,Monthly,30
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,170
+Dhofar,Two,Two,Fully furnished,160,Second floor,Zero to eleven months,Monthly,140
+Muscat,Two,Three,Fully furnished,110,First floor,One to five years,Weekly,14
+Muscat,Three,Three,Not furnished,130,Ground floor,One to five years,Monthly,190
+Muscat,Two,Three,Not furnished,100,Third floor,Zero to eleven months,Yearly,190
+Muscat,Two,Two,Not furnished,115,Second floor,Zero to eleven months,Yearly,150
+Dhofar,Three,Two,Partially furnished,100,Second floor,Zero to eleven months,Monthly,150
+Muscat,Three,Four,Not furnished,150,First floor,One to five years,Yearly,350
+Muscat,Three,Three,Not furnished,95,Second floor,One to five years,Yearly,150
+Muscat,Two,Two,Fully furnished,100,Fourth floor,Zero to eleven months,Monthly,220
+Muscat,Two,Three,Fully furnished,120,First floor,One to five years,Daily,15
+Muscat,Three,Two,Not furnished,83,Sixth floor and up,Six to nine years,Monthly,160
+Dhofar,Two,One,Fully furnished,100,Ground floor,One to five years,Daily,10
+Dhofar,Four,Three,Not furnished,150,First floor,Zero to eleven months,Yearly,140
+Muscat,Two,Two,Not furnished,90,First floor,One to five years,Yearly,250
+Muscat,Three,Two,Fully furnished,85,Second floor,One to five years,Monthly,400
+Muscat,Two,Two,Fully furnished,75,Second floor,One to five years,Monthly,330
+Muscat,One,One,Fully furnished,70,First floor,One to five years,Monthly,290
+Muscat,Three,Three,Fully furnished,125,Fifth floor,Six to nine years,Yearly,500
+Muscat,Two,Two,Fully furnished,120,Fifth floor,Six to nine years,Yearly,400
+Muscat,One,One,Fully furnished,95,Second floor,Six to nine years,Yearly,350
+Muscat,One,One,Fully furnished,85,Ground floor,One to five years,Monthly,325
+Muscat,One,One,Fully furnished,65,Second floor,One to five years,Monthly,170
+Muscat,Three,Three,Not furnished,100,First floor,One to five years,Monthly,160
+Muscat,Four,Four,Partially furnished,134,First floor,One to five years,Monthly,80
+Al Batinah,Studio,Two,Fully furnished,500,Ground floor,Zero to eleven months,Daily,10
+Muscat,Studio,One,Fully furnished,50,Sixth floor and up,Zero to eleven months,Yearly,65
+Dhofar,Two,Two,Fully furnished,120,Second floor,Zero to eleven months,Monthly,80
+Muscat,Three,Three,Fully furnished,400,First floor,Zero to eleven months,Monthly,500
+Muscat,Three,Three,Fully furnished,400,First floor,Zero to eleven months,Monthly,500
+Muscat,Two,Two,Not furnished,92,First floor,One to five years,Monthly,200
+Muscat,One,One,Fully furnished,80,Ground floor,One to five years,Monthly,250
+Muscat,Two,Three,Not furnished,90,Third floor,One to five years,Yearly,220
+Muscat,Studio,One,Fully furnished,50,First floor,One to five years,Monthly,165
+Muscat,Two,Two,Fully furnished,80,Sixth floor and up,ten to nineteen years,Monthly,330
+Muscat,Three,Two,Not furnished,90,First floor,Zero to eleven months,Monthly,200
+Muscat,Two,Two,Fully furnished,90,Sixth floor and up,One to five years,Daily,20
+Ash Sharqiyah,Two,Three,Fully furnished,90,Fourth floor,One to five years,Yearly,50
+Al Batinah,Two,Two,Not furnished,110,Ground floor,One to five years,Monthly,110
+Dhofar,Two,Two,Fully furnished,65,Ground floor,One to five years,Daily,25
+Muscat,Three,Two,Not furnished,210,Ground floor,One to five years,Yearly,210
+Muscat,Two,Two,Fully furnished,70,Basement floor,One to five years,Yearly,67
+Dhofar,Two,Two,Fully furnished,350,Third floor,One to five years,Monthly,95
+Muscat,Studio,One,Fully furnished,100,Fifth floor,ten to nineteen years,Monthly,250
+Muscat,Three,Two,Not furnished,250,Third floor,Six to nine years,Monthly,135
+Ash Sharqiyah,Three,Three,Not furnished,130,Third floor,Six to nine years,Yearly,100
+Muscat,Three,Three,Not furnished,160,First floor,Zero to eleven months,Monthly,400
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,130
+Ad Dakhiliyah,Two,Two,Fully furnished,100,First floor,One to five years,Yearly,160
+Muscat,Three,Three,Not furnished,167,First floor,Zero to eleven months,Monthly,320
+Muscat,One,One,Fully furnished,80,Third floor,Zero to eleven months,Monthly,70
+Muscat,Two,Two,Not furnished,145,Second floor,One to five years,Monthly,210
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,120
+Muscat,Three,Three,Not furnished,100,Ground floor,One to five years,Yearly,250
+Muscat,One,One,Not furnished,80,Second floor,One to five years,Yearly,155
+Muscat,One,One,Fully furnished,80,Ground floor,One to five years,Monthly,240
+Dhofar,Two,Two,Fully furnished,100,Second floor,One to five years,Yearly,140
+Dhofar,Six or more,Five or more,Fully furnished,300,Second floor,Six to nine years,Yearly,350
+Dhofar,Three,Three,Fully furnished,180,Sixth floor and up,One to five years,Monthly,250
+Muscat,One,One,Not furnished,180,Ground floor,One to five years,Monthly,200
+Muscat,One,One,Not furnished,180,Ground floor,One to five years,Monthly,200
+Dhofar,Two,Two,Fully furnished,85,Second floor,Zero to eleven months,Monthly,110
+Al Batinah,Two,Two,Not furnished,90,Ground floor,ten to nineteen years,Yearly,120
+Dhofar,Two,Two,Fully furnished,85,First floor,One to five years,Monthly,90
+Muscat,Two,Two,Partially furnished,100,Ground floor,One to five years,Yearly,125
+Dhofar,Six or more,Five or more,Fully furnished,90,Sixth floor and up,One to five years,Monthly,200
+Al Batinah,Three,Two,Fully furnished,95,First floor,One to five years,Monthly,220
+Muscat,Four,Three,Not furnished,400,First floor,One to five years,Yearly,350
+Al Batinah,Three,Two,Partially furnished,300,Third floor,Zero to eleven months,Monthly,130
+Muscat,Two,One,Partially furnished,80,Second floor,Six to nine years,Monthly,195
+Muscat,One,One,Not furnished,100,Basement floor,Zero to eleven months,Monthly,80
+Muscat,Three,Three,Not furnished,100,Second floor,One to five years,Monthly,130
+Dhofar,Two,Two,Fully furnished,80,First floor,One to five years,Yearly,120
+Muscat,Studio,One,Not furnished,100,First floor,Zero to eleven months,Monthly,140
+Muscat,Studio,One,Not furnished,100,First floor,Zero to eleven months,Monthly,120
+Muscat,Three,Two,Fully furnished,100,Ground floor,ten to nineteen years,Monthly,290
+Muscat,One,One,Fully furnished,100,First floor,Zero to eleven months,Monthly,220
+Muscat,Two,Two,Not furnished,500,Ground floor,Zero to eleven months,Monthly,300
+Muscat,Two,Three,Not furnished,100,Fourth floor,One to five years,Yearly,200
+Muscat,Two,Three,Partially furnished,180,Second floor,Six to nine years,Monthly,120
+Muscat,Two,Three,Fully furnished,80,Second floor,One to five years,Monthly,170
+Dhofar,Studio,One,Fully furnished,200,Basement floor,Zero to eleven months,Monthly,100
+Dhofar,Three,Three,Fully furnished,120,Ground floor,One to five years,Monthly,180
+Muscat,Two,Two,Fully furnished,66,First floor,One to five years,Monthly,35
+Muscat,Four,Two,Fully furnished,400,Fourth floor,Zero to eleven months,Monthly,40
+Muscat,Three,Three,Partially furnished,144,First floor,Six to nine years,Yearly,160
+Al Batinah,Two,Two,Not furnished,120,First floor,One to five years,Yearly,100
+Muscat,Two,Three,Not furnished,100,Second floor,One to five years,Yearly,150
+Ad Dakhiliyah,One,One,Partially furnished,80,Third floor,One to five years,Yearly,50
+Muscat,One,One,Fully furnished,150,Third floor,One to five years,Monthly,220
+Muscat,Three,Three,Not furnished,135,Ground floor,One to five years,Yearly,340
+Muscat,Three,Three,Not furnished,121,Ground floor,One to five years,Monthly,150
+Muscat,Studio,One,Not furnished,100,First floor,Zero to eleven months,Monthly,115
+Muscat,Three,Three,Not furnished,100,Second floor,One to five years,Yearly,200
+Muscat,Studio,One,Not furnished,100,First floor,Zero to eleven months,Monthly,130
+Muscat,Two,Two,Fully furnished,80,First floor,One to five years,Monthly,335
+Ad Dakhiliyah,Three,Two,Fully furnished,70,First floor,Six to nine years,Yearly,140
+Muscat,Two,Two,Not furnished,100,Fourth floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,130,Fourth floor,One to five years,Yearly,220
+Muscat,Three,Four,Not furnished,126,Third floor,One to five years,Yearly,285
+Muscat,Three,Four,Not furnished,150,Ground floor,ten to nineteen years,Monthly,300
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,145
+Muscat,Three,Three,Not furnished,120,Second floor,One to five years,Yearly,140
+Muscat,One,One,Fully furnished,120,Ground floor,One to five years,Monthly,240
+Muscat,Two,Two,Fully furnished,80,First floor,Twenty years or more,Monthly,320
+Muscat,Two,Two,Fully furnished,75,Second floor,One to five years,Monthly,300
+Al Wusta,Two,Two,Fully furnished,600,Second floor,One to five years,Daily,30
+Muscat,Studio,Two,Fully furnished,57,Fifth floor,One to five years,Monthly,260
+Muscat,Studio,One,Fully furnished,90,Ground floor,Zero to eleven months,Monthly,250
+Muscat,Four,Two,Partially furnished,130,First floor,ten to nineteen years,Monthly,160
+Muscat,Two,Two,Fully furnished,130,Sixth floor and up,One to five years,Monthly,300
+Muscat,Three,Two,Not furnished,110,First floor,ten to nineteen years,Monthly,140
+Muscat,Two,Three,Not furnished,110,Sixth floor and up,Zero to eleven months,Monthly,330
+Muscat,Two,Three,Not furnished,110,Sixth floor and up,Zero to eleven months,Monthly,330
+Muscat,Two,Two,Partially furnished,120,Second floor,Six to nine years,Monthly,160
+Al Batinah,Three,Three,Not furnished,300,First floor,Zero to eleven months,Monthly,160
+Muscat,Three,Three,Not furnished,150,Ground floor,Zero to eleven months,Yearly,350
+Muscat,Two,Two,Partially furnished,90,Sixth floor and up,One to five years,Monthly,310
+Muscat,Two,Two,Fully furnished,95,Fifth floor,Zero to eleven months,Daily,50
+Muscat,One,One,Fully furnished,110,Ground floor,Zero to eleven months,Monthly,250
+Muscat,Studio,One,Partially furnished,75,Ground floor,One to five years,Monthly,160
+Muscat,One,One,Fully furnished,85,Ground floor,One to five years,Monthly,250
+Muscat,One,One,Partially furnished,100,First floor,Six to nine years,Monthly,150
+Dhofar,Two,Two,Fully furnished,85,Fourth floor,One to five years,Monthly,130
+Dhofar,Two,Two,Fully furnished,90,Second floor,One to five years,Monthly,100
+Dhofar,Two,Two,Fully furnished,79,First floor,One to five years,Monthly,80
+Muscat,Two,Two,Fully furnished,100,Basement floor,Zero to eleven months,Monthly,160
+Muscat,Studio,One,Not furnished,60,Second floor,Zero to eleven months,Monthly,150
+Dhofar,Two,Two,Fully furnished,60,Second floor,One to five years,Daily,16
+Dhofar,Three,Two,Fully furnished,135,Ground floor,One to five years,Monthly,130
+Muscat,One,Two,Partially furnished,70,Fourth floor,One to five years,Yearly,210
+Al Batinah,Two,Two,Partially furnished,100,Ground floor,One to five years,Monthly,130
+Muscat,One,One,Fully furnished,100,First floor,One to five years,Monthly,210
+Muscat,Two,Two,Not furnished,200,Ground floor,One to five years,Monthly,50
+Al Batinah,Three,Three,Not furnished,170,Ground floor,One to five years,Monthly,190
+Muscat,Two,Two,Fully furnished,90,Sixth floor and up,One to five years,Monthly,228
+Ad Dhahirah,Two,Two,Fully furnished,408,Second floor,Zero to eleven months,Monthly,150
+Muscat,Three,Two,Fully furnished,150,Ground floor,ten to nineteen years,Monthly,170
+Al Batinah,Two,Two,Fully furnished,100,Ground floor,One to five years,Monthly,85
+Dhofar,Two,One,Fully furnished,600,Ground floor,ten to nineteen years,Monthly,100
+Dhofar,Studio,One,Fully furnished,100,Ground floor,One to five years,Daily,10
+Muscat,Three,Three,Not furnished,130,First floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,80,Ground floor,One to five years,Monthly,170
+Dhofar,Three,Four,Fully furnished,150,Fifth floor,One to five years,Yearly,220
+Ad Dhahirah,Two,Two,Partially furnished,510,Second floor,One to five years,Monthly,90
+Muscat,One,One,Not furnished,80,Ground floor,Twenty years or more,Monthly,160
+Muscat,One,One,Fully furnished,111,Ground floor,Zero to eleven months,Monthly,11
+Dhofar,Studio,One,Fully furnished,100,Second floor,Six to nine years,Yearly,140
+Muscat,Three,Three,Not furnished,121,Ground floor,Zero to eleven months,Monthly,150
+Muscat,One,One,Not furnished,60,Fifth floor,One to five years,Yearly,200
+Muscat,Two,Two,Partially furnished,100,Ground floor,One to five years,Monthly,125
+Muscat,Studio,One,Partially furnished,135,Ground floor,Zero to eleven months,Monthly,170
+Muscat,Studio,Two,Not furnished,80,Second floor,One to five years,Yearly,110
+Muscat,Two,Three,Not furnished,115,Ground floor,One to five years,Monthly,220
+Ad Dakhiliyah,Two,Two,Not furnished,95,Ground floor,One to five years,Monthly,95
+Ad Dakhiliyah,Four,Four,Fully furnished,170,Ground floor,One to five years,Daily,30
+Ash Sharqiyah,Three,Three,Fully furnished,130,Ground floor,Zero to eleven months,Daily,25
+Muscat,Two,Two,Fully furnished,90,First floor,Zero to eleven months,Monthly,350
+Muscat,Two,Two,Fully furnished,85,First floor,One to five years,Daily,30
+Dhofar,Two,Two,Not furnished,100,Ground floor,One to five years,Monthly,70
+Muscat,Three,Three,Not furnished,300,First floor,ten to nineteen years,Yearly,300
+Muscat,Studio,One,Partially furnished,75,Ground floor,One to five years,Monthly,170
+Al Batinah,Two,Two,Not furnished,100,First floor,Six to nine years,Monthly,150
+Muscat,Two,Two,Partially furnished,200,Second floor,One to five years,Yearly,130
+Muscat,One,Two,Fully furnished,80,Sixth floor and up,Zero to eleven months,Daily,10
+Dhofar,Two,Two,Fully furnished,90,First floor,One to five years,Monthly,100
+Muscat,Three,Two,Not furnished,90,Ground floor,ten to nineteen years,Monthly,160
+Al Batinah,Two,One,Not furnished,400,First floor,One to five years,Yearly,110
+Muscat,Three,Three,Not furnished,115,Second floor,Six to nine years,Monthly,380
+Muscat,Three,Three,Not furnished,120,Ground floor,Six to nine years,Monthly,140
+Muscat,Two,Two,Partially furnished,150,Second floor,One to five years,Monthly,130
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Yearly,240
+Al Buraimi,One,One,Not furnished,654,First floor,Zero to eleven months,Monthly,55
+Muscat,Three,Two,Not furnished,145,First floor,Six to nine years,Monthly,155
+Muscat,Studio,One,Not furnished,60,Ground floor,Zero to eleven months,Monthly,170
+Muscat,One,Two,Not furnished,100,Second floor,One to five years,Yearly,175
+Al Batinah,Two,Two,Partially furnished,125,Ground floor,Zero to eleven months,Monthly,100
+Muscat,Two,Two,Fully furnished,84,Sixth floor and up,One to five years,Daily,15
+Muscat,Two,Two,Not furnished,101,Fourth floor,One to five years,Yearly,280
+Muscat,Two,Three,Not furnished,150,Sixth floor and up,One to five years,Yearly,210
+Dhofar,Two,Two,Fully furnished,74,Fifth floor,Six to nine years,Daily,15
+Muscat,Two,Three,Not furnished,150,Second floor,One to five years,Yearly,240
+Muscat,Two,Three,Not furnished,150,Second floor,One to five years,Yearly,240
+Muscat,One,Two,Not furnished,150,Second floor,One to five years,Yearly,200
+Muscat,Two,Three,Not furnished,150,Second floor,One to five years,Yearly,210
+Muscat,One,Two,Not furnished,150,Second floor,One to five years,Yearly,170
+Muscat,Two,Three,Not furnished,150,Second floor,One to five years,Yearly,230
+Muscat,One,Two,Not furnished,150,Second floor,One to five years,Yearly,180
+Muscat,One,Two,Not furnished,150,Second floor,One to five years,Yearly,150
+Muscat,One,Two,Not furnished,150,First floor,One to five years,Yearly,150
+Muscat,Two,Three,Not furnished,150,Third floor,One to five years,Yearly,240
+Muscat,Three,Four,Not furnished,150,Third floor,One to five years,Yearly,250
+Muscat,Two,Three,Not furnished,150,Second floor,One to five years,Yearly,170
+Muscat,One,Two,Not furnished,150,Second floor,One to five years,Yearly,150
+Muscat,Two,Three,Not furnished,150,Second floor,One to five years,Yearly,240
+Muscat,One,Two,Not furnished,150,First floor,One to five years,Yearly,170
+Muscat,Two,Two,Not furnished,150,Second floor,One to five years,Yearly,250
+Muscat,Three,Three,Partially furnished,100,Third floor,Six to nine years,Yearly,180
+Muscat,Two,Two,Not furnished,150,First floor,One to five years,Yearly,270
+Muscat,Three,Three,Not furnished,150,Sixth floor and up,One to five years,Yearly,320
+Muscat,Three,Three,Not furnished,120,First floor,One to five years,Monthly,320
+Muscat,One,Two,Fully furnished,120,Second floor,One to five years,Monthly,230
+Ad Dakhiliyah,Two,Two,Not furnished,85,Ground floor,One to five years,Monthly,150
+Dhofar,Three,One,Fully furnished,130,Third floor,Six to nine years,Daily,15
+Muscat,Six or more,Five or more,Partially furnished,777,Sixth floor and up,Zero to eleven months,Monthly,250
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Monthly,240
+Dhofar,Three,Two,Fully furnished,222,Second floor,One to five years,Daily,10
+Dhofar,Two,One,Fully furnished,90,Ground floor,Six to nine years,Daily,12
+Muscat,Two,Three,Fully furnished,110,First floor,Zero to eleven months,Daily,16
+Muscat,Two,Three,Partially furnished,160,Second floor,ten to nineteen years,Yearly,230
+Muscat,Two,Two,Not furnished,110,Second floor,One to five years,Monthly,280
+Muscat,Three,Three,Not furnished,117,Ground floor,One to five years,Monthly,220
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,150
+Muscat,Two,Three,Not furnished,120,Second floor,One to five years,Monthly,130
+Dhofar,Two,Two,Fully furnished,140,Ground floor,ten to nineteen years,Yearly,100
+Dhofar,Two,Two,Fully furnished,160,First floor,One to five years,Monthly,120
+Dhofar,Three,Four,Fully furnished,300,First floor,Six to nine years,Daily,20
+Muscat,One,One,Not furnished,80,First floor,One to five years,Yearly,215
+Muscat,One,One,Fully furnished,150,Third floor,One to five years,Monthly,220
+Muscat,Two,Two,Not furnished,250,Second floor,Six to nine years,Yearly,200
+Muscat,Two,One,Not furnished,75,Second floor,One to five years,Monthly,120
+Muscat,Two,Two,Not furnished,125,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Yearly,220
+Muscat,Two,Three,Not furnished,89,First floor,Zero to eleven months,Yearly,250
+Muscat,Two,Three,Not furnished,89,First floor,Zero to eleven months,Yearly,250
+Dhofar,Three,Three,Fully furnished,130,Ground floor,One to five years,Yearly,160
+Muscat,Two,Two,Fully furnished,90,Fourth floor,One to five years,Monthly,20
+Dhofar,Two,Two,Fully furnished,175,Sixth floor and up,Zero to eleven months,Monthly,100
+Dhofar,Two,Two,Fully furnished,120,Ground floor,One to five years,Monthly,110
+Muscat,Two,Two,Not furnished,120,Sixth floor and up,One to five years,Monthly,275
+Muscat,Three,Three,Partially furnished,111,Third floor,One to five years,Monthly,200
+Muscat,Two,Three,Not furnished,100,First floor,Zero to eleven months,Yearly,230
+Muscat,Two,Three,Not furnished,102,First floor,One to five years,Yearly,270
+Muscat,Two,Three,Not furnished,125,Third floor,One to five years,Yearly,290
+Muscat,Two,Two,Not furnished,125,Fifth floor,One to five years,Yearly,230
+Al Batinah,Three,Two,Not furnished,100,Second floor,One to five years,Monthly,80
+Muscat,Two,Two,Not furnished,90,Third floor,ten to nineteen years,Monthly,180
+Muscat,One,One,Fully furnished,150,Ground floor,One to five years,Monthly,230
+Muscat,One,Two,Fully furnished,80,First floor,Twenty years or more,Yearly,320
+Muscat,Three,Three,Not furnished,250,Second floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,100,Fifth floor,One to five years,Yearly,300
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,240
+Muscat,Two,Three,Not furnished,140,Fifth floor,One to five years,Yearly,375
+Muscat,Two,Three,Not furnished,120,Fifth floor,One to five years,Yearly,275
+Muscat,Two,Three,Not furnished,120,Third floor,One to five years,Yearly,325
+Muscat,One,Two,Not furnished,100,Basement floor,Six to nine years,Yearly,215
+Ad Dakhiliyah,Two,Two,Not furnished,94,Fourth floor,One to five years,Monthly,130
+Muscat,Three,Three,Fully furnished,71,Third floor,Six to nine years,Monthly,235
+Muscat,Two,Two,Not furnished,140,Second floor,Six to nine years,Yearly,450
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,210
+Muscat,Two,Two,Not furnished,110,First floor,Six to nine years,Yearly,350
+Muscat,Two,Two,Not furnished,100,Third floor,Six to nine years,Yearly,275
+Muscat,Two,Two,Not furnished,110,Fourth floor,One to five years,Yearly,325
+Muscat,One,Two,Not furnished,99,First floor,Six to nine years,Yearly,185
+Muscat,Three,Three,Not furnished,250,First floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Yearly,160
+Al Batinah,Two,Two,Partially furnished,55,Basement floor,One to five years,Yearly,120
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,300
+Al Batinah,Two,Two,Not furnished,300,Second floor,One to five years,Monthly,100
+Al Batinah,Two,Two,Partially furnished,85,First floor,One to five years,Yearly,100
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Yearly,180
+Muscat,Four,Three,Not furnished,200,Fifth floor,One to five years,Monthly,400
+Muscat,Two,Two,Not furnished,75,Second floor,Zero to eleven months,Monthly,200
+Muscat,Three,Two,Not furnished,250,Second floor,One to five years,Yearly,200
+Muscat,Three,Four,Partially furnished,300,First floor,Six to nine years,Yearly,270
+Dhofar,Two,Three,Fully furnished,120,First floor,Zero to eleven months,Monthly,200
+Muscat,Three,Two,Not furnished,104,First floor,One to five years,Yearly,155
+Muscat,Three,Two,Not furnished,104,First floor,One to five years,Yearly,155
+Muscat,Three,Two,Not furnished,104,First floor,One to five years,Yearly,155
+Al Batinah,One,Two,Not furnished,200,First floor,One to five years,Monthly,120
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Monthly,170
+Dhofar,Studio,One,Fully furnished,60,Ground floor,Zero to eleven months,Yearly,230
+Dhofar,Two,Two,Fully furnished,100,Second floor,One to five years,Yearly,140
+Dhofar,One,Two,Fully furnished,300,Ground floor,One to five years,Daily,12
+Muscat,One,Two,Not furnished,200,First floor,Six to nine years,Monthly,180
+Muscat,Two,Two,Fully furnished,130,Sixth floor and up,One to five years,Monthly,300
+Al Batinah,Three,Three,Not furnished,140,First floor,One to five years,Monthly,100
+Dhofar,One,One,Fully furnished,75,Ground floor,One to five years,Monthly,50
+Muscat,Two,Two,Not furnished,112,Fourth floor,One to five years,Yearly,320
+Muscat,Two,Two,Partially furnished,86,Second floor,Six to nine years,Monthly,160
+Muscat,Three,Three,Not furnished,165,Ground floor,ten to nineteen years,Monthly,250
+Al Batinah,Three,Three,Not furnished,100,Second floor,Six to nine years,Monthly,110
+Al Buraimi,Three,Two,Not furnished,150,Ground floor,Six to nine years,Yearly,70
+Muscat,Two,Three,Fully furnished,130,Fifth floor,Zero to eleven months,Monthly,455
+Dhofar,Three,Two,Fully furnished,156,First floor,One to five years,Monthly,130
+Muscat,One,Two,Not furnished,75,Sixth floor and up,Zero to eleven months,Monthly,170
+Al Batinah,Two,Two,Fully furnished,900,Ground floor,One to five years,Monthly,90
+Al Batinah,Three,Two,Not furnished,110,Ground floor,One to five years,Monthly,110
+Muscat,Two,Two,Fully furnished,95,Sixth floor and up,One to five years,Monthly,220
+Ad Dakhiliyah,Three,Three,Not furnished,120,First floor,One to five years,Yearly,145
+Al Batinah,Two,Two,Fully furnished,400,First floor,One to five years,Daily,10
+Muscat,Studio,One,Fully furnished,100,Ground floor,Zero to eleven months,Monthly,250
+Muscat,Two,Four,Not furnished,172,First floor,One to five years,Monthly,170
+Muscat,Studio,One,Not furnished,96,Second floor,One to five years,Monthly,230
+Muscat,Two,Two,Fully furnished,110,Second floor,One to five years,Daily,20
+Muscat,Three,Three,Partially furnished,120,First floor,One to five years,Yearly,190
+Muscat,Studio,One,Fully furnished,150,Ground floor,One to five years,Monthly,200
+Muscat,Two,Three,Not furnished,110,Second floor,One to five years,Monthly,160
+Dhofar,Three,Three,Fully furnished,110,Ground floor,One to five years,Daily,20
+Dhofar,Three,Two,Partially furnished,150,Ground floor,One to five years,Monthly,150
+Muscat,Two,Two,Not furnished,90,Sixth floor and up,One to five years,Monthly,160
+Muscat,Two,Two,Not furnished,90,Sixth floor and up,One to five years,Monthly,160
+Al Batinah,Two,Two,Not furnished,100,First floor,Zero to eleven months,Monthly,100
+Muscat,Three,Three,Not furnished,90,Second floor,One to five years,Monthly,160
+Muscat,Two,Three,Not furnished,130,First floor,One to five years,Monthly,150
+Muscat,Two,Two,Fully furnished,110,First floor,Six to nine years,Yearly,325
+Muscat,Two,Two,Partially furnished,85,First floor,Six to nine years,Yearly,230
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,185
+Muscat,Two,Two,Not furnished,90,Ground floor,ten to nineteen years,Yearly,350
+Muscat,Two,Two,Fully furnished,92,Third floor,Zero to eleven months,Monthly,300
+Al Batinah,Three,Two,Not furnished,100,First floor,One to five years,Monthly,80
+Ad Dakhiliyah,Two,Three,Not furnished,250,First floor,Six to nine years,Monthly,130
+Muscat,One,One,Fully furnished,120,Third floor,One to five years,Monthly,220
+Dhofar,Two,Two,Fully furnished,78,Second floor,One to five years,Monthly,120
+Muscat,Studio,Two,Partially furnished,250,Sixth floor and up,One to five years,Yearly,600
+Muscat,One,Three,Fully furnished,120,Sixth floor and up,One to five years,Daily,15
+Muscat,Three,Three,Fully furnished,120,Ground floor,One to five years,Monthly,260
+Dhofar,Two,Two,Fully furnished,100,Ground floor,Zero to eleven months,Monthly,120
+Muscat,Studio,One,Not furnished,200,Ground floor,Zero to eleven months,Monthly,130
+Dhofar,Two,Two,Fully furnished,120,Ground floor,Six to nine years,Monthly,160
+Dhofar,Two,One,Fully furnished,90,First floor,Six to nine years,Monthly,100
+Dhofar,Three,Two,Fully furnished,80,Ground floor,Zero to eleven months,Yearly,150
+Al Batinah,Two,Two,Fully furnished,200,Second floor,One to five years,Monthly,150
+Muscat,Two,Two,Fully furnished,200,Second floor,One to five years,Monthly,300
+Al Batinah,Two,One,Not furnished,100,Second floor,Six to nine years,Monthly,125
+Muscat,Three,Three,Not furnished,150,First floor,One to five years,Yearly,230
+Al Batinah,Three,Three,Not furnished,120,Second floor,Zero to eleven months,Monthly,100
+Muscat,One,One,Fully furnished,130,Fourth floor,One to five years,Monthly,250
+Muscat,One,One,Not furnished,50,First floor,One to five years,Yearly,160
+Muscat,Three,Two,Not furnished,72,First floor,ten to nineteen years,Yearly,135
+Muscat,Two,Two,Fully furnished,70,Fourth floor,One to five years,Yearly,240
+Muscat,Two,Two,Not furnished,100,Sixth floor and up,Zero to eleven months,Yearly,230
+Muscat,Four,Three,Not furnished,131,Fourth floor,One to five years,Yearly,300
+Muscat,Three,Three,Not furnished,185,First floor,Six to nine years,Yearly,275
+Muscat,One,One,Fully furnished,150,Fourth floor,One to five years,Monthly,220
+Muscat,Two,Three,Not furnished,90,Third floor,One to five years,Yearly,325
+Muscat,Four,Five or more,Not furnished,350,Second floor,One to five years,Yearly,450
+Muscat,One,One,Fully furnished,150,Sixth floor and up,One to five years,Monthly,140
+Muscat,Three,Four,Fully furnished,200,Second floor,One to five years,Yearly,320
+Muscat,Three,Three,Not furnished,280,First floor,Six to nine years,Yearly,250
+Muscat,Two,Two,Not furnished,125,Third floor,One to five years,Yearly,270
+Muscat,Three,Two,Not furnished,150,Second floor,Six to nine years,Yearly,300
+Muscat,Two,Two,Not furnished,125,Second floor,Zero to eleven months,Yearly,190
+Muscat,Two,Two,Not furnished,52,First floor,One to five years,Yearly,230
+Muscat,Two,Three,Not furnished,521,First floor,One to five years,Yearly,230
+Muscat,Three,Three,Fully furnished,117,First floor,One to five years,Daily,15
+Muscat,Two,Two,Not furnished,300,Third floor,Six to nine years,Monthly,350
+Muscat,Three,Two,Partially furnished,85,Sixth floor and up,Six to nine years,Yearly,170
+Muscat,Two,Two,Not furnished,552,First floor,One to five years,Yearly,220
+Muscat,Three,Two,Not furnished,120,Second floor,One to five years,Monthly,110
+Muscat,Two,Two,Not furnished,55,Second floor,One to five years,Yearly,180
+Muscat,Three,Two,Not furnished,110,Third floor,Six to nine years,Yearly,180
+Muscat,One,One,Fully furnished,60,Second floor,One to five years,Monthly,290
+Muscat,Three,Two,Fully furnished,95,Second floor,One to five years,Monthly,400
+Muscat,Two,Two,Fully furnished,75,Second floor,One to five years,Monthly,330
+Muscat,Two,Two,Not furnished,130,Fifth floor,One to five years,Yearly,190
+Al Batinah,Two,Two,Fully furnished,100,Ground floor,Zero to eleven months,Daily,200
+Dhofar,Three,Two,Fully furnished,90,First floor,One to five years,Monthly,130
+Muscat,Two,Two,Not furnished,96,Fourth floor,Zero to eleven months,Yearly,250
+Muscat,Two,Two,Partially furnished,110,Fifth floor,One to five years,Yearly,400
+Muscat,One,Two,Partially furnished,75,Second floor,One to five years,Yearly,285
+Dhofar,Two,One,Fully furnished,80,Fifth floor,Zero to eleven months,Daily,90
+Muscat,Two,Two,Not furnished,90,Fourth floor,Six to nine years,Yearly,150
+Dhofar,Two,Three,Fully furnished,88,First floor,One to five years,Daily,12
+Al Batinah,One,One,Not furnished,70,Second floor,One to five years,Monthly,80
+Muscat,One,Two,Fully furnished,77,Ground floor,Six to nine years,Yearly,500
+Ad Dhahirah,Two,Two,Not furnished,90,First floor,One to five years,Monthly,100
+Ad Dhahirah,Two,Two,Fully furnished,100,First floor,One to five years,Monthly,140
+Muscat,Two,Two,Partially furnished,120,Second floor,One to five years,Monthly,170
+Muscat,Two,Three,Not furnished,140,Fourth floor,One to five years,Yearly,400
+Al Batinah,One,Two,Fully furnished,90,Sixth floor and up,One to five years,Daily,16
+Al Batinah,Two,Two,Not furnished,100,First floor,One to five years,Yearly,150
+Dhofar,Studio,One,Fully furnished,60,First floor,Zero to eleven months,Daily,50
+Dhofar,Two,Three,Fully furnished,219,Ground floor,One to five years,Yearly,125
+Muscat,One,Two,Not furnished,90,Second floor,One to five years,Yearly,180
+Muscat,Three,Three,Not furnished,120,Third floor,One to five years,Monthly,100
+Ash Sharqiyah,Three,Three,Fully furnished,130,Ground floor,One to five years,Yearly,180
+Muscat,Three,Two,Not furnished,100,First floor,Six to nine years,Monthly,250
+Dhofar,Two,Three,Fully furnished,150,Ground floor,Zero to eleven months,Daily,30
+Ad Dakhiliyah,One,One,Fully furnished,55,First floor,One to five years,Monthly,150
+Muscat,Two,Three,Fully furnished,95,Ground floor,Six to nine years,Yearly,470
+Muscat,One,One,Fully furnished,85,First floor,One to five years,Monthly,180
+Muscat,Two,One,Not furnished,80,Ground floor,Twenty years or more,Monthly,170
+Muscat,Two,Three,Not furnished,90,Third floor,One to five years,Yearly,100
+Muscat,Three,Four,Not furnished,250,Ground floor,One to five years,Monthly,200
+Muscat,Two,Two,Not furnished,80,Fifth floor,One to five years,Monthly,155
+Muscat,Two,One,Not furnished,75,Fourth floor,One to five years,Yearly,150
+Muscat,Three,Two,Not furnished,108,Ground floor,Six to nine years,Monthly,180
+Muscat,One,One,Not furnished,112,Ground floor,One to five years,Monthly,420
+Muscat,Two,Two,Fully furnished,100,Third floor,One to five years,Monthly,320
+Muscat,Two,Two,Fully furnished,100,Fourth floor,Six to nine years,Monthly,280
+Dhofar,Two,Two,Fully furnished,75,Ground floor,One to five years,Daily,15
+Muscat,One,One,Not furnished,100,Second floor,One to five years,Monthly,180
+Muscat,Three,Three,Partially furnished,150,Ground floor,One to five years,Yearly,190
+Ash Sharqiyah,Two,One,Not furnished,90,First floor,One to five years,Monthly,70
+Al Batinah,Two,Two,Not furnished,140,Ground floor,One to five years,Monthly,110
+Muscat,One,Two,Not furnished,90,Third floor,Zero to eleven months,Yearly,225
+Muscat,Two,Three,Not furnished,100,Third floor,Zero to eleven months,Yearly,250
+Muscat,One,One,Not furnished,100,First floor,One to five years,Monthly,175
+Muscat,Three,Three,Not furnished,186,First floor,Six to nine years,Yearly,320
+Muscat,Two,Two,Not furnished,167,Second floor,Six to nine years,Yearly,250
+Muscat,Two,Three,Fully furnished,100,Sixth floor and up,Zero to eleven months,Daily,15
+Dhofar,Two,Two,Fully furnished,100,Second floor,One to five years,Monthly,120
+Muscat,Studio,One,Fully furnished,600,First floor,Zero to eleven months,Monthly,145
+Muscat,Two,Two,Not furnished,178,First floor,Six to nine years,Yearly,175
+Muscat,Two,Two,Not furnished,100,Ground floor,ten to nineteen years,Monthly,180
+Muscat,Two,Two,Not furnished,120,Ground floor,Six to nine years,Yearly,265
+Muscat,Two,Three,Not furnished,111,Third floor,One to five years,Yearly,325
+Muscat,One,One,Fully furnished,85,Ground floor,One to five years,Monthly,180
+Muscat,Studio,Two,Fully furnished,77,First floor,Zero to eleven months,Daily,20
+Muscat,Three,Three,Not furnished,400,First floor,One to five years,Yearly,280
+Muscat,Two,Two,Not furnished,111,Second floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,75,Ground floor,Six to nine years,Yearly,375
+Muscat,Two,Three,Not furnished,111,First floor,One to five years,Yearly,400
+Muscat,Three,Two,Not furnished,505,First floor,Twenty years or more,Monthly,220
+Muscat,Two,Two,Not furnished,178,Second floor,Six to nine years,Yearly,175
+Muscat,Two,Two,Not furnished,178,Second floor,Six to nine years,Yearly,175
+Muscat,Two,Three,Not furnished,105,Third floor,Zero to eleven months,Monthly,350
+Muscat,One,One,Fully furnished,200,Ground floor,One to five years,Monthly,230
+Muscat,Two,Two,Not furnished,90,Sixth floor and up,Six to nine years,Yearly,190
+Muscat,Two,One,Not furnished,75,Sixth floor and up,One to five years,Monthly,140
+Muscat,One,One,Fully furnished,85,Ground floor,One to five years,Monthly,180
+Muscat,Four,Four,Not furnished,145,Ground floor,Six to nine years,Monthly,350
+Al Batinah,One,One,Not furnished,100,Second floor,Zero to eleven months,Yearly,80
+Muscat,Three,Two,Not furnished,100,First floor,ten to nineteen years,Monthly,175
+Muscat,One,One,Not furnished,110,Ground floor,Zero to eleven months,Monthly,185
+Al Batinah,Two,Two,Not furnished,100,Second floor,Six to nine years,Monthly,90
+Muscat,Two,Two,Not furnished,150,Ground floor,One to five years,Yearly,650
+Muscat,Studio,Two,Fully furnished,90,First floor,Six to nine years,Daily,12
+Muscat,Two,Three,Fully furnished,130,First floor,Six to nine years,Yearly,400
+Dhofar,Two,Two,Fully furnished,100,Second floor,One to five years,Daily,12
+Muscat,Two,Two,Not furnished,117,Second floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,150,Ground floor,Zero to eleven months,Monthly,160
+Ad Dhahirah,Three,Three,Not furnished,100,Ground floor,One to five years,Monthly,100
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Yearly,325
+Muscat,Three,Three,Fully furnished,150,First floor,One to five years,Yearly,400
+Muscat,Two,Three,Fully furnished,100,Second floor,One to five years,Monthly,320
+Muscat,Two,Three,Not furnished,130,Fourth floor,One to five years,Yearly,350
+Muscat,Four,Three,Not furnished,166,First floor,ten to nineteen years,Monthly,350
+Muscat,Two,Two,Not furnished,52,First floor,One to five years,Yearly,230
+Dhofar,Two,Three,Fully furnished,150,Ground floor,Zero to eleven months,Daily,170
+Muscat,Two,Two,Not furnished,200,Second floor,One to five years,Yearly,220
+Muscat,Two,Three,Not furnished,150,First floor,One to five years,Yearly,285
+Muscat,Two,Two,Partially furnished,200,Third floor,One to five years,Monthly,345
+Muscat,Three,Three,Not furnished,209,First floor,Six to nine years,Monthly,350
+Muscat,Two,Two,Not furnished,200,Second floor,Six to nine years,Monthly,220
+Muscat,Two,Three,Not furnished,250,Second floor,One to five years,Yearly,180
+Muscat,Two,Three,Not furnished,200,First floor,Zero to eleven months,Yearly,230
+Muscat,Three,Three,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Two,Three,Fully furnished,120,Second floor,One to five years,Monthly,340
+Al Batinah,Two,Two,Not furnished,223,Ground floor,One to five years,Yearly,120
+Muscat,Three,Three,Not furnished,200,First floor,One to five years,Yearly,500
+Muscat,Three,Three,Not furnished,125,Third floor,One to five years,Yearly,400
+Muscat,Two,Three,Not furnished,90,First floor,One to five years,Monthly,200
+Muscat,Two,Three,Not furnished,120,First floor,One to five years,Monthly,220
+Muscat,One,Two,Fully furnished,80,First floor,One to five years,Yearly,400
+Muscat,Two,Three,Not furnished,80,Second floor,Six to nine years,Yearly,230
+Dhofar,Two,Two,Fully furnished,150,Ground floor,Zero to eleven months,Daily,25
+Muscat,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Monthly,300
+Ad Dakhiliyah,Two,Three,Partially furnished,160,First floor,Six to nine years,Monthly,120
+Muscat,Two,Two,Fully furnished,110,First floor,One to five years,Monthly,310
+Muscat,One,One,Fully furnished,100,Ground floor,One to five years,Monthly,200
+Muscat,Two,Three,Not furnished,95,Sixth floor and up,One to five years,Yearly,230
+Muscat,One,Two,Not furnished,70,Second floor,One to five years,Yearly,250
+Dhofar,Two,Two,Fully furnished,70,Fourth floor,Zero to eleven months,Monthly,110
+Muscat,Two,Two,Not furnished,50,Ground floor,Six to nine years,Monthly,200
+Muscat,Three,Three,Not furnished,180,Ground floor,Six to nine years,Monthly,280
+Muscat,Two,Two,Fully furnished,120,Third floor,One to five years,Monthly,65
+Muscat,Three,Three,Not furnished,125,Second floor,Six to nine years,Monthly,150
+Al Batinah,Two,Two,Not furnished,105,First floor,One to five years,Monthly,110
+Al Batinah,Three,Two,Not furnished,110,First floor,One to five years,Monthly,115
+Muscat,Four,Three,Not furnished,200,First floor,Zero to eleven months,Yearly,200
+Dhofar,Two,One,Fully furnished,280,Ground floor,One to five years,Yearly,120
+Muscat,Four,Three,Not furnished,380,First floor,One to five years,Yearly,350
+Ad Dakhiliyah,Three,Two,Not furnished,120,Third floor,Six to nine years,Monthly,100
+Muscat,Two,Two,Not furnished,95,Sixth floor and up,One to five years,Monthly,190
+Muscat,Two,Two,Fully furnished,100,Second floor,One to five years,Monthly,200
+Muscat,Two,Three,Fully furnished,150,Ground floor,One to five years,Monthly,280
+Muscat,Two,Three,Fully furnished,90,Fifth floor,Six to nine years,Yearly,250
+Ad Dakhiliyah,Three,Three,Fully furnished,130,Ground floor,Six to nine years,Monthly,200
+Muscat,Two,Two,Not furnished,95,First floor,Six to nine years,Yearly,185
+Muscat,Two,Two,Not furnished,85,Basement floor,One to five years,Monthly,120
+Muscat,Three,Three,Not furnished,250,First floor,Zero to eleven months,Yearly,230
+Muscat,One,One,Not furnished,105,First floor,One to five years,Yearly,70
+Muscat,Two,Two,Not furnished,106,First floor,Six to nine years,Monthly,200
+Muscat,Studio,One,Partially furnished,88,Fifth floor,One to five years,Monthly,550
+Al Batinah,Two,Two,Not furnished,150,Ground floor,Six to nine years,Monthly,225
+Muscat,One,One,Partially furnished,80,Ground floor,One to five years,Yearly,400
+Muscat,Two,Three,Not furnished,100,Third floor,Six to nine years,Yearly,275
+Muscat,One,One,Not furnished,60,Second floor,One to five years,Yearly,210
+Muscat,One,Two,Not furnished,60,Fifth floor,One to five years,Yearly,250
+Muscat,One,Two,Not furnished,60,Third floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,120,Third floor,Six to nine years,Yearly,450
+Muscat,Two,Two,Not furnished,140,First floor,Six to nine years,Yearly,375
+Muscat,Two,Three,Not furnished,110,Second floor,One to five years,Yearly,275
+Muscat,Two,Two,Not furnished,140,Sixth floor and up,One to five years,Yearly,425
+Muscat,Two,Three,Not furnished,140,Second floor,One to five years,Yearly,475
+Muscat,Two,Three,Not furnished,140,Sixth floor and up,One to five years,Yearly,375
+Muscat,Two,Three,Not furnished,110,Third floor,Six to nine years,Yearly,310
+Muscat,Three,Three,Not furnished,150,Fifth floor,One to five years,Yearly,600
+Dhofar,Studio,One,Fully furnished,200,First floor,ten to nineteen years,Monthly,80
+Muscat,Two,Three,Not furnished,83,Fifth floor,One to five years,Monthly,150
+Muscat,Two,Two,Not furnished,100,Ground floor,Six to nine years,Monthly,130
+Muscat,Two,Three,Not furnished,120,Third floor,One to five years,Monthly,220
+Muscat,Three,Three,Partially furnished,120,First floor,One to five years,Monthly,190
+Muscat,Two,Two,Fully furnished,84,Sixth floor and up,One to five years,Daily,300
+Ad Dakhiliyah,Two,Three,Partially furnished,120,First floor,Zero to eleven months,Monthly,90
+Muscat,Three,Two,Not furnished,300,First floor,One to five years,Monthly,200
+Ad Dakhiliyah,Two,Two,Fully furnished,105,Third floor,Six to nine years,Daily,30
+Muscat,Two,Three,Not furnished,120,Sixth floor and up,One to five years,Yearly,350
+Muscat,Three,Three,Not furnished,180,Sixth floor and up,One to five years,Yearly,450
+Muscat,Two,Four,Partially furnished,150,Second floor,One to five years,Yearly,900
+Ash Sharqiyah,Two,Three,Fully furnished,600,Ground floor,Zero to eleven months,Daily,40
+Muscat,Two,Two,Not furnished,120,Fourth floor,One to five years,Yearly,375
+Muscat,Three,Four,Partially furnished,120,Ground floor,Zero to eleven months,Yearly,170
+Muscat,Studio,One,Not furnished,80,Ground floor,One to five years,Monthly,130
+Muscat,One,Two,Fully furnished,70,Third floor,One to five years,Yearly,270
+Muscat,Three,Three,Not furnished,120,First floor,One to five years,Monthly,230
+Muscat,Three,Three,Not furnished,250,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Fully furnished,140,First floor,Zero to eleven months,Monthly,300
+Muscat,Two,Two,Fully furnished,200,Fourth floor,One to five years,Monthly,300
+Muscat,Two,Three,Not furnished,185,First floor,Six to nine years,Monthly,210
+Muscat,Three,Three,Not furnished,100,First floor,One to five years,Monthly,130
+Muscat,Two,Three,Not furnished,97,Fourth floor,One to five years,Monthly,250
+Muscat,Two,Two,Fully furnished,82,Sixth floor and up,One to five years,Daily,20
+Al Wusta,Two,Two,Fully furnished,85,Second floor,One to five years,Monthly,450
+Muscat,Two,Two,Not furnished,103,Ground floor,Zero to eleven months,Yearly,300
+Muscat,One,One,Not furnished,80,First floor,One to five years,Yearly,450
+Muscat,One,Two,Fully furnished,90,Second floor,One to five years,Yearly,180
+Muscat,Three,Three,Not furnished,130,Ground floor,One to five years,Yearly,215
+Muscat,Studio,One,Not furnished,70,First floor,One to five years,Yearly,125
+Muscat,Three,Three,Not furnished,130,Ground floor,Six to nine years,Yearly,245
+Muscat,Two,Two,Not furnished,130,Fifth floor,One to five years,Yearly,300
+Muscat,Three,Three,Not furnished,130,Second floor,One to five years,Yearly,215
+Muscat,Three,Three,Not furnished,120,Second floor,One to five years,Yearly,170
+Muscat,Two,Three,Not furnished,200,Fourth floor,One to five years,Monthly,250
+Muscat,One,One,Fully furnished,140,Third floor,One to five years,Yearly,350
+Dhofar,Three,Three,Fully furnished,300,Ground floor,One to five years,Yearly,130
+Muscat,Three,Two,Not furnished,100,Second floor,ten to nineteen years,Monthly,175
+Muscat,One,One,Fully furnished,60,First floor,One to five years,Monthly,290
+Al Buraimi,Three,Two,Not furnished,100,Ground floor,Six to nine years,Monthly,80
+Muscat,One,One,Partially furnished,100,Second floor,One to five years,Monthly,50
+Al Batinah,Two,Two,Not furnished,150,Ground floor,ten to nineteen years,Monthly,90
+Dhofar,One,Two,Fully furnished,69,First floor,Zero to eleven months,Daily,40
+Muscat,Two,Two,Not furnished,90,Second floor,Zero to eleven months,Monthly,115
+Al Batinah,Two,One,Not furnished,200,Basement floor,Zero to eleven months,Monthly,150
+Muscat,Two,Two,Partially furnished,90,Fifth floor,Six to nine years,Monthly,190
+Al Batinah,Two,Two,Not furnished,182,Ground floor,Zero to eleven months,Yearly,150
+Muscat,Three,Two,Not furnished,132,First floor,ten to nineteen years,Monthly,250
+Al Batinah,Two,Two,Not furnished,75,First floor,Six to nine years,Monthly,110
+Muscat,Two,Three,Not furnished,150,First floor,ten to nineteen years,Monthly,240
+Ad Dakhiliyah,Four,Four,Not furnished,300,First floor,ten to nineteen years,Yearly,160
+Ad Dakhiliyah,Four,Four,Not furnished,300,First floor,Six to nine years,Monthly,160
+Ad Dakhiliyah,Two,Three,Partially furnished,150,Second floor,Six to nine years,Yearly,80
+Muscat,Two,Two,Partially furnished,200,Second floor,One to five years,Monthly,100
+Al Buraimi,Three,Two,Not furnished,222,First floor,One to five years,Monthly,80
+Al Batinah,Two,Three,Partially furnished,155,Ground floor,Six to nine years,Monthly,140
+Dhofar,Three,Three,Fully furnished,100,First floor,One to five years,Monthly,120
+Muscat,One,Two,Fully furnished,55,Ground floor,Zero to eleven months,Monthly,55
+Muscat,Three,Two,Not furnished,130,Ground floor,One to five years,Monthly,140
+Ash Sharqiyah,Three,Two,Not furnished,100,Ground floor,ten to nineteen years,Monthly,140
+Al Batinah,Two,Two,Not furnished,72,First floor,One to five years,Monthly,100
+Ash Sharqiyah,Three,Two,Not furnished,210,First floor,One to five years,Monthly,150
+Ash Sharqiyah,Two,Three,Not furnished,102,Ground floor,ten to nineteen years,Monthly,100
+Al Batinah,Two,Two,Fully furnished,150,Second floor,One to five years,Monthly,220
+Al Batinah,One,One,Fully furnished,75,First floor,One to five years,Monthly,150
+Muscat,One,Two,Not furnished,110,Ground floor,One to five years,Yearly,110
+Muscat,Two,Three,Not furnished,102,Second floor,One to five years,Monthly,290
+Al Batinah,One,One,Fully furnished,70,Ground floor,Zero to eleven months,Daily,15
+Muscat,Two,Two,Not furnished,95,First floor,Six to nine years,Yearly,180
+Muscat,One,One,Fully furnished,120,First floor,One to five years,Monthly,150
+Muscat,Two,Three,Partially furnished,100,Sixth floor and up,One to five years,Yearly,130
+Muscat,Two,Two,Not furnished,130,Fourth floor,Zero to eleven months,Yearly,375
+Muscat,One,One,Fully furnished,120,Ground floor,Zero to eleven months,Monthly,245
+Muscat,Two,One,Not furnished,88,Second floor,Six to nine years,Monthly,200
+Muscat,One,Two,Not furnished,99,Ground floor,ten to nineteen years,Yearly,200
+Muscat,Four,Three,Not furnished,110,Ground floor,ten to nineteen years,Monthly,230
+Ash Sharqiyah,Three,Three,Partially furnished,115,Basement floor,One to five years,Monthly,150
+Ash Sharqiyah,Two,Two,Fully furnished,100,First floor,Six to nine years,Daily,15
+Muscat,Two,Three,Not furnished,120,Sixth floor and up,Six to nine years,Monthly,275
+Muscat,One,One,Fully furnished,150,Sixth floor and up,One to five years,Monthly,250
+Al Batinah,Two,Two,Fully furnished,115,Second floor,Six to nine years,Monthly,150
+Muscat,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Monthly,300
+Muscat,Two,Two,Not furnished,90,Second floor,One to five years,Yearly,160
+Muscat,Three,Three,Not furnished,120,Second floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,90,Second floor,One to five years,Yearly,210
+Muscat,Two,Three,Not furnished,100,Second floor,One to five years,Yearly,230
+Al Buraimi,Two,Two,Not furnished,600,First floor,One to five years,Monthly,70
+Muscat,Two,Two,Fully furnished,75,First floor,One to five years,Monthly,300
+Muscat,One,One,Not furnished,300,Third floor,Six to nine years,Monthly,100
+Dhofar,One,Two,Fully furnished,90,First floor,One to five years,Daily,35
+Muscat,Four,Four,Partially furnished,120,Second floor,One to five years,Monthly,400
+Muscat,Four,Four,Not furnished,80,First floor,One to five years,Yearly,500
+Muscat,Three,Three,Not furnished,120,Ground floor,One to five years,Monthly,250
+Muscat,Three,Three,Not furnished,250,Ground floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,80,First floor,One to five years,Yearly,230
+Muscat,Two,Three,Not furnished,80,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,80,First floor,One to five years,Yearly,160
+Muscat,Two,Two,Not furnished,80,First floor,One to five years,Yearly,160
+Muscat,Two,Two,Fully furnished,170,Second floor,Zero to eleven months,Monthly,290
+Muscat,Two,Three,Not furnished,127,First floor,One to five years,Monthly,150
+Muscat,Two,Two,Not furnished,80,First floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,80,First floor,One to five years,Yearly,180
+Muscat,Three,Two,Not furnished,110,First floor,Twenty years or more,Yearly,130
+Al Batinah,Studio,One,Fully furnished,50,First floor,One to five years,Daily,15
+Muscat,Two,Two,Fully furnished,100,First floor,ten to nineteen years,Yearly,375
+Muscat,Two,Two,Not furnished,120,First floor,Six to nine years,Yearly,170
+Ad Dakhiliyah,Three,Two,Not furnished,100,First floor,ten to nineteen years,Monthly,85
+Muscat,Three,Three,Not furnished,300,Ground floor,Six to nine years,Monthly,350
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,150
+Dhofar,Three,Two,Fully furnished,300,Ground floor,Six to nine years,Monthly,120
+Muscat,One,One,Fully furnished,80,Ground floor,One to five years,Yearly,200
+Muscat,One,One,Not furnished,100,Second floor,One to five years,Monthly,190
+Muscat,One,Two,Fully furnished,73,First floor,One to five years,Monthly,490
+Muscat,Three,Three,Fully furnished,107,First floor,Six to nine years,Monthly,20
+Muscat,One,One,Partially furnished,50,Sixth floor and up,Six to nine years,Monthly,160
+Ash Sharqiyah,Studio,One,Fully furnished,100,Ground floor,Zero to eleven months,Daily,25
+Dhofar,Two,Two,Fully furnished,120,First floor,One to five years,Yearly,120
+Al Batinah,Two,Two,Not furnished,100,Ground floor,One to five years,Monthly,80
+Ad Dakhiliyah,Three,Two,Partially furnished,115,Ground floor,Twenty years or more,Yearly,85
+Al Batinah,One,One,Fully furnished,85,Third floor,One to five years,Monthly,125
+Muscat,Two,Two,Fully furnished,100,First floor,One to five years,Monthly,300
+Muscat,Three,Two,Not furnished,105,Second floor,Six to nine years,Monthly,120
+Muscat,Four,Four,Not furnished,160,Second floor,One to five years,Monthly,150
+Muscat,Studio,One,Not furnished,100,Basement floor,ten to nineteen years,Monthly,130
+Dhofar,Three,Two,Fully furnished,170,First floor,One to five years,Monthly,150
+Muscat,Two,Three,Not furnished,165,Ground floor,Six to nine years,Yearly,230
+Muscat,Three,Two,Partially furnished,200,Third floor,ten to nineteen years,Monthly,150
+Muscat,Two,Two,Not furnished,95,Third floor,One to five years,Yearly,330
+Muscat,Two,Two,Fully furnished,300,First floor,Six to nine years,Monthly,300
+Muscat,Two,Three,Not furnished,88,Third floor,One to five years,Yearly,180
+Ash Sharqiyah,Two,Two,Not furnished,80,Second floor,One to five years,Yearly,60
+Muscat,Three,Four,Not furnished,143,First floor,One to five years,Yearly,280
+Dhofar,Two,Two,Fully furnished,123,First floor,One to five years,Monthly,98
+Dhofar,Two,One,Fully furnished,123,First floor,One to five years,Monthly,88
+Dhofar,Two,Two,Fully furnished,110,First floor,One to five years,Daily,15
+Muscat,Three,Three,Not furnished,110,Second floor,One to five years,Monthly,130
+Muscat,Two,One,Fully furnished,150,Fifth floor,One to five years,Monthly,350
+Dhofar,Two,Two,Fully furnished,120,Ground floor,One to five years,Monthly,100
+Muscat,Three,Two,Not furnished,150,First floor,One to five years,Monthly,230
+Muscat,Two,Two,Not furnished,91,Sixth floor and up,One to five years,Yearly,170
+Muscat,Two,Three,Fully furnished,110,Third floor,One to five years,Monthly,120
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,250
+Ad Dakhiliyah,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,120
+Muscat,Two,Three,Not furnished,120,First floor,Six to nine years,Yearly,250
+Muscat,One,Two,Not furnished,70,Ground floor,ten to nineteen years,Yearly,200
+Muscat,Two,Three,Fully furnished,110,Fifth floor,One to five years,Monthly,20
+Muscat,Two,Three,Fully furnished,140,Sixth floor and up,Zero to eleven months,Monthly,370
+Al Batinah,Two,Two,Not furnished,80,Ground floor,ten to nineteen years,Monthly,120
+Dhofar,Two,Two,Fully furnished,150,Ground floor,One to five years,Yearly,100
+Dhofar,Two,Two,Fully furnished,80,Ground floor,Six to nine years,Monthly,115
+Muscat,Two,Two,Fully furnished,140,First floor,One to five years,Monthly,350
+Muscat,Two,Two,Not furnished,85,Fourth floor,One to five years,Yearly,260
+Dhofar,Two,Two,Fully furnished,83,Second floor,One to five years,Yearly,120
+Muscat,Two,Three,Not furnished,90,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Fully furnished,150,Third floor,Zero to eleven months,Monthly,350
+Muscat,One,One,Fully furnished,90,First floor,One to five years,Monthly,240
+Al Batinah,Three,Four,Partially furnished,320,Ground floor,One to five years,Monthly,280
+Al Batinah,Three,Three,Partially furnished,315,First floor,Six to nine years,Monthly,120
+Al Batinah,Two,Two,Not furnished,428,Ground floor,Zero to eleven months,Yearly,150
+Al Batinah,Studio,Two,Not furnished,90,Ground floor,Zero to eleven months,Monthly,120
+Muscat,Three,Three,Not furnished,200,First floor,One to five years,Yearly,500
+Muscat,Six or more,Five or more,Fully furnished,999,First floor,One to five years,Daily,50
+Muscat,Two,Two,Not furnished,100,Fifth floor,One to five years,Yearly,275
+Al Batinah,Two,Two,Fully furnished,90,Second floor,Zero to eleven months,Monthly,180
+Ad Dhahirah,One,One,Partially furnished,100,First floor,One to five years,Monthly,60
+Muscat,Three,Four,Not furnished,333,First floor,Six to nine years,Yearly,400
+Muscat,Two,Two,Fully furnished,120,Third floor,One to five years,Daily,15
+Muscat,Two,Two,Not furnished,110,Second floor,Six to nine years,Yearly,270
+Ad Dhahirah,Three,Two,Partially furnished,100,Ground floor,Zero to eleven months,Yearly,100
+Muscat,Three,Two,Not furnished,95,Second floor,ten to nineteen years,Monthly,125
+Muscat,Three,Two,Not furnished,80,Second floor,ten to nineteen years,Yearly,130
+Muscat,Three,Two,Not furnished,130,First floor,One to five years,Yearly,165
+Al Batinah,Three,Two,Partially furnished,130,Basement floor,Six to nine years,Monthly,150
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,195
+Muscat,Three,Three,Not furnished,140,Second floor,One to five years,Yearly,215
+Muscat,Three,Three,Not furnished,120,Ground floor,One to five years,Yearly,245
+Muscat,Three,Two,Not furnished,120,Second floor,Six to nine years,Yearly,165
+Muscat,Three,Three,Not furnished,115,Third floor,One to five years,Monthly,120
+Dhofar,Three,Three,Fully furnished,150,First floor,One to five years,Yearly,150
+Muscat,Two,Two,Fully furnished,120,First floor,Zero to eleven months,Monthly,330
+Dhofar,Two,Two,Fully furnished,150,First floor,One to five years,Monthly,120
+Muscat,Four,Three,Not furnished,142,Ground floor,One to five years,Monthly,150
+Muscat,One,One,Fully furnished,120,First floor,Zero to eleven months,Monthly,250
+Muscat,One,Two,Not furnished,70,Second floor,Six to nine years,Yearly,200
+Muscat,Two,Three,Not furnished,120,Fourth floor,One to five years,Yearly,375
+Muscat,Two,Three,Not furnished,120,Second floor,Six to nine years,Yearly,275
+Muscat,One,Two,Partially furnished,80,Second floor,One to five years,Yearly,450
+Muscat,One,One,Partially furnished,60,First floor,One to five years,Yearly,330
+Muscat,Two,Two,Not furnished,100,Second floor,Six to nine years,Monthly,150
+Muscat,Two,Two,Not furnished,130,First floor,Six to nine years,Yearly,250
+Muscat,Two,Two,Not furnished,80,Sixth floor and up,One to five years,Monthly,180
+Muscat,Studio,One,Fully furnished,100,Sixth floor and up,One to five years,Monthly,170
+Muscat,Two,Three,Not furnished,100,Ground floor,One to five years,Monthly,160
+Ash Sharqiyah,Two,Two,Partially furnished,100,First floor,One to five years,Yearly,140
+Muscat,Two,Three,Fully furnished,150,Second floor,One to five years,Monthly,320
+Muscat,One,One,Not furnished,80,Ground floor,One to five years,Monthly,200
+Muscat,Studio,One,Not furnished,55,First floor,One to five years,Monthly,160
+Al Batinah,Two,Two,Not furnished,120,Ground floor,Zero to eleven months,Monthly,130
+Muscat,Two,Three,Fully furnished,95,Third floor,One to five years,Yearly,450
+Muscat,Three,Three,Not furnished,100,First floor,One to five years,Yearly,350
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,350
+Muscat,Three,Two,Not furnished,127,Second floor,One to five years,Monthly,130
+Muscat,One,Two,Fully furnished,80,Third floor,One to five years,Yearly,500
+Muscat,Studio,One,Fully furnished,65,Sixth floor and up,One to five years,Daily,15
+Muscat,Studio,One,Fully furnished,65,Sixth floor and up,One to five years,Daily,15
+Muscat,Three,Three,Partially furnished,165,Second floor,Six to nine years,Monthly,180
+Dhofar,Two,Two,Fully furnished,180,Ground floor,Six to nine years,Yearly,100
+Ad Dhahirah,Three,Three,Not furnished,130,Ground floor,One to five years,Monthly,140
+Muscat,Studio,One,Partially furnished,110,First floor,Zero to eleven months,Monthly,150
+Muscat,Three,Three,Partially furnished,144,Ground floor,Six to nine years,Monthly,180
+Muscat,Three,Three,Fully furnished,133,First floor,One to five years,Yearly,27
+Ad Dhahirah,Three,Two,Partially furnished,100,Ground floor,Zero to eleven months,Yearly,100
+Muscat,Three,Three,Partially furnished,132,First floor,One to five years,Monthly,150
+Muscat,Two,Two,Fully furnished,105,First floor,Six to nine years,Monthly,250
+Muscat,Three,Three,Not furnished,140,Third floor,One to five years,Yearly,220
+Muscat,Two,Three,Not furnished,110,Third floor,One to five years,Yearly,180
+Al Batinah,Three,Two,Not furnished,67,First floor,One to five years,Yearly,120
+Muscat,Three,Three,Partially furnished,120,Second floor,One to five years,Monthly,180
+Ad Dakhiliyah,One,Two,Fully furnished,100,First floor,One to five years,Daily,18
+Muscat,Three,Three,Not furnished,180,First floor,ten to nineteen years,Monthly,280
+Al Batinah,Two,Two,Not furnished,600,Second floor,Zero to eleven months,Monthly,105
+Dhofar,Three,Three,Fully furnished,124,First floor,Zero to eleven months,Monthly,180
+Al Batinah,Two,Two,Partially furnished,100,First floor,Zero to eleven months,Yearly,120
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Monthly,200
+Ash Sharqiyah,Two,Two,Partially furnished,102,First floor,One to five years,Monthly,125
+Muscat,One,Two,Partially furnished,90,Fourth floor,One to five years,Monthly,350
+Al Batinah,Four,Four,Partially furnished,200,Ground floor,One to five years,Monthly,190
+Muscat,Three,Three,Fully furnished,155,Second floor,One to five years,Monthly,750
+Dhofar,Two,Two,Fully furnished,85,First floor,One to five years,Monthly,120
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,210
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,160
+Muscat,Two,Two,Not furnished,100,Third floor,One to five years,Monthly,210
+Muscat,Three,Three,Not furnished,150,First floor,One to five years,Monthly,320
+Dhofar,Two,Two,Partially furnished,600,First floor,Zero to eleven months,Yearly,120
+Muscat,Two,Three,Not furnished,130,First floor,Six to nine years,Yearly,250
+Muscat,Three,Three,Partially furnished,115,Ground floor,One to five years,Monthly,220
+Muscat,Three,Two,Not furnished,130,Second floor,One to five years,Monthly,300
+Muscat,Three,Three,Not furnished,180,Ground floor,One to five years,Yearly,200
+Muscat,One,One,Not furnished,50,Ground floor,One to five years,Monthly,90
+Muscat,Three,Three,Not furnished,116,Second floor,Zero to eleven months,Yearly,330
+Muscat,Two,Two,Not furnished,180,First floor,Six to nine years,Yearly,250
+Al Batinah,Two,Two,Not furnished,100,Ground floor,Six to nine years,Monthly,120
+Muscat,Two,Two,Not furnished,112,Sixth floor and up,One to five years,Monthly,250
+Muscat,Two,Three,Partially furnished,150,Third floor,Six to nine years,Yearly,400
+Muscat,Two,Two,Not furnished,120,Third floor,Six to nine years,Yearly,240
+Muscat,One,Two,Not furnished,80,Third floor,Six to nine years,Yearly,260
+Muscat,Two,Two,Not furnished,100,First floor,Zero to eleven months,Yearly,160
+Muscat,Studio,One,Partially furnished,70,Third floor,Six to nine years,Monthly,180
+Muscat,Two,Two,Not furnished,85,Sixth floor and up,One to five years,Monthly,240
+Dhofar,Two,Two,Fully furnished,55,First floor,One to five years,Daily,10
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,200
+Muscat,Four,Four,Not furnished,150,Ground floor,Six to nine years,Yearly,390
+Al Buraimi,Two,Two,Not furnished,150,Second floor,Six to nine years,Monthly,125
+Muscat,Three,Three,Partially furnished,120,Third floor,Zero to eleven months,Yearly,120
+Muscat,Three,Two,Not furnished,100,First floor,Six to nine years,Yearly,190
+Muscat,One,Two,Fully furnished,64,Sixth floor and up,One to five years,Yearly,180
+Dhofar,Two,Two,Fully furnished,72,Third floor,Six to nine years,Daily,15
+Muscat,One,One,Fully furnished,108,Ground floor,One to five years,Yearly,130
+Muscat,Four,Two,Not furnished,130,First floor,ten to nineteen years,Monthly,200
+Dhofar,Two,Two,Fully furnished,200,First floor,One to five years,Yearly,120
+Muscat,One,Two,Fully furnished,100,Third floor,Zero to eleven months,Monthly,280
+Muscat,One,Two,Fully furnished,100,Third floor,Zero to eleven months,Monthly,280
+Al Batinah,Two,Three,Partially furnished,600,Basement floor,One to five years,Monthly,150
+Dhofar,Two,Two,Fully furnished,150,First floor,Zero to eleven months,Monthly,100
+Muscat,Three,Three,Not furnished,135,Second floor,Six to nine years,Yearly,250
+Muscat,Two,Two,Not furnished,120,Second floor,Six to nine years,Yearly,210
+Muscat,Three,Three,Not furnished,140,Second floor,ten to nineteen years,Yearly,250
+Muscat,Two,Three,Not furnished,130,First floor,ten to nineteen years,Yearly,250
+Ad Dakhiliyah,Two,Two,Fully furnished,100,Ground floor,Six to nine years,Daily,15
+Dhofar,Three,Two,Fully furnished,300,Basement floor,ten to nineteen years,Yearly,200
+Muscat,Two,Three,Fully furnished,140,First floor,One to five years,Monthly,245
+Muscat,Two,Two,Fully furnished,120,Sixth floor and up,Zero to eleven months,Daily,15
+Muscat,Two,Two,Not furnished,65,Second floor,One to five years,Monthly,200
+Muscat,One,Two,Fully furnished,50,Ground floor,Six to nine years,Monthly,300
+Muscat,Three,Two,Not furnished,111,First floor,One to five years,Monthly,220
+Muscat,Two,Three,Not furnished,100,Ground floor,One to five years,Monthly,120
+Dhofar,Two,One,Fully furnished,120,Ground floor,One to five years,Monthly,100
+Muscat,One,Two,Fully furnished,65,Second floor,Six to nine years,Monthly,15
+Muscat,Two,Three,Fully furnished,95,Fifth floor,One to five years,Monthly,20
+Muscat,Three,Three,Not furnished,135,First floor,One to five years,Monthly,250
+Dhofar,Two,Two,Fully furnished,100,Ground floor,Zero to eleven months,Daily,100
+Muscat,Three,Three,Partially furnished,113,Second floor,One to five years,Yearly,120
+Muscat,One,One,Fully furnished,90,Ground floor,Zero to eleven months,Monthly,170
+Muscat,Studio,One,Fully furnished,66,First floor,Zero to eleven months,Monthly,170
+Al Batinah,One,Two,Not furnished,700,First floor,One to five years,Monthly,200
+Muscat,Two,Two,Not furnished,100,Ground floor,Zero to eleven months,Monthly,220
+Muscat,One,One,Not furnished,50,First floor,Zero to eleven months,Monthly,130
+Al Batinah,Two,Two,Not furnished,300,First floor,Six to nine years,Yearly,120
+Muscat,Studio,One,Fully furnished,50,First floor,Zero to eleven months,Monthly,170
+Muscat,Three,Three,Partially furnished,300,Second floor,ten to nineteen years,Monthly,145
+Dhofar,Two,One,Fully furnished,100,Second floor,One to five years,Daily,15
+Muscat,Two,Two,Fully furnished,100,First floor,One to five years,Yearly,280
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,225
+Muscat,Two,Three,Fully furnished,120,First floor,One to five years,Yearly,700
+Dhofar,Two,Two,Fully furnished,80,Sixth floor and up,Zero to eleven months,Monthly,100
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,350
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,330
+Muscat,One,Two,Not furnished,90,Third floor,Zero to eleven months,Yearly,240
+Muscat,One,One,Fully furnished,90,First floor,One to five years,Yearly,600
+Muscat,One,Two,Not furnished,100,Third floor,Six to nine years,Yearly,200
+Muscat,Three,Three,Not furnished,120,First floor,One to five years,Yearly,350
+Muscat,One,Two,Not furnished,90,Second floor,Zero to eleven months,Yearly,220
+Dhofar,Two,One,Fully furnished,600,First floor,Six to nine years,Monthly,12
+Muscat,Two,Three,Not furnished,120,First floor,Six to nine years,Yearly,200
+Muscat,Two,Two,Not furnished,130,Fourth floor,One to five years,Yearly,260
+Muscat,Three,Three,Not furnished,100,Second floor,One to five years,Yearly,150
+Muscat,Two,Two,Not furnished,130,Ground floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,150,First floor,ten to nineteen years,Yearly,150
+Al Batinah,Two,Two,Not furnished,95,Ground floor,Zero to eleven months,Monthly,150
+Ash Sharqiyah,Three,Three,Not furnished,101,Ground floor,One to five years,Monthly,140
+Muscat,Two,Two,Not furnished,75,Sixth floor and up,Zero to eleven months,Monthly,150
+Muscat,One,One,Not furnished,70,Second floor,One to five years,Monthly,200
+Muscat,Studio,One,Not furnished,60,Second floor,One to five years,Monthly,150
+Al Batinah,Two,Two,Not furnished,300,First floor,Zero to eleven months,Monthly,110
+Muscat,Two,Two,Not furnished,120,Second floor,Six to nine years,Yearly,210
+Muscat,Three,Three,Not furnished,130,Second floor,Six to nine years,Yearly,250
+Muscat,Three,Three,Not furnished,150,First floor,One to five years,Yearly,230
+Muscat,One,One,Not furnished,120,Second floor,Six to nine years,Monthly,150
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,160
+Muscat,Two,Two,Not furnished,150,First floor,One to five years,Monthly,230
+Muscat,Two,Three,Fully furnished,100,Fifth floor,Zero to eleven months,Daily,11
+Muscat,Studio,Two,Fully furnished,70,Ground floor,One to five years,Yearly,300
+Muscat,Two,Two,Fully furnished,140,Second floor,Zero to eleven months,Weekly,150
+Muscat,Three,Three,Not furnished,120,Second floor,One to five years,Yearly,180
+Dhofar,Four,Three,Fully furnished,170,First floor,One to five years,Yearly,180
+Muscat,Two,Three,Not furnished,100,Second floor,Zero to eleven months,Yearly,175
+Ad Dakhiliyah,Two,Two,Not furnished,145,Ground floor,Zero to eleven months,Monthly,120
+Muscat,Three,Four,Fully furnished,155,Fifth floor,One to five years,Monthly,650
+Muscat,Three,Three,Not furnished,130,First floor,One to five years,Monthly,180
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,160
+Muscat,Two,Two,Not furnished,130,Ground floor,One to five years,Yearly,140
+Muscat,Two,Three,Fully furnished,140,Second floor,One to five years,Monthly,550
+Muscat,One,Three,Not furnished,140,Fourth floor,One to five years,Yearly,400
+Muscat,Two,Two,Not furnished,125,Second floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,95,Ground floor,One to five years,Monthly,300
+Muscat,Two,Three,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Two,Three,Not furnished,140,Second floor,One to five years,Yearly,550
+Muscat,Two,Two,Not furnished,120,Fifth floor,One to five years,Yearly,200
+Dhofar,Two,Three,Fully furnished,101,First floor,Six to nine years,Monthly,150
+Muscat,Two,Two,Partially furnished,150,Fourth floor,One to five years,Yearly,650
+Dhofar,Studio,One,Fully furnished,80,Basement floor,Six to nine years,Daily,10
+Dhofar,Three,Three,Fully furnished,110,First floor,Zero to eleven months,Monthly,180
+Muscat,One,One,Fully furnished,95,Third floor,Six to nine years,Yearly,550
+Muscat,One,Two,Not furnished,56,First floor,One to five years,Yearly,210
+Dhofar,One,One,Fully furnished,100,First floor,Zero to eleven months,Daily,10
+Al Batinah,Two,Two,Not furnished,50,First floor,One to five years,Yearly,120
+Dhofar,One,One,Fully furnished,100,First floor,Zero to eleven months,Daily,10
+Dhofar,Two,Two,Fully furnished,160,Second floor,One to five years,Daily,12
+Muscat,One,Two,Partially furnished,80,Sixth floor and up,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,100,Ground floor,Six to nine years,Yearly,350
+Muscat,Two,Three,Not furnished,130,Fifth floor,One to five years,Yearly,375
+Dhofar,Two,One,Fully furnished,100,First floor,One to five years,Daily,15
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,240
+Dhofar,Three,Two,Fully furnished,100,Ground floor,One to five years,Weekly,20
+Muscat,One,Two,Fully furnished,120,Sixth floor and up,Zero to eleven months,Daily,15
+Muscat,Three,Two,Not furnished,125,Ground floor,One to five years,Yearly,270
+Muscat,One,Two,Not furnished,95,First floor,One to five years,Yearly,195
+Muscat,One,One,Not furnished,85,First floor,One to five years,Yearly,130
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Yearly,280
+Muscat,One,One,Not furnished,90,First floor,ten to nineteen years,Yearly,125
+Muscat,Two,Two,Not furnished,125,Ground floor,Six to nine years,Yearly,230
+Muscat,Two,Two,Not furnished,90,Second floor,Six to nine years,Yearly,150
+Muscat,One,One,Not furnished,100,First floor,Six to nine years,Yearly,160
+Dhofar,Two,Two,Not furnished,120,First floor,Zero to eleven months,Yearly,120
+Muscat,Two,Three,Not furnished,83,Fourth floor,One to five years,Monthly,220
+Dhofar,Two,Two,Fully furnished,85,First floor,One to five years,Monthly,120
+Ad Dhahirah,Two,Three,Partially furnished,110,Basement floor,Six to nine years,Monthly,100
+Muscat,Three,Three,Partially furnished,120,Second floor,Six to nine years,Monthly,120
+Muscat,Two,Three,Not furnished,100,Ground floor,One to five years,Monthly,200
+Ad Dhahirah,Two,Two,Not furnished,100,First floor,One to five years,Monthly,100
+Muscat,Two,Three,Not furnished,220,Ground floor,Six to nine years,Monthly,350
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Yearly,200
+Ad Dakhiliyah,Two,Three,Not furnished,150,Ground floor,One to five years,Monthly,120
+Muscat,Two,Two,Not furnished,110,Second floor,Six to nine years,Yearly,200
+Muscat,Two,Two,Not furnished,56,Fourth floor,One to five years,Monthly,125
+Muscat,Three,Three,Not furnished,130,Ground floor,Zero to eleven months,Monthly,200
+Dhofar,Two,Two,Fully furnished,90,Third floor,One to five years,Daily,20
+Muscat,Two,Two,Not furnished,100,First floor,Zero to eleven months,Yearly,130
+Al Batinah,Three,Two,Not furnished,120,Second floor,One to five years,Monthly,125
+Muscat,One,One,Fully furnished,110,Second floor,Zero to eleven months,Monthly,130
+Al Batinah,Two,Two,Not furnished,90,Third floor,Six to nine years,Monthly,130
+Muscat,Studio,One,Not furnished,50,First floor,ten to nineteen years,Monthly,165
+Muscat,Studio,One,Not furnished,70,First floor,One to five years,Monthly,160
+Muscat,Three,Three,Not furnished,200,First floor,One to five years,Yearly,270
+Al Batinah,One,Two,Not furnished,100,Third floor,Six to nine years,Monthly,140
+Muscat,Two,Three,Not furnished,100,Ground floor,One to five years,Monthly,200
+Muscat,Three,Four,Not furnished,200,First floor,One to five years,Monthly,260
+Ad Dakhiliyah,Two,Two,Not furnished,80,First floor,One to five years,Monthly,70
+Dhofar,One,One,Fully furnished,150,Ground floor,One to five years,Yearly,130
+Muscat,Two,Two,Not furnished,120,Third floor,One to five years,Yearly,200
+Muscat,Two,Three,Not furnished,120,Second floor,Zero to eleven months,Yearly,280
+Muscat,Three,Two,Fully furnished,100,Second floor,Six to nine years,Monthly,170
+Dhofar,Three,Two,Fully furnished,180,First floor,Six to nine years,Yearly,180
+Muscat,Three,Three,Not furnished,100,Third floor,One to five years,Yearly,290
+Muscat,Three,Two,Partially furnished,50,Ground floor,Six to nine years,Monthly,130
+Muscat,Three,Three,Not furnished,250,Ground floor,One to five years,Monthly,250
+Al Batinah,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,120
+Muscat,Two,Two,Not furnished,117,Second floor,One to five years,Yearly,200
+Dhofar,Four,Four,Fully furnished,200,Basement floor,Zero to eleven months,Daily,60
+Muscat,One,One,Fully furnished,100,Ground floor,One to five years,Monthly,110
+Ad Dakhiliyah,Four,Three,Not furnished,130,Second floor,One to five years,Monthly,140
+Muscat,Two,Three,Not furnished,106,First floor,Zero to eleven months,Monthly,350
+Muscat,Two,Two,Fully furnished,130,Third floor,One to five years,Monthly,310
+Al Batinah,Three,Two,Not furnished,200,Second floor,Zero to eleven months,Yearly,120
+Ad Dakhiliyah,Two,Two,Fully furnished,100,First floor,One to five years,Daily,18
+Dhofar,Three,Two,Fully furnished,200,Basement floor,Zero to eleven months,Daily,30
+Muscat,One,Two,Fully furnished,90,Sixth floor and up,One to five years,Daily,25
+Muscat,One,One,Fully furnished,70,Ground floor,Six to nine years,Monthly,220
+Muscat,Three,Three,Not furnished,70,First floor,One to five years,Monthly,250
+Muscat,One,One,Not furnished,100,Second floor,Six to nine years,Monthly,140
+Muscat,Two,Two,Fully furnished,250,Ground floor,Zero to eleven months,Monthly,450
+Muscat,One,One,Fully furnished,80,First floor,Zero to eleven months,Monthly,200
+Ad Dhahirah,Three,Two,Partially furnished,160,First floor,ten to nineteen years,Monthly,100
+Muscat,Three,Two,Not furnished,400,First floor,One to five years,Monthly,200
+Al Wusta,Two,Two,Not furnished,100,First floor,Zero to eleven months,Monthly,250
+Muscat,Two,Two,Fully furnished,200,Fifth floor,One to five years,Monthly,300
+Ad Dakhiliyah,Three,Three,Fully furnished,150,Ground floor,Zero to eleven months,Daily,35
+Muscat,Two,Two,Fully furnished,100,Third floor,Six to nine years,Monthly,200
+Muscat,Two,Two,Not furnished,110,Second floor,One to five years,Yearly,220
+Muscat,One,One,Not furnished,150,Third floor,Six to nine years,Monthly,85
+Muscat,Two,Three,Fully furnished,92,Sixth floor and up,One to five years,Daily,25
+Al Batinah,Three,Two,Not furnished,100,First floor,Six to nine years,Monthly,120
+Dhofar,One,One,Partially furnished,50,Second floor,Six to nine years,Yearly,90
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,240
+Muscat,Two,Two,Not furnished,90,First floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,250
+Muscat,One,One,Not furnished,85,First floor,Six to nine years,Yearly,160
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,250
+Muscat,Three,Three,Not furnished,150,First floor,One to five years,Yearly,325
+Dhofar,Two,Two,Fully furnished,100,First floor,One to five years,Daily,20
+Dhofar,Three,Two,Not furnished,140,First floor,ten to nineteen years,Yearly,150
+Al Batinah,Two,Two,Partially furnished,90,First floor,Zero to eleven months,Yearly,130
+Muscat,Two,Three,Not furnished,120,First floor,Zero to eleven months,Yearly,220
+Dhofar,Two,Two,Fully furnished,250,Basement floor,Zero to eleven months,Daily,15
+Muscat,Three,Three,Not furnished,111,Fourth floor,One to five years,Yearly,200
+Dhofar,Two,Three,Fully furnished,600,Ground floor,One to five years,Monthly,100
+Muscat,One,Two,Fully furnished,200,Ground floor,One to five years,Monthly,300
+Muscat,Two,Two,Fully furnished,280,Fifth floor,Six to nine years,Monthly,310
+Dhofar,Three,Two,Fully furnished,150,Ground floor,One to five years,Monthly,140
+Dhofar,Studio,One,Fully furnished,50,Ground floor,One to five years,Daily,13
+Dhofar,Studio,One,Fully furnished,50,Ground floor,One to five years,Daily,13
+Al Batinah,One,One,Fully furnished,200,Basement floor,Zero to eleven months,Monthly,20
+Muscat,Two,Two,Not furnished,90,Third floor,Zero to eleven months,Yearly,240
+Ash Sharqiyah,Three,Three,Not furnished,150,First floor,Six to nine years,Monthly,100
+Muscat,Two,Three,Not furnished,100,Ground floor,Zero to eleven months,Yearly,280
+Muscat,Two,Four,Not furnished,130,Third floor,Zero to eleven months,Yearly,320
+Muscat,Two,Two,Not furnished,120,First floor,Zero to eleven months,Yearly,250
+Al Batinah,Two,Two,Partially furnished,100,Basement floor,Six to nine years,Monthly,100
+Muscat,Three,Four,Not furnished,150,First floor,One to five years,Yearly,450
+Muscat,One,One,Fully furnished,90,Ground floor,Six to nine years,Monthly,250
+Muscat,Two,Two,Fully furnished,127,Second floor,One to five years,Yearly,650
+Muscat,Two,Two,Partially furnished,130,Ground floor,One to five years,Monthly,160
+Dhofar,Two,Two,Fully furnished,50,First floor,One to five years,Monthly,120
+Muscat,One,Two,Not furnished,75,First floor,Six to nine years,Yearly,130
+Muscat,Two,Three,Fully furnished,112,Third floor,One to five years,Monthly,260
+Dhofar,Three,Three,Fully furnished,120,First floor,One to five years,Monthly,150
+Dhofar,Two,Two,Fully furnished,100,First floor,One to five years,Yearly,120
+Dhofar,One,One,Fully furnished,60,First floor,One to five years,Yearly,270
+Muscat,Two,Two,Fully furnished,150,Second floor,Zero to eleven months,Monthly,300
+Muscat,One,One,Fully furnished,100,First floor,Zero to eleven months,Monthly,250
+Muscat,Two,Three,Not furnished,105,Fifth floor,One to five years,Monthly,200
+Muscat,Studio,Two,Not furnished,112,Ground floor,One to five years,Monthly,250
+Muscat,Three,Three,Not furnished,60,Fifth floor,Zero to eleven months,Monthly,75
+Al Wusta,Three,Two,Partially furnished,100,Ground floor,One to five years,Yearly,300
+Muscat,Three,Three,Not furnished,120,First floor,One to five years,Monthly,320
+Muscat,Two,Two,Fully furnished,120,Second floor,One to five years,Monthly,150
+Dhofar,Two,Two,Fully furnished,450,Sixth floor and up,One to five years,Daily,25
+Muscat,One,Two,Not furnished,100,Second floor,One to five years,Monthly,140
+Ash Sharqiyah,Two,Two,Fully furnished,85,First floor,One to five years,Yearly,140
+Muscat,Two,Two,Partially furnished,82,Sixth floor and up,Six to nine years,Yearly,220
+Dhofar,Two,Two,Fully furnished,120,Second floor,One to five years,Yearly,100
+Dhofar,Two,Two,Fully furnished,120,Second floor,Six to nine years,Daily,15
+Dhofar,One,Two,Fully furnished,600,Ground floor,Zero to eleven months,Daily,65
+Al Batinah,One,Two,Fully furnished,500,First floor,One to five years,Daily,10
+Muscat,Two,Three,Fully furnished,270,Ground floor,One to five years,Monthly,600
+Muscat,Studio,One,Fully furnished,80,Ground floor,Zero to eleven months,Monthly,200
+Dhofar,Two,Two,Fully furnished,500,Fourth floor,Zero to eleven months,Yearly,120
+Muscat,Three,Three,Not furnished,120,Ground floor,Six to nine years,Monthly,180
+Muscat,One,One,Not furnished,71,Second floor,One to five years,Monthly,255
+Dhofar,Three,Three,Fully furnished,696,Ground floor,Six to nine years,Daily,25
+Al Batinah,One,Two,Not furnished,100,Second floor,One to five years,Yearly,100
+Muscat,Two,Two,Not furnished,90,Ground floor,ten to nineteen years,Yearly,350
+Al Batinah,Two,Two,Not furnished,300,Second floor,One to five years,Yearly,150
+Muscat,Three,Three,Not furnished,230,First floor,One to five years,Monthly,180
+Muscat,One,One,Fully furnished,70,First floor,One to five years,Monthly,160
+Muscat,Three,Two,Partially furnished,105,Ground floor,One to five years,Monthly,185
+Muscat,Studio,One,Fully furnished,70,First floor,One to five years,Monthly,200
+Muscat,One,One,Fully furnished,200,First floor,One to five years,Monthly,230
+Muscat,Two,Two,Fully furnished,200,First floor,One to five years,Monthly,250
+Muscat,Two,One,Partially furnished,80,Ground floor,ten to nineteen years,Monthly,140
+Muscat,One,Two,Not furnished,80,First floor,One to five years,Yearly,300
+Muscat,Two,Three,Fully furnished,125,Second floor,One to five years,Monthly,320
+Muscat,Two,Two,Fully furnished,100,Ground floor,One to five years,Monthly,225
+Muscat,Five,Three,Not furnished,200,Ground floor,One to five years,Monthly,100
+Muscat,Studio,Two,Fully furnished,600,First floor,Six to nine years,Daily,10
+Muscat,Studio,One,Fully furnished,50,First floor,One to five years,Monthly,195
+Muscat,Two,Two,Fully furnished,100,Second floor,One to five years,Daily,340
+Muscat,Studio,One,Not furnished,60,First floor,One to five years,Monthly,170
+Ad Dhahirah,Two,Two,Not furnished,150,Ground floor,Zero to eleven months,Monthly,100
+Muscat,Two,Two,Not furnished,95,First floor,One to five years,Yearly,140
+Muscat,Three,Three,Not furnished,250,First floor,Six to nine years,Yearly,200
+Muscat,Three,Three,Not furnished,300,First floor,One to five years,Monthly,180
+Muscat,Two,Three,Not furnished,180,First floor,Six to nine years,Yearly,250
+Muscat,Three,Four,Not furnished,220,Ground floor,Zero to eleven months,Yearly,350
+Muscat,One,One,Not furnished,60,First floor,Six to nine years,Yearly,200
+Muscat,One,Two,Not furnished,100,First floor,One to five years,Monthly,175
+Muscat,Two,Three,Not furnished,130,Third floor,One to five years,Monthly,410
+Muscat,Two,Two,Not furnished,90,First floor,One to five years,Monthly,235
+Muscat,One,One,Not furnished,80,First floor,ten to nineteen years,Monthly,100
+Muscat,One,Two,Not furnished,90,First floor,One to five years,Monthly,150
+Muscat,Studio,One,Fully furnished,50,Fifth floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,220
+Muscat,Two,Three,Not furnished,200,Ground floor,One to five years,Monthly,165
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,250
+Al Batinah,Two,Two,Not furnished,141,Second floor,One to five years,Monthly,350
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,240
+Muscat,One,Two,Not furnished,100,First floor,One to five years,Monthly,190
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,235
+Muscat,One,Two,Partially furnished,70,Sixth floor and up,One to five years,Yearly,335
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,240
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,250
+Dhofar,Two,Two,Fully furnished,125,Ground floor,Zero to eleven months,Monthly,120
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Monthly,250
+Muscat,One,Two,Not furnished,70,Third floor,Six to nine years,Yearly,225
+Muscat,Two,Three,Partially furnished,140,Second floor,One to five years,Yearly,380
+Muscat,Two,Two,Not furnished,55,First floor,One to five years,Yearly,230
+Muscat,Two,Three,Not furnished,55,First floor,One to five years,Yearly,230
+Muscat,Two,One,Fully furnished,115,Fifth floor,One to five years,Monthly,450
+Muscat,Two,Three,Not furnished,55,First floor,One to five years,Yearly,160
+Muscat,Two,Two,Not furnished,55,First floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,55,First floor,One to five years,Yearly,160
+Muscat,One,Two,Not furnished,80,Second floor,Six to nine years,Monthly,170
+Muscat,One,One,Not furnished,90,First floor,Six to nine years,Yearly,100
+Muscat,Two,Two,Fully furnished,150,First floor,Zero to eleven months,Monthly,310
+Dhofar,Two,Two,Fully furnished,90,Ground floor,Zero to eleven months,Monthly,200
+Muscat,One,One,Not furnished,70,First floor,One to five years,Monthly,250
+Muscat,Two,Two,Not furnished,90,Third floor,Zero to eleven months,Monthly,130
+Muscat,Two,Two,Not furnished,90,Basement floor,One to five years,Yearly,120
+Muscat,Three,Two,Not furnished,90,First floor,One to five years,Yearly,150
+Muscat,Two,Two,Not furnished,70,First floor,Zero to eleven months,Monthly,130
+Muscat,Three,Two,Fully furnished,130,Ground floor,Six to nine years,Monthly,200
+Dhofar,Two,Two,Fully furnished,100,Basement floor,Zero to eleven months,Yearly,150
+Muscat,Three,Three,Not furnished,120,Ground floor,One to five years,Monthly,160
+Dhofar,Two,Two,Fully furnished,120,Ground floor,One to five years,Monthly,100
+Al Batinah,Two,Two,Not furnished,100,First floor,One to five years,Monthly,110
+Muscat,Three,Two,Fully furnished,119,Second floor,One to five years,Yearly,210
+Dhofar,One,Two,Fully furnished,100,Fourth floor,One to five years,Daily,15
+Muscat,One,Two,Fully furnished,60,Second floor,Six to nine years,Monthly,270
+Dhofar,Three,Five or more,Fully furnished,200,Ground floor,One to five years,Daily,35
+Muscat,Two,Three,Not furnished,108,Ground floor,One to five years,Yearly,140
+Muscat,Three,Three,Fully furnished,140,First floor,Six to nine years,Monthly,180
+Muscat,Two,Two,Fully furnished,90,Second floor,Six to nine years,Monthly,320
+Ad Dakhiliyah,Two,Two,Partially furnished,100,First floor,One to five years,Monthly,100
+Al Batinah,Studio,One,Fully furnished,60,Fifth floor,Zero to eleven months,Monthly,75
+Muscat,Two,Two,Fully furnished,85,Second floor,One to five years,Monthly,200
+Dhofar,Three,Three,Fully furnished,180,Ground floor,One to five years,Daily,30
+Al Batinah,Two,Two,Partially furnished,636,Ground floor,Six to nine years,Monthly,120
+Ad Dakhiliyah,Two,Two,Not furnished,100,Second floor,Zero to eleven months,Monthly,90
+Muscat,One,One,Fully furnished,60,First floor,One to five years,Monthly,300
+Al Wusta,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Yearly,250
+Muscat,Two,Two,Not furnished,80,Second floor,Six to nine years,Monthly,160
+Al Wusta,Two,Two,Fully furnished,100,Ground floor,Zero to eleven months,Monthly,250
+Muscat,Two,Two,Fully furnished,130,Second floor,Zero to eleven months,Daily,18
+Muscat,Three,Two,Not furnished,150,First floor,ten to nineteen years,Monthly,200
+Ad Dakhiliyah,Three,Three,Not furnished,400,First floor,One to five years,Monthly,150
+Dhofar,Two,Two,Fully furnished,100,Sixth floor and up,One to five years,Yearly,120
+Muscat,Two,Three,Not furnished,300,Third floor,One to five years,Yearly,325
+Dhofar,Three,Two,Fully furnished,300,Ground floor,Zero to eleven months,Daily,35
+Al Batinah,Two,Two,Fully furnished,130,First floor,Six to nine years,Monthly,170
+Muscat,Two,Two,Not furnished,130,Sixth floor and up,One to five years,Yearly,550
+Muscat,Two,Two,Fully furnished,130,Sixth floor and up,One to five years,Yearly,600
+Dhofar,Two,One,Fully furnished,55,Ground floor,Twenty years or more,Yearly,100
+Al Batinah,Three,Two,Fully furnished,90,Ground floor,Six to nine years,Monthly,95
+Al Batinah,Two,Two,Partially furnished,200,Ground floor,Six to nine years,Monthly,90
+Muscat,Two,Two,Partially furnished,80,Ground floor,Six to nine years,Monthly,220
+Muscat,Two,Two,Partially furnished,85,Sixth floor and up,ten to nineteen years,Monthly,180
+Muscat,Three,Three,Not furnished,170,Third floor,One to five years,Yearly,350
+Muscat,Three,Four,Not furnished,130,First floor,One to five years,Yearly,350
+Muscat,Two,Three,Fully furnished,110,Second floor,Six to nine years,Monthly,280
+Muscat,Two,Three,Fully furnished,120,Second floor,Twenty years or more,Yearly,280
+Al Wusta,Three,One,Fully furnished,90,First floor,Zero to eleven months,Monthly,210
+Muscat,One,Two,Not furnished,100,Fifth floor,One to five years,Yearly,190
+Al Batinah,Two,Two,Partially furnished,200,Ground floor,Six to nine years,Monthly,130
+Muscat,One,Two,Not furnished,70,Second floor,Six to nine years,Yearly,220
+Dhofar,Three,Three,Fully furnished,175,Ground floor,Zero to eleven months,Daily,170
+Muscat,Two,Two,Not furnished,100,Fourth floor,One to five years,Yearly,275
+Muscat,Two,Two,Not furnished,120,Ground floor,Six to nine years,Yearly,400
+Muscat,Two,Three,Fully furnished,105,Fourth floor,One to five years,Monthly,450
+Muscat,One,Two,Not furnished,75,Sixth floor and up,One to five years,Monthly,240
+Muscat,Two,Two,Fully furnished,65,Third floor,One to five years,Weekly,20
+Dhofar,Two,Two,Fully furnished,100,Ground floor,Zero to eleven months,Yearly,120
+Dhofar,Two,Two,Fully furnished,85,First floor,Six to nine years,Monthly,95
+Muscat,Two,Three,Not furnished,90,First floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,125,Ground floor,Six to nine years,Yearly,230
+Muscat,Three,Three,Not furnished,125,Ground floor,Six to nine years,Monthly,200
+Muscat,One,Two,Not furnished,99,Third floor,One to five years,Yearly,230
+Muscat,Two,Four,Partially furnished,137,Ground floor,One to five years,Yearly,550
+Muscat,Four,Three,Not furnished,150,First floor,ten to nineteen years,Yearly,350
+Muscat,Four,Four,Partially furnished,210,Second floor,One to five years,Yearly,450
+Al Batinah,Three,Three,Not furnished,150,Basement floor,One to five years,Monthly,450
+Al Batinah,Two,Two,Not furnished,100,Second floor,Zero to eleven months,Monthly,180
+Muscat,Three,Three,Not furnished,140,First floor,Six to nine years,Yearly,300
+Dhofar,One,One,Fully furnished,600,First floor,Zero to eleven months,Daily,10
+Al Batinah,One,One,Partially furnished,70,First floor,Zero to eleven months,Monthly,120
+Muscat,Three,Four,Not furnished,120,Sixth floor and up,One to five years,Monthly,600
+Al Batinah,Two,One,Not furnished,75,Ground floor,ten to nineteen years,Monthly,65
+Muscat,Two,Three,Fully furnished,109,Second floor,One to five years,Daily,15
+Muscat,Two,Two,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Two,Two,Not furnished,85,First floor,Zero to eleven months,Yearly,160
+Muscat,Two,Two,Not furnished,120,Fifth floor,Six to nine years,Yearly,280
+Muscat,Three,Three,Not furnished,140,Third floor,Six to nine years,Yearly,320
+Muscat,Three,Two,Not furnished,82,Second floor,Zero to eleven months,Monthly,200
+Muscat,Studio,One,Fully furnished,50,First floor,One to five years,Monthly,190
+Muscat,Three,Two,Not furnished,116,First floor,One to five years,Yearly,600
+Dhofar,Two,Two,Fully furnished,100,First floor,One to five years,Daily,12
+Ad Dhahirah,Two,Two,Not furnished,200,First floor,One to five years,Monthly,90
+Al Buraimi,Two,Two,Not furnished,100,First floor,Zero to eleven months,Monthly,80
+Muscat,Two,One,Partially furnished,104,Second floor,Zero to eleven months,Monthly,195
+Muscat,One,One,Fully furnished,70,Fourth floor,One to five years,Monthly,230
+Muscat,Three,Three,Not furnished,140,Basement floor,One to five years,Monthly,200
+Dhofar,Three,Two,Fully furnished,320,First floor,Six to nine years,Monthly,125
+Dhofar,Three,Two,Fully furnished,170,First floor,Zero to eleven months,Daily,18
+Dhofar,Four,Four,Fully furnished,156,First floor,Six to nine years,Yearly,200
+Al Wusta,Two,Two,Not furnished,80,Ground floor,Zero to eleven months,Yearly,250
+Dhofar,Two,Two,Fully furnished,91,Ground floor,One to five years,Daily,25
+Muscat,Three,Four,Fully furnished,130,Ground floor,Zero to eleven months,Daily,20
+Dhofar,Two,One,Fully furnished,200,Ground floor,ten to nineteen years,Yearly,100
+Muscat,Two,One,Not furnished,90,Second floor,One to five years,Yearly,140
+Al Batinah,One,One,Not furnished,300,Second floor,Six to nine years,Monthly,38
+Al Batinah,Two,Two,Not furnished,90,Ground floor,Zero to eleven months,Monthly,120
+Muscat,One,One,Partially furnished,73,Second floor,Zero to eleven months,Monthly,300
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Yearly,210
+Muscat,One,One,Not furnished,70,Ground floor,One to five years,Yearly,150
+Muscat,Two,Two,Not furnished,84,Fifth floor,Zero to eleven months,Yearly,150
+Al Batinah,Two,One,Fully furnished,60,Ground floor,Zero to eleven months,Monthly,130
+Muscat,One,Two,Fully furnished,85,Second floor,One to five years,Monthly,270
+Muscat,Three,Three,Fully furnished,90,First floor,Zero to eleven months,Monthly,250
+Muscat,One,One,Not furnished,85,Second floor,One to five years,Monthly,150
+Muscat,Three,Three,Not furnished,124,Ground floor,One to five years,Monthly,190
+Muscat,One,One,Not furnished,75,First floor,One to five years,Monthly,170
+Muscat,One,Three,Not furnished,190,Ground floor,One to five years,Monthly,165
+Muscat,One,One,Not furnished,70,Ground floor,One to five years,Monthly,170
+Muscat,Three,Three,Partially furnished,150,First floor,One to five years,Yearly,230
+Al Batinah,Studio,One,Not furnished,80,Ground floor,One to five years,Monthly,90
+Muscat,Two,Two,Partially furnished,114,Ground floor,Zero to eleven months,Yearly,150
+Ad Dakhiliyah,Three,Two,Partially furnished,150,Third floor,Zero to eleven months,Monthly,150
+Ad Dakhiliyah,Two,Three,Not furnished,130,First floor,One to five years,Monthly,100
+Muscat,Three,Three,Not furnished,153,Third floor,Six to nine years,Yearly,360
+Muscat,Two,Two,Not furnished,150,Ground floor,Six to nine years,Yearly,225
+Muscat,Two,Three,Not furnished,80,First floor,Zero to eleven months,Monthly,150
+Ad Dhahirah,Two,Two,Partially furnished,65,Second floor,One to five years,Monthly,120
+Muscat,One,One,Not furnished,100,First floor,One to five years,Yearly,550
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,600
+Muscat,Three,Two,Not furnished,200,Second floor,Six to nine years,Monthly,240
+Muscat,One,One,Fully furnished,85,First floor,One to five years,Yearly,600
+Muscat,Two,Two,Fully furnished,100,First floor,One to five years,Yearly,400
+Al Batinah,Two,One,Not furnished,150,Second floor,ten to nineteen years,Monthly,100
+Muscat,Three,Two,Not furnished,110,Ground floor,Six to nine years,Monthly,150
+Dhofar,Three,Two,Fully furnished,125,Ground floor,One to five years,Daily,20
+Muscat,Three,Two,Not furnished,104,First floor,One to five years,Yearly,155
+Muscat,Six or more,Four,Not furnished,450,Ground floor,One to five years,Monthly,350
+Dhofar,Four,Five or more,Fully furnished,200,Basement floor,One to five years,Daily,80
+Dhofar,One,Two,Fully furnished,70,Second floor,Zero to eleven months,Daily,70
+Muscat,Two,Two,Not furnished,110,First floor,One to five years,Monthly,225
+Dhofar,Three,Three,Fully furnished,300,Ground floor,One to five years,Daily,30
+Muscat,Three,Three,Not furnished,126,First floor,One to five years,Yearly,120
+Muscat,Two,Two,Not furnished,110,Second floor,One to five years,Monthly,190
+Dhofar,Three,Two,Fully furnished,150,Second floor,One to five years,Yearly,120
+Muscat,Three,Three,Partially furnished,80,Second floor,One to five years,Yearly,160
+Ash Sharqiyah,Two,Two,Not furnished,130,First floor,One to five years,Monthly,130
+Muscat,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Monthly,700
+Ad Dakhiliyah,Three,Three,Partially furnished,200,First floor,One to five years,Monthly,150
+Muscat,Studio,One,Fully furnished,50,Second floor,One to five years,Monthly,200
+Muscat,One,One,Fully furnished,110,Ground floor,Zero to eleven months,Yearly,290
+Al Batinah,Two,Two,Partially furnished,120,First floor,Zero to eleven months,Yearly,100
+Muscat,One,One,Fully furnished,65,Ground floor,Six to nine years,Monthly,260
+Muscat,Four,Three,Fully furnished,127,First floor,Zero to eleven months,Daily,16
+Muscat,Two,One,Fully furnished,65,First floor,Six to nine years,Monthly,300
+Muscat,One,Two,Not furnished,600,Basement floor,One to five years,Monthly,180
+Muscat,Three,Three,Fully furnished,100,First floor,One to five years,Daily,20
+Muscat,One,Two,Not furnished,70,Fourth floor,One to five years,Yearly,250
+Muscat,Three,Three,Not furnished,89,Third floor,Six to nine years,Monthly,130
+Ash Sharqiyah,Two,Two,Fully furnished,90,Ground floor,One to five years,Monthly,100
+Muscat,Three,Three,Fully furnished,100,First floor,One to five years,Daily,20
+Muscat,Two,Three,Fully furnished,94,Sixth floor and up,One to five years,Daily,15
+Muscat,Four,Three,Not furnished,150,Second floor,One to five years,Yearly,210
+Dhofar,Two,Two,Fully furnished,140,Ground floor,Zero to eleven months,Daily,25
+Al Batinah,Three,Three,Not furnished,225,Ground floor,One to five years,Monthly,180
+Muscat,Two,Three,Not furnished,150,First floor,One to five years,Yearly,280
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,160
+Muscat,Two,Three,Not furnished,80,Third floor,One to five years,Yearly,200
+Dhofar,One,One,Fully furnished,65,First floor,Zero to eleven months,Weekly,30
+Muscat,Two,One,Not furnished,100,Second floor,One to five years,Yearly,195
+Muscat,Two,Three,Fully furnished,200,First floor,Zero to eleven months,Monthly,260
+Muscat,Two,Three,Fully furnished,120,Second floor,One to five years,Monthly,360
+Al Batinah,Two,Two,Not furnished,85,Ground floor,One to five years,Yearly,120
+Muscat,Three,Three,Fully furnished,120,Second floor,One to five years,Monthly,370
+Al Batinah,Two,Two,Partially furnished,70,Second floor,Zero to eleven months,Monthly,100
+Muscat,Two,Three,Fully furnished,100,Second floor,One to five years,Monthly,450
+Muscat,Two,Three,Not furnished,90,Second floor,One to five years,Yearly,280
+Muscat,Two,Two,Not furnished,120,Second floor,Six to nine years,Yearly,120
+Muscat,Two,Two,Not furnished,100,First floor,ten to nineteen years,Monthly,120
+Muscat,Two,Two,Not furnished,90,First floor,One to five years,Monthly,200
+Muscat,Three,Three,Not furnished,130,Second floor,ten to nineteen years,Monthly,150
+Muscat,Two,Three,Not furnished,120,Ground floor,Six to nine years,Monthly,280
+Dhofar,Studio,One,Fully furnished,50,First floor,One to five years,Daily,20
+Muscat,One,One,Fully furnished,100,Fifth floor,Six to nine years,Monthly,140
+Muscat,Two,Two,Not furnished,133,Fourth floor,One to five years,Yearly,675
+Muscat,Two,Two,Not furnished,160,Third floor,Six to nine years,Yearly,600
+Muscat,Two,Three,Not furnished,50,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Yearly,220
+Muscat,Three,Three,Partially furnished,116,Third floor,Zero to eleven months,Yearly,330
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Yearly,160
+Muscat,Two,Three,Not furnished,50,First floor,One to five years,Yearly,230
+Dhofar,Three,Two,Fully furnished,180,Ground floor,One to five years,Daily,20
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Yearly,160
+Muscat,Three,Two,Not furnished,100,Second floor,Zero to eleven months,Monthly,200
+Muscat,Two,Two,Not furnished,180,First floor,Six to nine years,Yearly,160
+Al Batinah,Studio,One,Fully furnished,60,Basement floor,One to five years,Monthly,70
+Muscat,Two,Two,Not furnished,98,Third floor,One to five years,Monthly,225
+Al Buraimi,Two,Two,Partially furnished,80,Ground floor,Six to nine years,Monthly,70
+Muscat,Two,Three,Not furnished,125,First floor,One to five years,Monthly,100
+Dhofar,Three,One,Fully furnished,130,Second floor,Six to nine years,Monthly,125
+Al Batinah,Three,Two,Not furnished,300,Second floor,ten to nineteen years,Monthly,120
+Muscat,Three,Two,Fully furnished,121,Sixth floor and up,One to five years,Yearly,260
+Ash Sharqiyah,Two,Two,Fully furnished,120,First floor,Six to nine years,Monthly,150
+Ad Dakhiliyah,Three,Three,Fully furnished,200,First floor,One to five years,Monthly,150
+Al Batinah,Three,Three,Not furnished,300,First floor,Six to nine years,Monthly,180
+Dhofar,Four,Four,Fully furnished,789,First floor,Six to nine years,Yearly,200
+Muscat,Three,Three,Not furnished,110,First floor,One to five years,Monthly,150
+Dhofar,Two,Two,Fully furnished,400,Second floor,One to five years,Monthly,100
+Dhofar,Two,Two,Fully furnished,110,Ground floor,One to five years,Daily,20
+Dhofar,Three,Three,Fully furnished,180,Ground floor,One to five years,Daily,35
+Dhofar,Two,Two,Fully furnished,200,First floor,Zero to eleven months,Monthly,80
+Al Batinah,Two,Two,Not furnished,90,First floor,One to five years,Monthly,110
+Muscat,Two,Two,Not furnished,110,Second floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,95,First floor,Six to nine years,Yearly,150
+Muscat,One,One,Not furnished,70,First floor,One to five years,Yearly,170
+Dhofar,One,One,Fully furnished,300,First floor,One to five years,Daily,10
+Dhofar,Three,Two,Fully furnished,150,Ground floor,Six to nine years,Monthly,100
+Dhofar,Two,Two,Fully furnished,200,First floor,Six to nine years,Monthly,120
+Al Batinah,Two,Two,Fully furnished,100,Second floor,One to five years,Daily,10
+Muscat,Two,Two,Not furnished,150,Ground floor,Six to nine years,Yearly,225
+Muscat,Three,Two,Partially furnished,89,Ground floor,ten to nineteen years,Monthly,150
+Muscat,One,One,Not furnished,200,Ground floor,Twenty years or more,Monthly,250
+Dhofar,Two,Two,Fully furnished,123,Ground floor,One to five years,Monthly,130
+Dhofar,Two,Two,Not furnished,250,First floor,Zero to eleven months,Yearly,130
+Muscat,Two,Three,Fully furnished,120,Fourth floor,Six to nine years,Monthly,280
+Muscat,Three,Two,Not furnished,120,Second floor,Zero to eleven months,Yearly,170
+Muscat,Two,Two,Fully furnished,170,Fifth floor,Six to nine years,Monthly,310
+Muscat,One,One,Fully furnished,190,First floor,Six to nine years,Monthly,270
+Muscat,Two,One,Not furnished,250,Second floor,One to five years,Monthly,190
+Dhofar,Three,Two,Fully furnished,120,Ground floor,Six to nine years,Monthly,120
+Muscat,Three,Four,Not furnished,150,Second floor,One to five years,Monthly,150
+Muscat,One,One,Fully furnished,66,Sixth floor and up,Six to nine years,Yearly,220
+Al Batinah,Two,Two,Not furnished,120,Ground floor,One to five years,Monthly,80
+Muscat,Two,Two,Fully furnished,140,Fourth floor,Zero to eleven months,Monthly,350
+Muscat,Studio,One,Fully furnished,60,First floor,One to five years,Monthly,160
+Dhofar,Two,Two,Fully furnished,100,Fourth floor,One to five years,Daily,15
+Muscat,Two,Three,Not furnished,90,Basement floor,Zero to eleven months,Monthly,185
+Al Batinah,One,One,Not furnished,80,Second floor,One to five years,Monthly,120
+Muscat,Three,Three,Partially furnished,150,Ground floor,One to five years,Monthly,220
+Muscat,One,One,Fully furnished,120,Third floor,One to five years,Monthly,120
+Ad Dakhiliyah,Three,Two,Not furnished,200,Second floor,Zero to eleven months,Monthly,110
+Muscat,Two,Three,Not furnished,90,First floor,One to five years,Yearly,210
+Muscat,Studio,One,Fully furnished,50,First floor,Six to nine years,Monthly,165
+Muscat,Three,Three,Not furnished,170,Fifth floor,One to five years,Monthly,240
+Al Batinah,Two,Two,Not furnished,400,Ground floor,Zero to eleven months,Yearly,150
+Dhofar,Two,Two,Fully furnished,76,First floor,Six to nine years,Daily,15
+Al Batinah,Two,Two,Not furnished,80,First floor,One to five years,Monthly,100
+Ad Dakhiliyah,Three,Three,Not furnished,140,First floor,One to five years,Monthly,140
+Muscat,Two,Two,Not furnished,110,Fourth floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,150,Fourth floor,One to five years,Monthly,200
+Muscat,One,One,Not furnished,70,Second floor,Six to nine years,Yearly,140
+Dhofar,Studio,One,Fully furnished,60,Third floor,One to five years,Daily,27
+Muscat,Two,Two,Not furnished,110,Fourth floor,One to five years,Yearly,260
+Al Wusta,Six or more,Five or more,Fully furnished,600,Ground floor,One to five years,Yearly,300
+Muscat,Two,Three,Fully furnished,140,Sixth floor and up,One to five years,Yearly,550
+Muscat,Two,Three,Not furnished,130,Sixth floor and up,One to five years,Yearly,375
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,250
+Dhofar,Two,Two,Fully furnished,70,First floor,Zero to eleven months,Daily,17
+Muscat,One,One,Fully furnished,88,Ground floor,Zero to eleven months,Daily,50
+Muscat,Two,Two,Fully furnished,200,Second floor,One to five years,Monthly,250
+Muscat,Two,Two,Not furnished,120,Second floor,Zero to eleven months,Yearly,300
+Muscat,Two,Three,Not furnished,120,First floor,Zero to eleven months,Yearly,220
+Dhofar,Two,One,Fully furnished,400,Ground floor,Six to nine years,Yearly,130
+Dhofar,Two,One,Fully furnished,50,Ground floor,One to five years,Daily,20
+Ash Sharqiyah,Two,Two,Partially furnished,120,Ground floor,Zero to eleven months,Monthly,80
+Dhofar,Three,Two,Fully furnished,125,Ground floor,One to five years,Daily,22
+Muscat,Three,Three,Not furnished,200,Ground floor,One to five years,Monthly,250
+Al Batinah,Two,Two,Not furnished,50,Ground floor,Six to nine years,Yearly,55
+Muscat,Four,Four,Not furnished,380,First floor,ten to nineteen years,Monthly,300
+Dhofar,Three,Two,Fully furnished,150,Ground floor,One to five years,Yearly,160
+Dhofar,Two,Two,Fully furnished,120,First floor,One to five years,Yearly,140
+Dhofar,One,One,Fully furnished,90,First floor,One to five years,Yearly,110
+Dhofar,Two,One,Fully furnished,120,Ground floor,Six to nine years,Yearly,120
+Dhofar,Two,Two,Fully furnished,120,First floor,One to five years,Yearly,125
+Dhofar,Two,Two,Fully furnished,120,Second floor,One to five years,Daily,55
+Muscat,Two,Two,Not furnished,150,Second floor,Zero to eleven months,Monthly,200
+Dhofar,Three,Three,Fully furnished,408,First floor,One to five years,Daily,35
+Dhofar,One,One,Fully furnished,100,Basement floor,Six to nine years,Monthly,10
+Dhofar,Two,Two,Fully furnished,86,Second floor,One to five years,Monthly,100
+Dhofar,Two,One,Fully furnished,300,First floor,ten to nineteen years,Monthly,100
+Muscat,Two,Two,Not furnished,150,Third floor,One to five years,Monthly,150
+Muscat,Two,Two,Fully furnished,95,First floor,One to five years,Monthly,275
+Dhofar,Three,Two,Fully furnished,85,Ground floor,One to five years,Daily,17
+Muscat,One,Two,Fully furnished,89,Sixth floor and up,One to five years,Daily,25
+Ad Dhahirah,One,One,Fully furnished,160,Second floor,Zero to eleven months,Daily,15
+Dhofar,Two,Two,Fully furnished,450,Fifth floor,Zero to eleven months,Daily,17
+Muscat,Two,Three,Not furnished,120,First floor,One to five years,Monthly,230
+Dhofar,Two,Two,Fully furnished,300,Ground floor,One to five years,Daily,10
+Muscat,Four,Four,Not furnished,144,Ground floor,Six to nine years,Monthly,250
+Ad Dakhiliyah,One,One,Fully furnished,200,First floor,One to five years,Daily,20
+Ad Dakhiliyah,Two,Three,Fully furnished,200,First floor,One to five years,Daily,25
+Dhofar,Two,Two,Fully furnished,200,First floor,One to five years,Daily,20
+Muscat,One,Two,Fully furnished,170,Second floor,One to five years,Monthly,270
+Ad Dakhiliyah,Three,Three,Fully furnished,140,First floor,One to five years,Yearly,90
+Al Batinah,Three,Three,Not furnished,100,Ground floor,One to five years,Monthly,150
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Yearly,210
+Muscat,One,One,Not furnished,80,First floor,One to five years,Yearly,450
+Dhofar,Three,Three,Fully furnished,133,Ground floor,Zero to eleven months,Yearly,170
+Muscat,One,Two,Fully furnished,90,Second floor,Zero to eleven months,Monthly,240
+Ash Sharqiyah,Two,Two,Fully furnished,110,Ground floor,Zero to eleven months,Daily,20
+Muscat,Two,Two,Not furnished,100,Sixth floor and up,Six to nine years,Yearly,240
+Ash Sharqiyah,Three,Two,Not furnished,100,First floor,ten to nineteen years,Monthly,125
+Muscat,Two,Two,Not furnished,150,Third floor,Zero to eleven months,Yearly,260
+Muscat,Two,Three,Not furnished,250,Third floor,ten to nineteen years,Monthly,220
+Muscat,Two,Two,Not furnished,90,Fourth floor,Zero to eleven months,Monthly,220
+Dhofar,Three,Two,Fully furnished,200,Second floor,Zero to eleven months,Daily,25
+Muscat,Three,Three,Fully furnished,158,Second floor,Six to nine years,Daily,15
+Dhofar,Two,Two,Fully furnished,250,Ground floor,One to five years,Daily,19
+Muscat,Two,Three,Not furnished,100,Third floor,Zero to eleven months,Monthly,300
+Al Batinah,Two,One,Partially furnished,60,First floor,One to five years,Monthly,120
+Al Batinah,Two,Two,Not furnished,130,First floor,Zero to eleven months,Monthly,125
+Al Batinah,Two,Two,Not furnished,90,First floor,One to five years,Monthly,120
+Dhofar,One,One,Fully furnished,65,Ground floor,One to five years,Daily,35
+Dhofar,Two,Two,Fully furnished,90,First floor,One to five years,Daily,30
+Al Batinah,Two,Two,Not furnished,90,Second floor,Zero to eleven months,Monthly,70
+Dhofar,Two,Two,Fully furnished,190,First floor,One to five years,Monthly,20
+Dhofar,Two,Two,Fully furnished,90,Second floor,One to five years,Daily,20
+Al Batinah,Two,Two,Partially furnished,50,First floor,One to five years,Monthly,130
+Muscat,Two,Two,Fully furnished,220,Second floor,Zero to eleven months,Daily,35
+Dhofar,Two,One,Fully furnished,111,Ground floor,One to five years,Daily,15
+Dhofar,Studio,One,Fully furnished,212,First floor,One to five years,Daily,14
+Dhofar,One,One,Fully furnished,111,First floor,One to five years,Daily,12
+Muscat,Two,Two,Not furnished,140,Ground floor,One to five years,Monthly,600
+Muscat,Three,Four,Not furnished,250,Ground floor,One to five years,Yearly,400
+Muscat,Two,Three,Not furnished,200,Ground floor,One to five years,Yearly,220
+Muscat,One,Two,Not furnished,100,Third floor,One to five years,Yearly,180
+Muscat,Two,Two,Not furnished,130,Second floor,One to five years,Yearly,225
+Al Batinah,Two,Two,Not furnished,100,Ground floor,One to five years,Monthly,100
+Muscat,One,Two,Fully furnished,90,First floor,One to five years,Monthly,250
+Ash Sharqiyah,Two,Three,Not furnished,400,Ground floor,One to five years,Yearly,170
+Muscat,Five,Five or more,Not furnished,200,First floor,Zero to eleven months,Yearly,300
+Muscat,One,Two,Fully furnished,388,Second floor,One to five years,Daily,15
+Muscat,One,Two,Not furnished,68,Sixth floor and up,One to five years,Yearly,160
+Dhofar,Two,Two,Fully furnished,100,Ground floor,Six to nine years,Monthly,120
+Dhofar,Three,Two,Fully furnished,126,Ground floor,One to five years,Daily,20
+Muscat,One,Two,Fully furnished,50,Third floor,Six to nine years,Daily,13
+Ash Sharqiyah,Studio,Two,Fully furnished,100,Ground floor,Zero to eleven months,Daily,70
+Muscat,Two,Two,Partially furnished,98,Third floor,One to five years,Monthly,370
+Dhofar,Three,Two,Fully furnished,103,First floor,Zero to eleven months,Monthly,140
+Muscat,Two,Two,Not furnished,120,Third floor,Six to nine years,Monthly,150
+Muscat,Three,Three,Partially furnished,400,First floor,Six to nine years,Yearly,400
+Dhofar,Three,Two,Fully furnished,72,Second floor,One to five years,Daily,30
+Muscat,Three,Three,Not furnished,160,Ground floor,One to five years,Monthly,150
+Muscat,Three,Two,Not furnished,83,Ground floor,Six to nine years,Monthly,150
+Al Batinah,Two,Three,Fully furnished,120,First floor,One to five years,Daily,10
+Muscat,Two,Two,Fully furnished,120,Fifth floor,One to five years,Monthly,300
+Muscat,Two,Two,Not furnished,120,Sixth floor and up,One to five years,Yearly,350
+Muscat,Two,Two,Not furnished,89,Sixth floor and up,Six to nine years,Yearly,375
+Muscat,Three,Three,Partially furnished,150,First floor,ten to nineteen years,Monthly,320
+Dhofar,Two,Two,Fully furnished,80,Ground floor,One to five years,Monthly,90
+Dhofar,Three,One,Partially furnished,160,Ground floor,ten to nineteen years,Yearly,15
+Muscat,Two,Three,Not furnished,130,Third floor,One to five years,Yearly,285
+Muscat,Three,Four,Not furnished,150,Sixth floor and up,One to five years,Yearly,425
+Muscat,Two,Three,Not furnished,130,Second floor,One to five years,Yearly,350
+Muscat,One,Three,Not furnished,107,Second floor,Zero to eleven months,Monthly,400
+Muscat,Three,Three,Partially furnished,93,Third floor,Six to nine years,Monthly,140
+Muscat,Two,Two,Not furnished,120,Third floor,Six to nine years,Yearly,190
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,220
+Muscat,Two,Three,Not furnished,125,Second floor,One to five years,Yearly,250
+Muscat,Studio,One,Not furnished,50,First floor,One to five years,Monthly,145
+Muscat,Two,Two,Not furnished,130,Fourth floor,One to five years,Yearly,170
+Muscat,Two,Two,Partially furnished,50,First floor,Six to nine years,Monthly,165
+Dhofar,Two,Two,Fully furnished,600,Ground floor,One to five years,Daily,16
+Muscat,Three,Three,Partially furnished,118,First floor,Six to nine years,Monthly,160
+Dhofar,Three,One,Fully furnished,70,First floor,Six to nine years,Monthly,100
+Muscat,Studio,One,Not furnished,50,First floor,Six to nine years,Monthly,145
+Muscat,Two,Two,Not furnished,110,Fourth floor,One to five years,Yearly,375
+Muscat,Two,Three,Not furnished,100,Fourth floor,Zero to eleven months,Yearly,300
+Muscat,Two,Three,Not furnished,130,Second floor,One to five years,Yearly,350
+Muscat,Two,Three,Not furnished,140,Sixth floor and up,One to five years,Yearly,375
+Muscat,Two,Two,Not furnished,90,Second floor,One to five years,Yearly,160
+Dhofar,Two,One,Partially furnished,300,Ground floor,One to five years,Yearly,120
+Ash Sharqiyah,Two,Two,Not furnished,100,First floor,One to five years,Monthly,100
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,250
+Muscat,Three,Three,Not furnished,150,First floor,Six to nine years,Yearly,350
+Muscat,Two,Two,Fully furnished,120,First floor,Six to nine years,Yearly,525
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,330
+Muscat,Two,Two,Not furnished,120,First floor,Six to nine years,Yearly,300
+Dhofar,One,One,Fully furnished,200,Ground floor,One to five years,Daily,12
+Muscat,Three,Three,Partially furnished,108,First floor,One to five years,Monthly,100
+Dhofar,Two,Two,Fully furnished,150,First floor,One to five years,Daily,20
+Al Batinah,Two,Two,Not furnished,100,Third floor,One to five years,Yearly,100
+Muscat,Two,Two,Not furnished,110,Second floor,One to five years,Monthly,230
+Muscat,Two,Three,Fully furnished,85,Second floor,One to five years,Yearly,250
+Muscat,Studio,One,Not furnished,200,First floor,Zero to eleven months,Monthly,130
+Muscat,Two,Three,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Three,Three,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Two,Two,Not furnished,107,Ground floor,Six to nine years,Yearly,650
+Ad Dakhiliyah,One,One,Not furnished,100,Basement floor,Six to nine years,Monthly,80
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Monthly,150
+Muscat,Three,Three,Not furnished,240,Ground floor,Zero to eleven months,Monthly,220
+Muscat,One,Two,Fully furnished,75,First floor,ten to nineteen years,Monthly,650
+Muscat,Three,Three,Not furnished,101,First floor,One to five years,Monthly,150
+Dhofar,Three,Three,Fully furnished,500,Ground floor,One to five years,Daily,35
+Dhofar,Three,Three,Fully furnished,300,Ground floor,Zero to eleven months,Daily,20
+Dhofar,Two,Two,Fully furnished,180,First floor,Zero to eleven months,Monthly,110
+Muscat,Two,Two,Not furnished,150,Sixth floor and up,One to five years,Monthly,180
+Muscat,Three,Two,Not furnished,130,First floor,Six to nine years,Monthly,140
+Dhofar,Three,Four,Fully furnished,200,Ground floor,One to five years,Daily,50
+Muscat,One,One,Not furnished,100,Second floor,One to five years,Monthly,110
+Dhofar,Two,Two,Fully furnished,100,Third floor,Zero to eleven months,Monthly,120
+Al Batinah,Two,Two,Not furnished,200,Ground floor,One to five years,Yearly,130
+Al Batinah,Two,Two,Not furnished,150,Ground floor,One to five years,Monthly,120
+Al Batinah,Two,Two,Not furnished,555,First floor,Zero to eleven months,Yearly,110
+Muscat,Three,Three,Not furnished,600,First floor,One to five years,Monthly,100
+Ash Sharqiyah,Three,Three,Not furnished,198,First floor,Twenty years or more,Monthly,100
+Muscat,Three,Three,Not furnished,180,First floor,One to five years,Yearly,330
+Ad Dhahirah,Four,Two,Not furnished,110,Second floor,Twenty years or more,Monthly,150
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,200
+Muscat,Three,Four,Fully furnished,200,Second floor,One to five years,Yearly,340
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,75,Ground floor,ten to nineteen years,Monthly,135
+Muscat,Three,Three,Partially furnished,130,First floor,One to five years,Monthly,150
+Muscat,Three,Three,Not furnished,150,First floor,Zero to eleven months,Yearly,450
+Muscat,Two,Two,Fully furnished,120,First floor,One to five years,Yearly,350
+Muscat,Three,Two,Not furnished,110,First floor,One to five years,Monthly,160
+Muscat,One,One,Partially furnished,70,Ground floor,Zero to eleven months,Monthly,140
+Muscat,One,One,Fully furnished,150,Basement floor,Zero to eleven months,Daily,15
+Muscat,One,One,Fully furnished,450,Ground floor,Zero to eleven months,Monthly,15
+Muscat,Studio,One,Not furnished,70,Ground floor,Zero to eleven months,Monthly,135
+Muscat,One,One,Not furnished,60,Sixth floor and up,Six to nine years,Yearly,180
+Muscat,Two,Three,Not furnished,140,Sixth floor and up,One to five years,Yearly,400
+Dhofar,Five,Five or more,Fully furnished,300,First floor,ten to nineteen years,Daily,40
+Muscat,Three,Three,Not furnished,250,First floor,One to five years,Monthly,130
+Muscat,Two,Two,Fully furnished,100,First floor,One to five years,Daily,25
+Dhofar,One,One,Fully furnished,130,Ground floor,One to five years,Daily,20
+Dhofar,Two,Two,Fully furnished,200,First floor,Zero to eleven months,Daily,18
+Muscat,Two,Two,Not furnished,112,Fourth floor,One to five years,Monthly,200
+Muscat,One,Two,Not furnished,70,Second floor,One to five years,Yearly,270
+Muscat,Three,Three,Not furnished,150,Sixth floor and up,One to five years,Yearly,500
+Dhofar,Two,Two,Fully furnished,100,First floor,One to five years,Daily,23
+Dhofar,Studio,One,Fully furnished,150,First floor,One to five years,Yearly,80
+Muscat,Five,Four,Not furnished,500,Second floor,Six to nine years,Monthly,300
+Ad Dakhiliyah,Two,Two,Not furnished,120,Second floor,One to five years,Monthly,100
+Dhofar,Two,Two,Fully furnished,300,First floor,One to five years,Daily,20
+Muscat,Two,Two,Not furnished,90,Second floor,Zero to eleven months,Monthly,180
+Muscat,One,One,Fully furnished,200,Second floor,One to five years,Monthly,250
+Muscat,One,Two,Not furnished,68,First floor,One to five years,Yearly,300
+Muscat,Three,Two,Not furnished,150,Second floor,Six to nine years,Yearly,320
+Muscat,One,One,Not furnished,250,First floor,One to five years,Yearly,80
+Muscat,Three,Two,Not furnished,250,Second floor,One to five years,Yearly,230
+Muscat,Three,Two,Not furnished,250,Second floor,One to five years,Yearly,210
+Muscat,Five,Five or more,Not furnished,250,Ground floor,One to five years,Yearly,500
+Muscat,Three,Two,Not furnished,250,Third floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Three,Two,Not furnished,125,Ground floor,Six to nine years,Monthly,150
+Muscat,Three,Three,Not furnished,117,Second floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,120,Second floor,One to five years,Yearly,260
+Al Wusta,Two,Two,Fully furnished,50,Basement floor,Zero to eleven months,Daily,25
+Muscat,Two,Two,Not furnished,130,Second floor,One to five years,Monthly,140
+Muscat,One,Two,Not furnished,200,First floor,One to five years,Yearly,200
+Muscat,Three,Three,Not furnished,170,Sixth floor and up,One to five years,Yearly,500
+Muscat,One,One,Not furnished,99,Ground floor,One to five years,Yearly,550
+Dhofar,Two,One,Fully furnished,500,Second floor,Twenty years or more,Daily,12
+Muscat,Two,Two,Not furnished,200,Second floor,One to five years,Yearly,160
+Muscat,Two,Three,Not furnished,200,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,200,First floor,One to five years,Yearly,160
+Muscat,Two,Three,Not furnished,200,First floor,One to five years,Yearly,230
+Ash Sharqiyah,Three,Three,Partially furnished,160,Ground floor,One to five years,Monthly,130
+Dhofar,Two,Two,Fully furnished,120,First floor,One to five years,Monthly,115
+Dhofar,Two,Two,Fully furnished,77,Basement floor,Six to nine years,Daily,15
+Dhofar,Studio,One,Fully furnished,60,First floor,Zero to eleven months,Monthly,70
+Dhofar,Two,One,Fully furnished,600,First floor,Zero to eleven months,Daily,13
+Muscat,One,Two,Not furnished,72,Second floor,Six to nine years,Monthly,200
+Al Batinah,Two,Two,Fully furnished,66,First floor,Six to nine years,Yearly,90
+Muscat,Studio,One,Fully furnished,600,Ground floor,One to five years,Monthly,155
+Dhofar,Two,One,Fully furnished,50,Ground floor,One to five years,Daily,18
+Muscat,Two,Two,Not furnished,150,First floor,One to five years,Monthly,250
+Dhofar,Two,Two,Fully furnished,125,Ground floor,Zero to eleven months,Yearly,120
+Muscat,Two,Three,Not furnished,90,Ground floor,Zero to eleven months,Yearly,230
+Muscat,One,One,Not furnished,65,Second floor,ten to nineteen years,Yearly,115
+Muscat,One,Two,Fully furnished,80,Second floor,One to five years,Monthly,180
+Al Batinah,Studio,One,Not furnished,70,First floor,One to five years,Monthly,70
+Dhofar,One,One,Fully furnished,79,Fourth floor,One to five years,Daily,25
+Ad Dakhiliyah,Three,Three,Not furnished,150,First floor,One to five years,Monthly,120
+Dhofar,Two,Two,Fully furnished,100,First floor,ten to nineteen years,Monthly,120
+Ad Dhahirah,Two,Two,Fully furnished,100,Ground floor,One to five years,Monthly,80
+Dhofar,Three,Two,Fully furnished,103,First floor,Zero to eleven months,Daily,35
+Muscat,Two,Three,Not furnished,100,Fourth floor,One to five years,Monthly,220
+Dhofar,Two,Two,Fully furnished,600,Ground floor,One to five years,Monthly,150
+Dhofar,Two,Two,Fully furnished,200,First floor,One to five years,Daily,13
+Muscat,Two,Three,Not furnished,85,Fifth floor,One to five years,Monthly,195
+Ash Sharqiyah,Three,Three,Fully furnished,150,Ground floor,Zero to eleven months,Monthly,130
+Muscat,Two,Two,Not furnished,110,Sixth floor and up,One to five years,Monthly,300
+Muscat,Four,Five or more,Not furnished,248,Ground floor,Twenty years or more,Monthly,700
+Muscat,Two,Two,Not furnished,64,Ground floor,One to five years,Monthly,350
+Dhofar,Three,Four,Fully furnished,180,Basement floor,One to five years,Daily,35
+Muscat,Three,Three,Not furnished,220,First floor,Six to nine years,Monthly,320
+Muscat,Three,Three,Fully furnished,200,First floor,One to five years,Monthly,370
+Dhofar,Two,Two,Fully furnished,200,Ground floor,One to five years,Daily,20
+Dhofar,Three,Three,Fully furnished,600,Ground floor,One to five years,Daily,10
+Muscat,Two,Two,Not furnished,110,Fifth floor,Six to nine years,Yearly,260
+Muscat,One,Two,Not furnished,74,Fourth floor,One to five years,Yearly,180
+Muscat,Two,Three,Not furnished,102,Second floor,One to five years,Yearly,270
+Muscat,Two,Two,Not furnished,120,First floor,Six to nine years,Yearly,300
+Muscat,Three,Four,Fully furnished,120,First floor,One to five years,Yearly,550
+Muscat,One,One,Fully furnished,80,First floor,One to five years,Yearly,250
+Muscat,Two,Three,Not furnished,100,Third floor,Six to nine years,Yearly,200
+Muscat,Two,Three,Not furnished,75,Second floor,Six to nine years,Yearly,325
+Muscat,Two,Three,Not furnished,85,First floor,One to five years,Yearly,350
+Muscat,Three,Three,Not furnished,75,Second floor,Six to nine years,Yearly,325
+Muscat,Two,Two,Not furnished,60,First floor,Six to nine years,Yearly,225
+Muscat,Two,Three,Not furnished,75,First floor,Six to nine years,Yearly,250
+Muscat,One,One,Not furnished,75,Fifth floor,One to five years,Yearly,225
+Muscat,Two,Two,Not furnished,200,First floor,Six to nine years,Yearly,220
+Muscat,Two,Three,Fully furnished,150,First floor,One to five years,Yearly,500
+Dhofar,Three,Two,Fully furnished,72,Second floor,One to five years,Daily,27
+Muscat,Two,One,Not furnished,150,Basement floor,Twenty years or more,Yearly,120
+Muscat,Two,Three,Not furnished,300,First floor,One to five years,Yearly,230
+Dhofar,Five,Five or more,Fully furnished,500,Ground floor,One to five years,Daily,25
+Muscat,Two,Two,Not furnished,500,First floor,One to five years,Yearly,230
+Ash Sharqiyah,Three,Three,Fully furnished,100,Ground floor,One to five years,Monthly,240
+Muscat,Two,Three,Not furnished,500,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,250,Second floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,250,Second floor,One to five years,Yearly,210
+Muscat,Two,Two,Not furnished,500,First floor,One to five years,Yearly,160
+Muscat,Two,Three,Not furnished,120,Third floor,One to five years,Monthly,230
+Muscat,Two,Two,Not furnished,250,Second floor,One to five years,Yearly,220
+Muscat,Three,Two,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Three,Three,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Two,Two,Not furnished,250,Second floor,One to five years,Yearly,160
+Muscat,Two,Two,Not furnished,90,First floor,One to five years,Yearly,250
+Muscat,Two,Three,Not furnished,95,Second floor,Zero to eleven months,Yearly,160
+Dhofar,Three,Three,Fully furnished,200,First floor,One to five years,Daily,45
+Muscat,One,Two,Not furnished,65,First floor,One to five years,Yearly,350
+Dhofar,One,One,Fully furnished,100,First floor,One to five years,Daily,13
+Muscat,Two,Three,Not furnished,95,Second floor,One to five years,Yearly,160
+Muscat,One,One,Not furnished,80,First floor,One to five years,Yearly,180
+Muscat,Two,Two,Not furnished,90,Second floor,One to five years,Yearly,160
+Muscat,Two,Two,Not furnished,85,Fifth floor,One to five years,Yearly,250
+Dhofar,Two,Two,Fully furnished,180,First floor,One to five years,Daily,20
+Al Batinah,Two,Two,Not furnished,200,Ground floor,One to five years,Monthly,140
+Muscat,Three,Two,Not furnished,95,Second floor,One to five years,Yearly,210
+Muscat,Three,Two,Not furnished,120,Second floor,Zero to eleven months,Monthly,250
+Muscat,Two,Two,Not furnished,105,Fifth floor,One to five years,Monthly,215
+Muscat,Two,Three,Fully furnished,130,First floor,One to five years,Yearly,300
+Muscat,Two,Three,Fully furnished,120,Second floor,One to five years,Monthly,320
+Muscat,Two,Two,Fully furnished,100,Fourth floor,Twenty years or more,Yearly,320
+Muscat,Two,Two,Not furnished,120,Second floor,Zero to eleven months,Monthly,130
+Muscat,Two,Three,Partially furnished,105,Fourth floor,One to five years,Monthly,400
+Dhofar,Three,Three,Fully furnished,200,Ground floor,Six to nine years,Daily,35
+Ad Dakhiliyah,Two,Two,Fully furnished,150,First floor,One to five years,Daily,20
+Dhofar,One,One,Fully furnished,100,First floor,One to five years,Daily,15
+Ash Sharqiyah,One,One,Partially furnished,80,Basement floor,Zero to eleven months,Yearly,90
+Muscat,Three,Three,Not furnished,170,Second floor,One to five years,Yearly,220
+Dhofar,Three,Three,Not furnished,300,Ground floor,One to five years,Monthly,225
+Dhofar,Two,Two,Fully furnished,66,Second floor,Six to nine years,Yearly,100
+Muscat,Studio,One,Fully furnished,55,Ground floor,One to five years,Monthly,120
+Muscat,Two,Two,Not furnished,109,First floor,Zero to eleven months,Yearly,250
+Muscat,Two,Two,Not furnished,90,Second floor,One to five years,Daily,130
+Muscat,Studio,One,Not furnished,60,Ground floor,One to five years,Monthly,150
+Muscat,Two,Three,Not furnished,150,First floor,One to five years,Yearly,350
+Al Batinah,Two,Two,Not furnished,90,First floor,Zero to eleven months,Monthly,80
+Muscat,One,One,Fully furnished,200,Ground floor,One to five years,Monthly,240
+Al Wusta,Two,Two,Not furnished,100,First floor,One to five years,Monthly,200
+Dhofar,Three,Two,Fully furnished,180,First floor,One to five years,Daily,20
+Dhofar,Two,Two,Fully furnished,100,Ground floor,Zero to eleven months,Daily,10
+Muscat,Three,Three,Not furnished,105,Ground floor,Six to nine years,Yearly,270
+Dhofar,Two,One,Fully furnished,100,Ground floor,Zero to eleven months,Yearly,120
+Dhofar,Two,Two,Fully furnished,105,Ground floor,One to five years,Daily,25
+Muscat,Studio,One,Fully furnished,50,Basement floor,Zero to eleven months,Monthly,80
+Al Batinah,Four,Three,Not furnished,150,Ground floor,Six to nine years,Monthly,110
+Muscat,One,One,Not furnished,50,Third floor,One to five years,Yearly,110
+Dhofar,Studio,One,Fully furnished,100,Ground floor,One to five years,Daily,50
+Muscat,Two,Two,Not furnished,250,Second floor,One to five years,Yearly,210
+Muscat,Three,Four,Not furnished,200,First floor,One to five years,Yearly,600
+Dhofar,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Daily,23
+Dhofar,Two,One,Fully furnished,400,Ground floor,One to five years,Daily,14
+Muscat,Two,Two,Not furnished,100,Second floor,Six to nine years,Yearly,220
+Muscat,Three,Two,Not furnished,100,Ground floor,One to five years,Yearly,210
+Dhofar,One,One,Fully furnished,100,First floor,One to five years,Daily,10
+Muscat,Two,Three,Not furnished,90,Third floor,One to five years,Yearly,200
+Muscat,Four,Three,Not furnished,150,First floor,Six to nine years,Yearly,250
+Muscat,Three,Two,Not furnished,100,First floor,ten to nineteen years,Monthly,180
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,310
+Muscat,Two,Two,Not furnished,120,Sixth floor and up,Zero to eleven months,Yearly,310
+Dhofar,Three,Four,Fully furnished,170,First floor,One to five years,Daily,28
+Muscat,Two,Two,Not furnished,100,Second floor,Six to nine years,Monthly,300
+Al Batinah,Studio,One,Not furnished,100,Sixth floor and up,One to five years,Monthly,75
+Muscat,Three,Three,Not furnished,80,Third floor,Zero to eleven months,Yearly,250
+Muscat,One,One,Fully furnished,68,Fifth floor,ten to nineteen years,Yearly,225
+Muscat,Two,Two,Not furnished,89,Sixth floor and up,Six to nine years,Monthly,200
+Dhofar,Two,One,Fully furnished,90,Second floor,Six to nine years,Yearly,100
+Al Buraimi,Two,One,Not furnished,80,Ground floor,Six to nine years,Monthly,50
+Muscat,One,Two,Fully furnished,100,Second floor,One to five years,Monthly,225
+Dhofar,Two,One,Fully furnished,350,Ground floor,ten to nineteen years,Daily,15
+Muscat,Two,Three,Not furnished,130,Third floor,One to five years,Yearly,375
+Muscat,Three,Three,Not furnished,190,Second floor,One to five years,Yearly,650
+Muscat,Three,Four,Not furnished,150,Third floor,One to five years,Yearly,450
+Muscat,Two,Three,Not furnished,110,Third floor,One to five years,Yearly,300
+Muscat,Two,Two,Not furnished,120,Sixth floor and up,One to five years,Yearly,325
+Muscat,One,Two,Not furnished,60,Second floor,One to five years,Yearly,450
+Muscat,Two,Two,Not furnished,120,First floor,Zero to eleven months,Yearly,300
+Muscat,One,One,Fully furnished,50,First floor,One to five years,Monthly,165
+Al Batinah,Two,Two,Not furnished,200,Ground floor,One to five years,Monthly,140
+Muscat,Two,Three,Fully furnished,140,Third floor,One to five years,Yearly,300
+Muscat,Two,Two,Fully furnished,350,First floor,Zero to eleven months,Daily,100
+Muscat,Two,Two,Not furnished,100,First floor,Six to nine years,Yearly,300
+Muscat,One,One,Partially furnished,70,First floor,One to five years,Yearly,300
+Muscat,One,Two,Not furnished,60,Third floor,Zero to eleven months,Yearly,225
+Muscat,Two,Two,Not furnished,120,Ground floor,ten to nineteen years,Yearly,400
+Muscat,Two,Three,Not furnished,130,Fifth floor,One to five years,Yearly,300
+Muscat,One,One,Not furnished,60,Fourth floor,Six to nine years,Yearly,210
+Muscat,One,One,Partially furnished,80,Sixth floor and up,One to five years,Yearly,450
+Dhofar,Two,One,Fully furnished,80,Ground floor,One to five years,Daily,16
+Al Batinah,Two,Two,Not furnished,300,Second floor,One to five years,Monthly,90
+Al Batinah,Three,Two,Not furnished,75,First floor,ten to nineteen years,Monthly,100
+Dhofar,Two,Two,Fully furnished,120,Ground floor,One to five years,Daily,20
+Muscat,One,Two,Not furnished,52,First floor,One to five years,Yearly,210
+Muscat,Two,Two,Not furnished,52,First floor,One to five years,Yearly,230
+Muscat,Two,Three,Not furnished,52,First floor,One to five years,Yearly,230
+Muscat,Two,Three,Not furnished,120,First floor,One to five years,Yearly,400
+Muscat,Three,Three,Partially furnished,150,First floor,One to five years,Yearly,550
+Muscat,One,Two,Not furnished,52,First floor,One to five years,Yearly,160
+Muscat,Two,Three,Not furnished,55,First floor,One to five years,Yearly,230
+Ad Dakhiliyah,Two,Two,Not furnished,125,First floor,Six to nine years,Monthly,100
+Muscat,Four,Five or more,Not furnished,500,Second floor,One to five years,Yearly,400
+Ad Dakhiliyah,Three,Four,Fully furnished,70,First floor,Zero to eleven months,Daily,35
+Muscat,Two,Three,Not furnished,150,Ground floor,Twenty years or more,Monthly,300
+Muscat,Two,Two,Fully furnished,130,Third floor,One to five years,Daily,325
+Muscat,Three,Two,Not furnished,100,First floor,One to five years,Monthly,150
+Al Batinah,Three,Three,Not furnished,200,Second floor,One to five years,Yearly,210
+Ad Dhahirah,Three,Three,Not furnished,123,First floor,Six to nine years,Monthly,120
+Muscat,Two,Two,Not furnished,90,Third floor,One to five years,Yearly,160
+Muscat,Three,Two,Not furnished,100,Ground floor,Six to nine years,Yearly,220
+Dhofar,Three,Two,Fully furnished,600,First floor,Zero to eleven months,Daily,15
+Muscat,Two,Two,Fully furnished,110,First floor,One to five years,Daily,22
+Dhofar,Two,Two,Fully furnished,80,Second floor,Six to nine years,Yearly,135
+Muscat,Two,Three,Partially furnished,100,First floor,Zero to eleven months,Monthly,220
+Dhofar,Two,Two,Fully furnished,450,Second floor,One to five years,Daily,18
+Dhofar,Two,Two,Fully furnished,85,Fourth floor,One to five years,Weekly,20
+Muscat,Two,Three,Fully furnished,100,First floor,Six to nine years,Monthly,300
+Dhofar,Two,Two,Fully furnished,100,Ground floor,One to five years,Daily,140
+Dhofar,Four,Three,Fully furnished,380,Ground floor,Zero to eleven months,Monthly,250
+Muscat,One,One,Not furnished,60,Second floor,Six to nine years,Monthly,130
+Muscat,Two,Two,Not furnished,100,Second floor,Zero to eleven months,Monthly,160
+Muscat,Studio,Three,Not furnished,100,First floor,Six to nine years,Yearly,150
+Dhofar,Two,Two,Fully furnished,87,Second floor,One to five years,Monthly,140
+Muscat,Studio,One,Fully furnished,90,First floor,Zero to eleven months,Monthly,250
+Muscat,Two,Three,Not furnished,140,Fourth floor,One to five years,Yearly,160
+Al Batinah,Two,Two,Not furnished,300,Second floor,One to five years,Monthly,80
+Dhofar,Two,Two,Fully furnished,130,First floor,One to five years,Daily,18
+Ad Dakhiliyah,One,One,Fully furnished,70,Second floor,Zero to eleven months,Daily,25
+Dhofar,Two,Three,Fully furnished,200,Ground floor,One to five years,Yearly,200
+Dhofar,Three,Four,Not furnished,210,Ground floor,One to five years,Yearly,225
+Dhofar,Three,Three,Fully furnished,600,First floor,One to five years,Daily,30
+Muscat,Two,Three,Not furnished,250,Second floor,One to five years,Yearly,230
+Al Batinah,Two,Two,Not furnished,100,First floor,One to five years,Monthly,120
+Muscat,Two,Two,Not furnished,250,Second floor,One to five years,Yearly,210
+Al Batinah,Three,Three,Not furnished,300,Second floor,One to five years,Monthly,120
+Al Batinah,Two,Two,Not furnished,150,Second floor,One to five years,Monthly,100
+Al Batinah,Three,Four,Not furnished,125,Ground floor,One to five years,Monthly,150
+Muscat,Three,Three,Partially furnished,118,First floor,Six to nine years,Monthly,180
+Muscat,Three,Three,Partially furnished,145,Sixth floor and up,One to five years,Yearly,650
+Muscat,Two,Two,Not furnished,100,Third floor,One to five years,Monthly,130
+Muscat,Two,Three,Not furnished,160,Second floor,One to five years,Monthly,310
+Muscat,Two,Two,Not furnished,100,Second floor,One to five years,Yearly,140
+Muscat,Three,Two,Not furnished,160,First floor,One to five years,Monthly,300
+Muscat,Four,Four,Not furnished,180,Second floor,Six to nine years,Yearly,125
+Muscat,One,One,Partially furnished,60,Fourth floor,One to five years,Yearly,310
+Dhofar,Three,Three,Fully furnished,180,Ground floor,One to five years,Daily,30
+Muscat,Two,Three,Not furnished,120,First floor,ten to nineteen years,Monthly,280
+Muscat,Two,Three,Fully furnished,170,Third floor,Zero to eleven months,Monthly,300
+Dhofar,Two,Two,Fully furnished,150,Ground floor,One to five years,Daily,100
+Dhofar,Two,Two,Fully furnished,90,First floor,One to five years,Yearly,130
+Ash Sharqiyah,Three,Three,Fully furnished,120,First floor,Zero to eleven months,Daily,20
+Muscat,Two,One,Not furnished,75,First floor,One to five years,Monthly,140
+Al Batinah,One,One,Fully furnished,600,Ground floor,One to five years,Daily,10
+Ad Dhahirah,Three,Two,Not furnished,120,Basement floor,One to five years,Monthly,100
+Muscat,Two,Three,Not furnished,90,First floor,One to five years,Monthly,230
+Muscat,Three,Three,Not furnished,97,Ground floor,ten to nineteen years,Monthly,140
+Muscat,Three,Two,Not furnished,111,Fifth floor,One to five years,Monthly,240
+Muscat,Studio,One,Not furnished,350,Basement floor,One to five years,Monthly,700
+Muscat,Two,Two,Not furnished,110,Fifth floor,Zero to eleven months,Yearly,180
+Muscat,Three,Three,Not furnished,100,First floor,One to five years,Monthly,220
+Muscat,Two,Three,Fully furnished,135,First floor,One to five years,Monthly,270
+Ash Sharqiyah,Two,Two,Fully furnished,50,Fourth floor,Six to nine years,Monthly,30
+Dhofar,Two,Two,Fully furnished,120,Second floor,Zero to eleven months,Daily,20
+Muscat,Three,Three,Fully furnished,130,Third floor,One to five years,Monthly,100
+Muscat,Two,Three,Not furnished,100,Second floor,One to five years,Monthly,240
+Muscat,Two,Two,Not furnished,90,First floor,One to five years,Yearly,140
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,500,First floor,One to five years,Yearly,230
+Muscat,Two,Two,Not furnished,80,Second floor,Six to nine years,Yearly,130
+Muscat,Two,Three,Not furnished,100,Third floor,One to five years,Monthly,300
+Muscat,Two,Two,Not furnished,600,Sixth floor and up,Six to nine years,Yearly,180
+Muscat,Two,Two,Not furnished,50,First floor,One to five years,Yearly,230
+Muscat,Studio,One,Fully furnished,50,Ground floor,Zero to eleven months,Monthly,150
+Muscat,Two,Three,Fully furnished,120,First floor,Zero to eleven months,Monthly,300
+Muscat,Two,Two,Not furnished,95,Second floor,One to five years,Monthly,290
+Muscat,Two,Two,Fully furnished,120,Fourth floor,Six to nine years,Daily,12
+Dhofar,Three,Three,Fully furnished,150,Ground floor,ten to nineteen years,Daily,30
+Dhofar,Three,Three,Fully furnished,200,First floor,One to five years,Daily,20
+Al Batinah,Two,Two,Not furnished,120,Second floor,One to five years,Monthly,80
+Muscat,Three,Three,Not furnished,85,Second floor,One to five years,Yearly,190
+Muscat,Two,Two,Not furnished,87,Fourth floor,One to five years,Yearly,260
+Dhofar,Three,Three,Fully furnished,119,Third floor,One to five years,Monthly,180
+Muscat,Three,Three,Not furnished,126,Third floor,One to five years,Monthly,130
+Ad Dakhiliyah,Three,Four,Fully furnished,150,Ground floor,Zero to eleven months,Monthly,230
+Dhofar,Three,Two,Fully furnished,128,First floor,One to five years,Monthly,100
+Dhofar,Two,One,Fully furnished,100,Fifth floor,One to five years,Daily,15
+Dhofar,One,One,Fully furnished,900,First floor,Six to nine years,Daily,15
+Muscat,Three,Three,Not furnished,200,First floor,Twenty years or more,Yearly,350
+Muscat,Two,Two,Fully furnished,130,Second floor,Six to nine years,Daily,18
+Muscat,Three,Three,Not furnished,125,Ground floor,Twenty years or more,Monthly,160
+Dhofar,Two,Two,Fully furnished,380,First floor,One to five years,Yearly,120
+Muscat,Two,Three,Fully furnished,116,Second floor,One to five years,Yearly,420
+Muscat,Three,Three,Not furnished,175,Ground floor,One to five years,Yearly,400
+Muscat,Two,Two,Not furnished,84,Second floor,One to five years,Monthly,150
+Muscat,One,Two,Not furnished,85,First floor,One to five years,Yearly,450
+Muscat,One,Two,Not furnished,100,Second floor,One to five years,Monthly,155
+Muscat,Two,Two,Not furnished,140,First floor,ten to nineteen years,Monthly,280
+Dhofar,Two,One,Fully furnished,110,Ground floor,One to five years,Yearly,110
+Dhofar,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Daily,13
+Muscat,Two,Two,Not furnished,130,Fifth floor,One to five years,Yearly,300
+Muscat,Three,Three,Not furnished,150,Basement floor,One to five years,Monthly,160
+Dhofar,Two,One,Fully furnished,70,Ground floor,ten to nineteen years,Yearly,100
+Muscat,Two,Three,Not furnished,135,Second floor,One to five years,Monthly,385
+Al Batinah,Three,One,Not furnished,100,Ground floor,Zero to eleven months,Monthly,120
+Muscat,Three,Three,Not furnished,95,Second floor,Six to nine years,Monthly,180
+Muscat,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Yearly,350
+Muscat,Three,Three,Not furnished,300,First floor,Six to nine years,Monthly,180
+Dhofar,Two,One,Fully furnished,90,First floor,Six to nine years,Daily,10
+Dhofar,Studio,One,Partially furnished,60,Ground floor,One to five years,Daily,10
+Dhofar,Studio,Two,Fully furnished,78,First floor,One to five years,Daily,18
+Muscat,Three,Three,Partially furnished,100,First floor,ten to nineteen years,Monthly,180
+Muscat,Two,Two,Fully furnished,100,Second floor,One to five years,Monthly,500
+Muscat,One,One,Not furnished,70,Third floor,Six to nine years,Yearly,180
+Muscat,Two,Two,Not furnished,110,Fifth floor,One to five years,Yearly,325
+Muscat,Two,Two,Fully furnished,50,First floor,Zero to eleven months,Monthly,350
+Muscat,One,Two,Fully furnished,100,First floor,One to five years,Monthly,225
+Muscat,One,One,Not furnished,60,Ground floor,Zero to eleven months,Monthly,100
+Muscat,Studio,One,Not furnished,70,First floor,Zero to eleven months,Monthly,130
+Muscat,Two,One,Fully furnished,150,First floor,Zero to eleven months,Monthly,210
+Dhofar,Two,Two,Fully furnished,230,First floor,One to five years,Daily,25
+Muscat,Two,Two,Not furnished,150,Second floor,Zero to eleven months,Monthly,350
+Muscat,Two,Two,Not furnished,130,Fourth floor,One to five years,Yearly,215
+Ad Dhahirah,Three,Three,Not furnished,800,Ground floor,Six to nine years,Monthly,100
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,90,First floor,ten to nineteen years,Yearly,125
+Muscat,Two,Two,Not furnished,90,First floor,Six to nine years,Yearly,150
+Muscat,Three,Two,Not furnished,90,First floor,Six to nine years,Yearly,135
+Muscat,Two,Two,Not furnished,95,First floor,One to five years,Yearly,200
+Muscat,Two,Three,Not furnished,100,First floor,One to five years,Yearly,170
+Muscat,Two,Two,Fully furnished,127,Sixth floor and up,One to five years,Yearly,230
+Dhofar,Two,Two,Fully furnished,140,Basement floor,One to five years,Daily,30
+Dhofar,Two,Two,Fully furnished,156,Ground floor,One to five years,Daily,30
+Dhofar,Four,Two,Fully furnished,400,Ground floor,Six to nine years,Daily,30
+Muscat,Four,Five or more,Fully furnished,200,Basement floor,Zero to eleven months,Monthly,550
+Muscat,One,Two,Fully furnished,100,Fourth floor,One to five years,Yearly,375
+Dhofar,Three,Three,Fully furnished,300,First floor,One to five years,Daily,40
+Muscat,Three,Two,Not furnished,100,First floor,One to five years,Monthly,120
+Dhofar,Two,Two,Fully furnished,660,First floor,One to five years,Daily,15
+Dhofar,Two,Two,Fully furnished,200,Ground floor,Zero to eleven months,Daily,80
+Dhofar,Two,Two,Fully furnished,600,Fifth floor,One to five years,Monthly,15
+Muscat,Two,Two,Fully furnished,95,Fourth floor,Zero to eleven months,Daily,45
+Dhofar,Two,One,Fully furnished,400,Ground floor,One to five years,Daily,23
+Muscat,Two,Two,Fully furnished,95,Fifth floor,Zero to eleven months,Daily,50
+Muscat,Two,Three,Not furnished,150,Sixth floor and up,One to five years,Yearly,210
+Muscat,Two,Three,Fully furnished,100,First floor,Zero to eleven months,Yearly,300
+Muscat,Two,Two,Not furnished,101,Fourth floor,One to five years,Yearly,280
+Dhofar,Two,Two,Fully furnished,90,Ground floor,One to five years,Daily,20
+Muscat,Two,Three,Not furnished,100,Fourth floor,One to five years,Yearly,190
+Dhofar,Two,Two,Fully furnished,95,First floor,One to five years,Daily,20
+Muscat,One,Two,Partially furnished,76,Fourth floor,One to five years,Monthly,280
+Al Wusta,Two,Two,Not furnished,120,Second floor,Zero to eleven months,Yearly,220
+Dhofar,Three,Two,Fully furnished,123,First floor,One to five years,Weekly,100
+Dhofar,Two,Two,Fully furnished,50,First floor,One to five years,Daily,12
+Dhofar,Two,Two,Fully furnished,120,Second floor,Six to nine years,Daily,25
+Dhofar,Three,Three,Fully furnished,270,Second floor,Zero to eleven months,Daily,40
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,300
+Muscat,Three,Three,Not furnished,150,First floor,Six to nine years,Yearly,310
+Dhofar,One,Two,Fully furnished,69,Fifth floor,One to five years,Monthly,350
+Muscat,One,One,Not furnished,80,First floor,Six to nine years,Yearly,225
+Muscat,Two,Two,Not furnished,80,First floor,Six to nine years,Yearly,250
+Muscat,Two,Two,Fully furnished,120,First floor,One to five years,Yearly,350
+Dhofar,Two,Two,Fully furnished,100,First floor,One to five years,Daily,10
+Dhofar,Two,Two,Fully furnished,100,Ground floor,One to five years,Daily,15
+Dhofar,Three,Four,Partially furnished,160,First floor,Zero to eleven months,Daily,25
+Al Batinah,Two,Two,Not furnished,100,Ground floor,Six to nine years,Monthly,100
+Ash Sharqiyah,One,Two,Fully furnished,65,Second floor,One to five years,Monthly,115
+Muscat,Two,Two,Not furnished,250,First floor,Zero to eleven months,Yearly,200
+Muscat,Three,Three,Not furnished,250,First floor,One to five years,Yearly,300
+Muscat,Three,Three,Not furnished,200,First floor,Six to nine years,Yearly,250
+Muscat,Two,Three,Not furnished,115,Second floor,Six to nine years,Monthly,260
+Muscat,One,One,Fully furnished,70,Sixth floor and up,Six to nine years,Monthly,190
+Al Batinah,Two,Two,Not furnished,400,Third floor,One to five years,Monthly,170
+Muscat,Studio,One,Not furnished,50,Ground floor,Twenty years or more,Weekly,140
+Al Batinah,Two,Two,Not furnished,100,Second floor,One to five years,Monthly,180
+Dhofar,Two,Two,Fully furnished,86,First floor,One to five years,Daily,25
+Dhofar,Three,Three,Fully furnished,300,Ground floor,One to five years,Daily,40
+Al Batinah,Three,Three,Partially furnished,300,Ground floor,Six to nine years,Monthly,120
+Dhofar,Two,Two,Fully furnished,200,Ground floor,One to five years,Daily,40
+Dhofar,Two,Two,Fully furnished,125,Ground floor,One to five years,Daily,150
+Muscat,Studio,One,Not furnished,100,Second floor,One to five years,Monthly,100
+Dhofar,Three,Three,Fully furnished,200,First floor,One to five years,Daily,30
+Dhofar,Two,Two,Fully furnished,70,Ground floor,Zero to eleven months,Daily,15
+Dhofar,Two,Two,Fully furnished,50,Second floor,One to five years,Daily,40
+Al Batinah,Two,Two,Not furnished,150,Ground floor,One to five years,Yearly,150
+Al Batinah,Two,Two,Not furnished,300,Second floor,One to five years,Monthly,130
+Al Batinah,Two,Two,Not furnished,300,Second floor,One to five years,Monthly,130
+Al Batinah,Two,Two,Not furnished,85,Second floor,ten to nineteen years,Monthly,90
+Muscat,Two,Two,Fully furnished,100,Second floor,Six to nine years,Yearly,150
+Al Batinah,Three,Two,Partially furnished,140,Ground floor,Zero to eleven months,Monthly,100
+Al Batinah,Two,Two,Partially furnished,85,First floor,Six to nine years,Monthly,90
+Dhofar,Two,Two,Fully furnished,120,First floor,One to five years,Daily,25
+Muscat,One,One,Partially furnished,65,Sixth floor and up,One to five years,Yearly,320
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,230
+Muscat,Three,Two,Not furnished,200,First floor,ten to nineteen years,Monthly,200
+Muscat,Four,Four,Fully furnished,142,Second floor,One to five years,Daily,20
+Muscat,One,Two,Not furnished,106,Fourth floor,One to five years,Yearly,155
+Al Buraimi,Two,Two,Fully furnished,300,Basement floor,Zero to eleven months,Monthly,50
+Muscat,Three,Three,Partially furnished,115,Ground floor,One to five years,Yearly,180
+Dhofar,One,One,Fully furnished,90,First floor,Zero to eleven months,Daily,10
+Dhofar,Two,One,Fully furnished,90,Ground floor,ten to nineteen years,Daily,20
+Al Batinah,Two,Two,Fully furnished,100,First floor,One to five years,Daily,15
+Muscat,Studio,Two,Not furnished,75,Sixth floor and up,Zero to eleven months,Monthly,155
+Muscat,Three,Three,Not furnished,210,First floor,Six to nine years,Monthly,370
+Muscat,Four,Three,Not furnished,125,First floor,Twenty years or more,Monthly,225
+Ad Dakhiliyah,Three,Four,Fully furnished,200,Ground floor,Zero to eleven months,Daily,35
+Muscat,Three,Two,Not furnished,120,First floor,One to five years,Yearly,160
+Ash Sharqiyah,Two,Three,Not furnished,100,First floor,Twenty years or more,Monthly,70
+Muscat,One,One,Not furnished,50,Ground floor,Zero to eleven months,Monthly,140
+Muscat,Two,Three,Not furnished,120,First floor,One to five years,Monthly,200
+Muscat,Three,Three,Fully furnished,170,First floor,One to five years,Weekly,18
+Muscat,Two,Two,Not furnished,120,Second floor,Six to nine years,Monthly,220
+Dhofar,Three,Three,Fully furnished,300,Ground floor,One to five years,Daily,45
+Dhofar,Two,Two,Fully furnished,160,First floor,One to five years,Daily,130
+Muscat,Three,Three,Not furnished,450,First floor,One to five years,Yearly,500
+Muscat,Six or more,Five or more,Not furnished,425,First floor,One to five years,Monthly,400
+Muscat,One,One,Not furnished,60,Ground floor,Six to nine years,Yearly,225
+Muscat,Two,Two,Not furnished,120,Ground floor,ten to nineteen years,Yearly,375
+Muscat,Two,Three,Not furnished,120,Third floor,One to five years,Yearly,300
+Muscat,Two,Two,Not furnished,120,Third floor,One to five years,Yearly,275
+Muscat,Two,Three,Not furnished,120,Fifth floor,Six to nine years,Yearly,230
+Muscat,One,Two,Not furnished,100,Sixth floor and up,One to five years,Yearly,450
+Muscat,Two,Two,Partially furnished,120,Sixth floor and up,One to five years,Yearly,410
+Muscat,Two,Three,Not furnished,110,Second floor,One to five years,Yearly,260
+Muscat,Two,Three,Partially furnished,120,Second floor,One to five years,Yearly,550
+Muscat,One,Two,Fully furnished,80,Second floor,One to five years,Yearly,580
+Muscat,Two,Three,Not furnished,120,Sixth floor and up,One to five years,Yearly,350
+Dhofar,Two,Two,Fully furnished,120,Second floor,One to five years,Daily,15
+Muscat,Three,Three,Fully furnished,150,First floor,One to five years,Monthly,600
+Muscat,Three,Three,Not furnished,138,Sixth floor and up,One to five years,Yearly,420
+Al Batinah,Two,Two,Fully furnished,150,Second floor,One to five years,Monthly,230
+Muscat,Four,Three,Not furnished,150,Ground floor,Six to nine years,Monthly,280
+Al Batinah,Two,Two,Not furnished,100,Second floor,Zero to eleven months,Yearly,100
+Al Batinah,Two,Two,Not furnished,150,Ground floor,One to five years,Monthly,130
+Al Batinah,Three,Two,Not furnished,130,Ground floor,Six to nine years,Monthly,125
+Al Batinah,Studio,Two,Not furnished,100,First floor,One to five years,Monthly,120
+Al Wusta,Three,Two,Fully furnished,95,Fifth floor,Zero to eleven months,Monthly,450
+Al Batinah,Two,Two,Fully furnished,666,First floor,ten to nineteen years,Yearly,10
+Muscat,Three,Three,Fully furnished,140,Fifth floor,One to five years,Monthly,500
+Muscat,One,Two,Partially furnished,85,Sixth floor and up,Zero to eleven months,Monthly,195
+Muscat,Three,Three,Fully furnished,250,Ground floor,One to five years,Monthly,370
+Muscat,Two,Three,Not furnished,110,First floor,One to five years,Yearly,250
+Dhofar,Three,Two,Fully furnished,160,Ground floor,Zero to eleven months,Daily,30
+Al Batinah,Three,Two,Not furnished,80,First floor,Six to nine years,Monthly,90
+Muscat,Two,Two,Partially furnished,125,First floor,One to five years,Monthly,280
+Muscat,One,One,Fully furnished,100,Fourth floor,Six to nine years,Monthly,280
+Muscat,One,One,Not furnished,65,Ground floor,Six to nine years,Yearly,120
+Al Batinah,Two,Two,Not furnished,100,First floor,One to five years,Yearly,150
+Muscat,One,One,Fully furnished,100,Fourth floor,Six to nine years,Monthly,280
+Dhofar,Two,Two,Fully furnished,75,First floor,Six to nine years,Daily,25
+Dhofar,Two,Two,Fully furnished,90,Ground floor,Zero to eleven months,Daily,22
+Muscat,Two,Two,Fully furnished,120,Fourth floor,Six to nine years,Monthly,350
+Muscat,Two,Three,Fully furnished,120,Sixth floor and up,Six to nine years,Monthly,305
+Muscat,Three,Two,Not furnished,100,First floor,ten to nineteen years,Yearly,180
+Muscat,Two,Three,Fully furnished,120,Third floor,Six to nine years,Monthly,305
+Dhofar,Two,Two,Fully furnished,100,Ground floor,Zero to eleven months,Daily,25
+Muscat,Two,Two,Fully furnished,120,Fifth floor,One to five years,Monthly,350
+Ash Sharqiyah,Three,Three,Not furnished,200,Ground floor,One to five years,Monthly,150
+Muscat,One,One,Fully furnished,60,First floor,One to five years,Monthly,200
+Dhofar,Two,Two,Fully furnished,80,First floor,Zero to eleven months,Daily,25
+Muscat,Three,Three,Not furnished,127,Fourth floor,One to five years,Yearly,250
+Muscat,Two,Two,Not furnished,100,First floor,ten to nineteen years,Yearly,180
+Dhofar,Two,Two,Fully furnished,100,Second floor,One to five years,Daily,25
+Muscat,Two,Two,Not furnished,120,Second floor,One to five years,Yearly,550
+Muscat,Two,Two,Not furnished,125,Third floor,One to five years,Yearly,270
+Ash Sharqiyah,One,One,Fully furnished,150,First floor,Zero to eleven months,Monthly,40
+Muscat,Four,Three,Not furnished,300,First floor,ten to nineteen years,Monthly,200
+Al Buraimi,Three,Two,Not furnished,80,First floor,Twenty years or more,Monthly,150
+Dhofar,Three,Two,Fully furnished,120,Ground floor,One to five years,Yearly,150
+Muscat,Two,Three,Not furnished,100,Third floor,One to five years,Yearly,220
+Muscat,Two,Two,Not furnished,116,First floor,Six to nine years,Yearly,600
+Dhofar,Four,Three,Fully furnished,200,Ground floor,Six to nine years,Daily,45
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,325
+Muscat,Three,Two,Not furnished,150,First floor,One to five years,Yearly,525
+Muscat,Two,Two,Not furnished,80,First floor,One to five years,Yearly,330
+Dhofar,Four,Two,Fully furnished,125,First floor,ten to nineteen years,Daily,35
+Muscat,Two,Two,Fully furnished,117,Sixth floor and up,One to five years,Yearly,550
+Muscat,One,One,Fully furnished,300,Second floor,One to five years,Monthly,130
+Muscat,One,Two,Not furnished,78,First floor,Zero to eleven months,Yearly,270
+Muscat,One,Two,Not furnished,110,Fifth floor,Zero to eleven months,Yearly,210
+Muscat,Two,Three,Not furnished,110,Sixth floor and up,Zero to eleven months,Yearly,250
+Muscat,Two,Two,Not furnished,150,Ground floor,One to five years,Yearly,650
+Muscat,Two,Two,Not furnished,115,Sixth floor and up,One to five years,Yearly,250
+Muscat,Three,Two,Not furnished,111,Second floor,One to five years,Yearly,325
+Al Buraimi,Studio,One,Partially furnished,50,First floor,Six to nine years,Yearly,40
+Muscat,Two,Two,Not furnished,111,First floor,One to five years,Yearly,240
+Muscat,Two,Two,Not furnished,65,First floor,One to five years,Yearly,230
+Muscat,Four,Three,Not furnished,200,Ground floor,Twenty years or more,Yearly,230
+Muscat,One,Two,Not furnished,236,First floor,One to five years,Yearly,140
+Muscat,Two,Two,Not furnished,253,First floor,One to five years,Yearly,270
+Muscat,One,One,Not furnished,135,Ground floor,One to five years,Yearly,550
+Muscat,Three,Two,Not furnished,150,First floor,Six to nine years,Monthly,250
+Dhofar,One,One,Fully furnished,100,Ground floor,Zero to eleven months,Daily,10
+Muscat,Two,Two,Fully furnished,130,Ground floor,One to five years,Monthly,340
+Ad Dakhiliyah,Two,Two,Not furnished,50,First floor,One to five years,Monthly,80
+Muscat,Two,Three,Not furnished,140,Basement floor,Zero to eleven months,Monthly,400
+Dhofar,Three,Four,Fully furnished,500,Ground floor,Zero to eleven months,Daily,25
+Muscat,Two,Three,Not furnished,100,First floor,Six to nine years,Monthly,180
+Dhofar,Four,Five or more,Fully furnished,280,Basement floor,Zero to eleven months,Daily,50
+Muscat,Two,Two,Fully furnished,85,Fifth floor,Zero to eleven months,Monthly,300
+Muscat,One,Two,Not furnished,85,Fourth floor,One to five years,Yearly,230
+Muscat,Five,Four,Not furnished,250,First floor,One to five years,Monthly,350
+Muscat,Two,Two,Fully furnished,100,Fifth floor,One to five years,Daily,18
+Muscat,Three,Three,Not furnished,150,Fifth floor,One to five years,Yearly,425
+Muscat,Three,Four,Partially furnished,125,Second floor,One to five years,Monthly,165
+Muscat,Two,Three,Fully furnished,190,Second floor,One to five years,Monthly,305
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,400
+Dhofar,Two,Two,Fully furnished,80,First floor,ten to nineteen years,Daily,35
+Muscat,Three,Two,Not furnished,200,First floor,One to five years,Monthly,150
+Muscat,Two,Two,Partially furnished,120,First floor,One to five years,Monthly,150
+Ash Sharqiyah,Two,One,Fully furnished,111,Ground floor,Zero to eleven months,Daily,25
+Muscat,Three,Two,Not furnished,120,First floor,ten to nineteen years,Monthly,210
+Dhofar,Three,Three,Fully furnished,222,Ground floor,Zero to eleven months,Daily,35
+Muscat,Three,Three,Not furnished,108,Ground floor,One to five years,Monthly,180
+Dhofar,Two,Two,Fully furnished,100,First floor,Six to nine years,Daily,23
+Al Batinah,Two,Two,Fully furnished,150,Second floor,One to five years,Monthly,220
+Dhofar,Two,Two,Fully furnished,250,First floor,Six to nine years,Monthly,120
+Dhofar,Four,Three,Fully furnished,50,Second floor,One to five years,Daily,25
+Dhofar,Two,Two,Not furnished,120,First floor,One to five years,Daily,90
+Muscat,Three,Three,Not furnished,130,Second floor,One to five years,Monthly,240
+Muscat,Six or more,Five or more,Not furnished,135,Second floor,Six to nine years,Yearly,650
+Ad Dhahirah,Two,Two,Not furnished,400,First floor,One to five years,Monthly,50
+Muscat,Studio,One,Fully furnished,603,First floor,One to five years,Monthly,150
+Al Batinah,Three,Two,Not furnished,500,First floor,Zero to eleven months,Monthly,120
+Muscat,One,One,Not furnished,90,Second floor,One to five years,Monthly,160
+Muscat,Two,Two,Not furnished,110,Second floor,Six to nine years,Monthly,200
+Muscat,Two,Two,Not furnished,120,Second floor,Six to nine years,Yearly,325
+Muscat,One,One,Not furnished,50,Basement floor,Six to nine years,Monthly,120
+Muscat,Three,Two,Not furnished,150,Second floor,Six to nine years,Yearly,350
+Al Batinah,Two,Two,Not furnished,90,First floor,Six to nine years,Monthly,70
+Dhofar,Three,Three,Fully furnished,175,First floor,One to five years,Daily,25
+Dhofar,Two,Two,Fully furnished,80,Third floor,One to five years,Daily,22
+Dhofar,Three,Three,Fully furnished,280,Ground floor,One to five years,Daily,45
+Muscat,Two,Two,Not furnished,120,Second floor,Zero to eleven months,Monthly,230
+Muscat,Two,Three,Not furnished,100,Ground floor,One to five years,Yearly,210
+Muscat,Three,Two,Fully furnished,120,First floor,One to five years,Daily,15
+Muscat,Two,Two,Partially furnished,156,Fourth floor,One to five years,Monthly,900
+Muscat,Two,Three,Not furnished,102,First floor,Six to nine years,Yearly,200
+Dhofar,Three,Three,Fully furnished,110,Ground floor,One to five years,Daily,30
+Muscat,Two,Two,Not furnished,110,Fifth floor,One to five years,Yearly,260
+Muscat,Two,Four,Not furnished,130,Fifth floor,Six to nine years,Yearly,300
+Muscat,Two,Three,Partially furnished,170,Ground floor,One to five years,Yearly,600
+Muscat,Two,Three,Not furnished,100,First floor,Six to nine years,Yearly,230
+Muscat,Two,Three,Not furnished,140,First floor,Six to nine years,Yearly,325
+Al Wusta,Three,Three,Not furnished,100,First floor,One to five years,Monthly,250
+Muscat,Three,Two,Partially furnished,125,First floor,One to five years,Yearly,150
+Dhofar,Two,Two,Fully furnished,250,Ground floor,Six to nine years,Daily,35
+Dhofar,Three,Two,Fully furnished,150,Fourth floor,One to five years,Daily,10
+Muscat,Two,Three,Not furnished,110,First floor,Zero to eleven months,Yearly,245
+Dhofar,Two,Two,Fully furnished,350,Second floor,One to five years,Daily,10
+Dhofar,Two,One,Fully furnished,200,Ground floor,Zero to eleven months,Daily,30
+Ash Sharqiyah,Studio,One,Not furnished,100,Ground floor,Six to nine years,Monthly,40
+Muscat,Three,Two,Not furnished,150,Second floor,ten to nineteen years,Monthly,250
+Muscat,Three,Three,Not furnished,119,Ground floor,One to five years,Monthly,150
+Al Batinah,Two,Two,Not furnished,96,First floor,One to five years,Monthly,100
+Muscat,Two,Two,Not furnished,91,Sixth floor and up,One to five years,Monthly,170
+Dhofar,Two,Two,Fully furnished,150,Ground floor,Zero to eleven months,Daily,15
+Ash Sharqiyah,Two,Two,Fully furnished,200,First floor,Six to nine years,Daily,20
+Dhofar,Two,Four,Fully furnished,190,First floor,One to five years,Daily,30
+Muscat,Four,Three,Partially furnished,130,Second floor,ten to nineteen years,Monthly,225
+Muscat,Two,Two,Not furnished,110,Second floor,Six to nine years,Yearly,250
+Muscat,Studio,Two,Fully furnished,90,First floor,Zero to eleven months,Daily,12
+Dhofar,Two,Two,Fully furnished,80,Ground floor,One to five years,Daily,25
+Muscat,Two,Two,Fully furnished,100,Fifth floor,Zero to eleven months,Daily,15
+Dhofar,Two,One,Fully furnished,300,Ground floor,Six to nine years,Daily,20
+Dhofar,Two,One,Fully furnished,93,Third floor,Six to nine years,Yearly,100
+Muscat,Two,Three,Fully furnished,105,Fourth floor,Zero to eleven months,Monthly,270
+Muscat,Two,Two,Not furnished,110,Fourth floor,Zero to eleven months,Yearly,180
+Muscat,Two,Three,Partially furnished,130,First floor,One to five years,Monthly,280
+Dhofar,Two,Two,Fully furnished,90,Third floor,Six to nine years,Daily,25
+Al Batinah,Two,Two,Partially furnished,150,Basement floor,ten to nineteen years,Monthly,100
+Al Batinah,Two,Three,Partially furnished,200,Ground floor,Zero to eleven months,Daily,30
+Muscat,One,One,Not furnished,100,First floor,Six to nine years,Yearly,170
+Muscat,Three,Three,Not furnished,150,First floor,Six to nine years,Yearly,450
+Muscat,Two,Two,Not furnished,105,Third floor,Zero to eleven months,Yearly,220
+Muscat,Two,Two,Not furnished,100,First floor,One to five years,Yearly,270
+Dhofar,Four,Five or more,Fully furnished,600,First floor,One to five years,Daily,50
+Muscat,Three,Two,Partially furnished,90,First floor,Twenty years or more,Monthly,220
+Al Batinah,Three,Two,Not furnished,140,Ground floor,One to five years,Monthly,100
+Muscat,Two,Two,Not furnished,98,Fourth floor,Zero to eleven months,Monthly,250
+Al Batinah,Three,Three,Fully furnished,145,Ground floor,Zero to eleven months,Monthly,200
+Dhofar,Two,Two,Fully furnished,150,Ground floor,One to five years,Yearly,200
+Dhofar,Two,Two,Fully furnished,80,First floor,One to five years,Daily,40
+Muscat,One,One,Not furnished,110,First floor,ten to nineteen years,Yearly,180
+Muscat,Two,Two,Not furnished,140,Ground floor,Six to nine years,Yearly,300
+Muscat,Three,Three,Not furnished,140,First floor,Six to nine years,Yearly,325
+Muscat,One,Two,Not furnished,60,Fifth floor,Six to nine years,Yearly,220
+Muscat,Two,Three,Not furnished,110,Fifth floor,Six to nine years,Yearly,275
+Muscat,Three,Three,Fully furnished,186,Second floor,One to five years,Monthly,600
+Muscat,One,Two,Not furnished,70,Fourth floor,One to five years,Yearly,210
+Dhofar,Two,One,Fully furnished,250,Third floor,Six to nine years,Daily,20
+Dhofar,Two,Two,Fully furnished,470,First floor,Six to nine years,Daily,15
+Muscat,One,Two,Not furnished,82,Sixth floor and up,One to five years,Yearly,170
+Dhofar,Two,Two,Fully furnished,140,First floor,One to five years,Daily,20
+Dhofar,Two,One,Fully furnished,111,Ground floor,One to five years,Daily,23
+Dhofar,Three,Two,Fully furnished,150,Ground floor,One to five years,Daily,30
+Dhofar,Two,Two,Fully furnished,70,Ground floor,Six to nine years,Daily,25
+Dhofar,Two,Two,Fully furnished,93,Fourth floor,One to five years,Daily,25
+Ad Dakhiliyah,Two,Two,Not furnished,90,Second floor,Zero to eleven months,Yearly,95
+Muscat,Two,Two,Not furnished,175,Second floor,One to five years,Monthly,140
+Muscat,Three,Three,Not furnished,90,First floor,One to five years,Yearly,210
+Dhofar,Two,Two,Fully furnished,300,Third floor,One to five years,Daily,20
+Dhofar,Studio,One,Fully furnished,80,Ground floor,One to five years,Daily,20
+Dhofar,Three,Two,Fully furnished,100,First floor,One to five years,Daily,30
+Dhofar,One,One,Fully furnished,100,Ground floor,ten to nineteen years,Daily,20
+Al Batinah,Three,Two,Not furnished,160,First floor,One to five years,Monthly,170
+Muscat,Three,Two,Not furnished,150,First floor,One to five years,Yearly,300
+Muscat,Three,Three,Not furnished,150,Second floor,Six to nine years,Monthly,180
+Muscat,Studio,One,Fully furnished,120,Second floor,One to five years,Monthly,150
+Muscat,One,Two,Fully furnished,70,Basement floor,Zero to eleven months,Daily,25
+Ad Dakhiliyah,Three,Two,Partially furnished,120,Ground floor,One to five years,Monthly,150
+Muscat,Four,Three,Not furnished,120,Ground floor,One to five years,Monthly,300
+Dhofar,One,One,Fully furnished,100,Ground floor,One to five years,Daily,12
+Muscat,Four,Four,Partially furnished,400,Ground floor,One to five years,Monthly,350
+Al Batinah,Three,Three,Not furnished,200,Second floor,One to five years,Yearly,120
+Al Batinah,Two,Two,Not furnished,150,Second floor,One to five years,Yearly,100
+Dhofar,Two,Two,Fully furnished,95,Ground floor,One to five years,Daily,20
+Dhofar,Four,Two,Fully furnished,125,Second floor,Six to nine years,Monthly,120
+Muscat,One,One,Not furnished,80,First floor,One to five years,Yearly,165
+Muscat,Two,Two,Not furnished,100,Second floor,Zero to eleven months,Yearly,160
+Dhofar,Two,Two,Fully furnished,200,Ground floor,One to five years,Daily,35
+Al Batinah,Two,Two,Partially furnished,100,First floor,One to five years,Monthly,90
+Dhofar,Two,Two,Fully furnished,180,Third floor,One to five years,Daily,30
+Ad Dhahirah,Two,Two,Partially furnished,85,First floor,Zero to eleven months,Monthly,130
+Al Batinah,Two,Two,Partially furnished,85,First floor,ten to nineteen years,Monthly,90
+Muscat,Three,Two,Not furnished,120,Ground floor,Twenty years or more,Monthly,180
+Al Batinah,Three,Three,Partially furnished,120,Ground floor,Zero to eleven months,Yearly,160
+Muscat,One,One,Not furnished,80,First floor,One to five years,Yearly,170
+Ad Dakhiliyah,Three,Two,Not furnished,100,First floor,One to five years,Monthly,100
+Muscat,Three,Three,Not furnished,200,Fifth floor,One to five years,Yearly,550
+Ad Dakhiliyah,Two,Three,Fully furnished,200,Ground floor,One to five years,Monthly,100
+Muscat,Three,Three,Not furnished,150,Third floor,One to five years,Yearly,160
+Muscat,Two,Three,Not furnished,115,Third floor,One to five years,Monthly,265
+Muscat,Two,Two,Not furnished,112,Ground floor,Zero to eleven months,Monthly,250
+Muscat,Two,Two,Not furnished,99,Second floor,Zero to eleven months,Yearly,270
+Dhofar,Studio,One,Fully furnished,120,Ground floor,Zero to eleven months,Daily,10
+Muscat,Two,Two,Partially furnished,120,First floor,One to five years,Yearly,700
+Muscat,Three,Three,Fully furnished,150,First floor,One to five years,Yearly,650
+Muscat,Studio,One,Not furnished,80,First floor,One to five years,Yearly,300
+Muscat,Three,Four,Not furnished,150,Fourth floor,Six to nine years,Yearly,450
+Dhofar,Four,One,Fully furnished,400,First floor,Zero to eleven months,Daily,100
+Muscat,One,One,Not furnished,60,Fifth floor,One to five years,Yearly,145
+Dhofar,Three,Three,Fully furnished,350,Ground floor,One to five years,Daily,30
+Dhofar,Three,Two,Fully furnished,120,Ground floor,One to five years,Daily,25
+Muscat,Two,Three,Fully furnished,93,Sixth floor and up,One to five years,Yearly,220
+Muscat,One,Two,Fully furnished,175,First floor,Zero to eleven months,Daily,25
+Muscat,Three,Two,Fully furnished,90,Fifth floor,ten to nineteen years,Monthly,330
+Dhofar,Two,Two,Not furnished,100,First floor,One to five years,Monthly,120
+Dhofar,One,One,Fully furnished,120,First floor,ten to nineteen years,Yearly,70
+Muscat,Three,Two,Fully furnished,112,First floor,One to five years,Monthly,300
+Dhofar,Three,Four,Fully furnished,300,Ground floor,One to five years,Daily,50
+Al Batinah,Three,Three,Fully furnished,100,Ground floor,Six to nine years,Monthly,160
+Muscat,One,One,Fully furnished,120,Second floor,One to five years,Monthly,150
+Muscat,Four,Three,Not furnished,185,Ground floor,ten to nineteen years,Monthly,230
+Muscat,Two,Two,Fully furnished,88,First floor,Zero to eleven months,Monthly,150
+Muscat,Four,Four,Not furnished,400,First floor,One to five years,Yearly,250
+Muscat,Two,Three,Not furnished,120,First floor,One to five years,Monthly,120
+Al Batinah,Two,Two,Fully furnished,90,Ground floor,Zero to eleven months,Yearly,130
+Dhofar,Two,Three,Fully furnished,600,Ground floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,154,Third floor,Six to nine years,Monthly,220
+Muscat,Two,Two,Fully furnished,80,First floor,Zero to eleven months,Yearly,170
+Muscat,Two,Three,Not furnished,100,Sixth floor and up,Six to nine years,Monthly,150
+Dhofar,Two,Two,Fully furnished,85,Third floor,One to five years,Daily,20
+Muscat,Two,Two,Fully furnished,100,First floor,Zero to eleven months,Daily,25
+Muscat,Two,Two,Not furnished,220,First floor,One to five years,Yearly,140
+Muscat,One,Two,Not furnished,60,Fourth floor,One to five years,Yearly,200
+Muscat,Two,Two,Not furnished,100,Third floor,One to five years,Yearly,325
+Muscat,Two,Two,Not furnished,120,First floor,One to five years,Yearly,275
+Muscat,Two,One,Fully furnished,108,Ground floor,One to five years,Yearly,130
+Dhofar,Three,Two,Fully furnished,120,First floor,One to five years,Daily,35
+Dhofar,Two,Two,Fully furnished,140,First floor,One to five years,Daily,28
+Muscat,Two,Two,Not furnished,80,Second floor,Six to nine years,Monthly,180
+Dhofar,One,One,Fully furnished,100,Ground floor,Twenty years or more,Daily,10
+Muscat,Two,Two,Not furnished,90,First floor,Six to nine years,Monthly,220
+Dhofar,Two,One,Fully furnished,200,Ground floor,One to five years,Daily,25
+Muscat,Three,Three,Not furnished,100,First floor,One to five years,Monthly,250
+Muscat,One,One,Fully furnished,90,First floor,Zero to eleven months,Monthly,230
+Dhofar,One,One,Fully furnished,80,Ground floor,One to five years,Daily,14
+Muscat,One,One,Not furnished,100,Third floor,One to five years,Monthly,100
+Muscat,Three,Three,Not furnished,150,Third floor,Six to nine years,Yearly,325
+Muscat,Two,Two,Not furnished,100,Third floor,Six to nine years,Yearly,275
+Muscat,Two,Three,Not furnished,140,Second floor,One to five years,Yearly,400
+Muscat,Two,Two,Not furnished,110,Second floor,One to five years,Yearly,260
+Muscat,One,Two,Not furnished,60,Fifth floor,One to five years,Yearly,225
+Muscat,Three,Two,Not furnished,169,Ground floor,One to five years,Yearly,575
+Dhofar,Two,Two,Fully furnished,100,First floor,One to five years,Daily,22
+Muscat,Studio,Two,Not furnished,68,Third floor,One to five years,Yearly,130
+Dhofar,Two,Two,Fully furnished,450,Second floor,Six to nine years,Monthly,135
+Muscat,Two,Three,Not furnished,120,Fifth floor,One to five years,Yearly,375
+Muscat,Two,Two,Not furnished,110,First floor,Six to nine years,Yearly,200
+Muscat,Two,Three,Not furnished,120,Sixth floor and up,One to five years,Yearly,300
+Muscat,One,Two,Not furnished,70,Third floor,One to five years,Yearly,300
+Muscat,Three,Two,Not furnished,120,Ground floor,ten to nineteen years,Monthly,130
+Muscat,One,One,Fully furnished,90,First floor,Zero to eleven months,Monthly,230
+Ad Dakhiliyah,Three,Three,Fully furnished,150,First floor,Zero to eleven months,Daily,35
+Muscat,Two,Three,Not furnished,120,First floor,Six to nine years,Yearly,275
+Muscat,Two,Three,Not furnished,110,Second floor,Six to nine years,Monthly,180
+Al Batinah,Three,One,Not furnished,100,First floor,Twenty years or more,Monthly,70
+Dhofar,Two,Two,Fully furnished,100,Ground floor,Zero to eleven months,Daily,15
+Dhofar,Two,Three,Fully furnished,70,Second floor,Six to nine years,Daily,25
+Dhofar,Two,Two,Fully furnished,300,Second floor,One to five years,Daily,25
+Muscat,Three,Three,Partially furnished,100,First floor,Zero to eleven months,Yearly,130
+Dhofar,Studio,One,Fully furnished,90,Sixth floor and up,One to five years,Daily,15
+Dhofar,Two,Two,Fully furnished,150,Ground floor,One to five years,Daily,25
+Muscat,Three,Three,Not furnished,600,Ground floor,One to five years,Monthly,200
